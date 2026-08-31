@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1630029",
+    "imdb_id": "tt1630029",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q3604746",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water"
+  },
+  "coverage_sha256": "fc9563e5113b665ac036a981ecfb3eb5a4c84a82604874785f67c12e2661d333",
+  "generated_at": "2026-08-31T18:38:43.126447+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/avatar-the-way-of-water.cache/cache.20230929.tar.xz",
+      "sha256": "393c3620b38dee42e08907e484836369755db55b6fc59a2bfc1e30c13cd2ee17",
+      "size": 10258235388
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/avatar-the-way-of-water.md",
+      "sha256": "3180bf99b7c71c74cd516dc08b9ef665b4bdf0f820d5bb043d9064220d0bbfa4",
+      "size": 1206
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/avatar-the-way-of-water.json",
+      "sha256": "a01274e6f8c62e55b1a332cd8fc3b6bb8295aaf6088f34dea39ee61d4e53adf5",
+      "size": 3522
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/avatar-the-way-of-water.json",
+      "sha256": "5771bca9c6a00512a21445d5af8d4a20687252eb10e17979832bcae6357f6c0f",
+      "size": 376
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+      "size": 79337
+    }
+  },
+  "media_object": "avatar-the-way-of-water",
+  "published_files": {
+    "data/csv/bytes/avatar-the-way-of-water-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "88acaf036a0d1ba0a13315f41a08fdd1c965ce57057db5f27c7a4ecc4e86a678",
+    "docs/itemized/avatar-the-way-of-water-sample-cache-audit.md": "b901bc89312da85d8673fe6973d6f9bc6220f916d5e699e1cf5d43d04bd5f01b",
+    "docs/itemized/figures/avatar-the-way-of-water-carto-4k.webp": "d4983aa682579698f1472219376f6ed4b6ca1591815df8933892a6b616c49511",
+    "docs/itemized/figures/avatar-the-way-of-water-carto.png": "9e7a59286d5432443bcd6dc23f108110cc839dbae1916809f25830192093288b",
+    "docs/itemized/figures/avatar-the-way-of-water-cumulative-detail-btiha-itemized-by-bytes.svg": "9e0953539599a253fb2b6876e438eb30e2b97e9f676f8289f1ae761120368bce",
+    "docs/itemized/figures/avatar-the-way-of-water-data-ge-1080p-4k.webp": "ec02cd4b2afc3335fc4170f86b5eef1f9dc611d049749621fe00fc11b69311e5",
+    "docs/itemized/figures/avatar-the-way-of-water-data-ge-1080p.webp": "b709de0f5cca4b3ed5c5c66074c871c9203a8466bb058836b5ee053b09c92b5f",
+    "docs/itemized/figures/avatar-the-way-of-water-data-lt-1080p-4k.webp": "5534036d8d435af1aecc075ae2782a24b0fb82b570f67ab87315392d2125a566",
+    "docs/itemized/figures/avatar-the-way-of-water-data-lt-1080p.webp": "f11e60b844aa069f943dc095a5a3cf008f994ab8d38546e53023fdf511942c4b",
+    "docs/itemized/figures/avatar-the-way-of-water-downloads-by-day-day.svg": "b92212e8caf5511458405b4978c4452b6a0459b671b65a647244f5f79524a150",
+    "docs/itemized/figures/avatar-the-way-of-water-downloads-by-week-avatar-the-way-of-water-week.svg": "7989dfb719258a3c0c4851a8a41ab37f5e084a1e46a7c53563adf07a271bc82f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/avatar-the-way-of-water/tmp/avatar-the-way-of-water-cumulative-btiha.geojson",
+        "sha256": "6e9e3d62ca5f7f2c4f2dd70ebb725b7d37afe79d8f4f88badb990d09ca1eae11",
+        "size": 341072881
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/avatar-the-way-of-water/tmp/avatar-the-way-of-water-cumulative-btiha-media-objects.json",
+        "sha256": "ba567b99b8a444b39175b03c7c4e3df17171f9de92ea002b5fd7b67b7eddbafa",
+        "size": 775636
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "avatar-the-way-of-water",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          38.0,
+          37.0,
+          35.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "Saint Petersburg",
+          "Frankfurt am Main",
+          "Seoul",
+          "Amsterdam",
+          "Krasnodar",
+          "Dublin",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          52.0,
+          39.0,
+          39.0,
+          38.0,
+          37.0,
+          36.0,
+          36.0,
+          32.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Chennai",
+          "Mumbai",
+          "Ashburn",
+          "Bengaluru",
+          "London",
+          "Saint Petersburg",
+          "Hyderabad",
+          "Seoul",
+          "Frankfurt am Main"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 41,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
