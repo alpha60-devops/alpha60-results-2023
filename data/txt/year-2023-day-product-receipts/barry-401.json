@@ -1,0 +1,14 @@
+{
+  "collection_key": "barry-401",
+  "day_products": 70,
+  "first_date": "2023-04-17",
+  "first_index": 1,
+  "geojson_data_version": "20260701",
+  "ip_geolocation_version": "6:1777968300",
+  "json_data_version": "2026-08-05",
+  "last_date": "2023-06-25",
+  "last_index": 70,
+  "schema": "alpha60-day-product-contract/1",
+  "sparse": false,
+  "status": "pass"
+}
