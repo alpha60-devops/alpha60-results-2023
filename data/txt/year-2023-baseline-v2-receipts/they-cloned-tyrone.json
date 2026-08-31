@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9873892",
+    "imdb_id": "tt9873892",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q104902025",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/They_Cloned_Tyrone"
+  },
+  "coverage_sha256": "90783ac753e19ce9443753f4d25b05cdd166ace7cfbdd201b77ff67c3f6bcecf",
+  "generated_at": "2026-08-31T22:01:08.378774+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/they-cloned-tyrone.cache/cache.20230928.tar.xz",
+      "sha256": "450277025481d6d6c42cd9fe8ce0ba39b36ea8e57d8de6aec4bb6e05b06cad73",
+      "size": 354230432
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/they-cloned-tyrone.md",
+      "sha256": "3074a12ab324d44cea65e7555302efa03e9598bbbad35eea3b54e234a5c83bf5",
+      "size": 569
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/they-cloned-tyrone.json",
+      "sha256": "448f2ac4a845da8cd0851d12a7b4d0011afef8c401aa2a578bc224bf7e973408",
+      "size": 2455
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/they-cloned-tyrone.json",
+      "sha256": "2baf05b591053677becee1ad0ae9debc1dc6227dd47b2edd62f8e26ee2417db5",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+      "size": 79337
+    }
+  },
+  "media_object": "they-cloned-tyrone",
+  "published_files": {
+    "data/csv/bytes/they-cloned-tyrone-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "5da69b04ab62807a2f3d9e186be86ec834791705ce0d5baf32f40d6d8e0a7c3b",
+    "docs/itemized/figures/they-cloned-tyrone-carto-4k.webp": "a994a9c230916c1a8ca231e0db99150ecb9aacefd7b09b894c335df6273d2871",
+    "docs/itemized/figures/they-cloned-tyrone-carto.png": "e2c49ab70b2dc9eb70ea9f3c27951e3c9695026eb529d60e19e0fea7858bd34d",
+    "docs/itemized/figures/they-cloned-tyrone-cumulative-detail-btiha-itemized-by-bytes.svg": "a098243a4d3c1def0093292cbae48ee8a5f1e3492eb1d91b68fcdac5977aba1f",
+    "docs/itemized/figures/they-cloned-tyrone-data-ge-1080p-4k.webp": "803bf2095337dd3c76a607cd532628205cd0e2e9d8d320888bab606a181ef77f",
+    "docs/itemized/figures/they-cloned-tyrone-data-ge-1080p.webp": "96447b60fac1e94185b6333852b636cc0698047dc9c93093d14c167817bc8a50",
+    "docs/itemized/figures/they-cloned-tyrone-data-lt-1080p-4k.webp": "3bcc60980ab950a26fbef4e27d6af66e1a39de32b88256748447b5ecc3bfbaed",
+    "docs/itemized/figures/they-cloned-tyrone-data-lt-1080p.webp": "23df6bfe2e13a74ee6134095a7233bcaae8cb801fd1411ca7798ecfb27dc0c44",
+    "docs/itemized/figures/they-cloned-tyrone-downloads-by-day-day.svg": "3b5241474d7d0b15df5ba9069ab9fe49de2219ea23c50b5989bd825becd78527",
+    "docs/itemized/figures/they-cloned-tyrone-downloads-by-week-they-cloned-tyrone-week.svg": "d0a77f7aa68666246fca2b33daf03ef40430267823f52020580a6b1fc9d4f5a6",
+    "docs/itemized/they-cloned-tyrone-sample-cache-audit.md": "108a32e11acf5e23930250203f7837ec85282f88edddce2ff76feb338011b15d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/they-cloned-tyrone/tmp/they-cloned-tyrone-cumulative-btiha.geojson",
+        "sha256": "5f7d1d4b1eb729c278daf9fd075d1c44a6a9968ce155a45e1b7b8564df0dba43",
+        "size": 44305430
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/they-cloned-tyrone/tmp/they-cloned-tyrone-cumulative-btiha-media-objects.json",
+        "sha256": "258600c76408dd578a68abf3302748d20651c42664f9980ffded6c7fd16ca45c",
+        "size": 276234
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "they-cloned-tyrone",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          68.0,
+          66.0,
+          49.0,
+          44.0,
+          42.0,
+          38.0,
+          38.0,
+          37.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Johannesburg",
+          "Moscow",
+          "Ashburn",
+          "Nairobi",
+          "New York City",
+          "Pretoria",
+          "Cape Town",
+          "Seoul",
+          "Accra"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          83.0,
+          78.0,
+          67.0,
+          52.0,
+          46.0,
+          43.0,
+          39.0,
+          36.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Johannesburg",
+          "London",
+          "Ashburn",
+          "Seoul",
+          "Pretoria",
+          "Saint Petersburg",
+          "Madrid",
+          "Amsterdam",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 39,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
