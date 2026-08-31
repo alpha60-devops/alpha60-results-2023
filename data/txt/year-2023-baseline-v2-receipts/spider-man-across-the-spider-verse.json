@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9362722",
+    "imdb_id": "tt9362722",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q76448600",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse"
+  },
+  "coverage_sha256": "839dc48ac01811e70a92302459299975f32612f938ea70770c403131f954871c",
+  "generated_at": "2026-08-31T23:36:39.313021+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/spider-man-across-the-spider-verse.cache/cache.20240205.tar.xz",
+      "sha256": "d4dc9138eeb084236a7af63f61710c2b13b085e301cac096c8a8cdc4438c0c30",
+      "size": 3740159500
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/spider-man-across-the-spider-verse.md",
+      "sha256": "10d74ad34df094b916d5033efb1a2781a2d6e39a9c7233ba291eabdf6733c0c8",
+      "size": 880
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/spider-man-across-the-spider-verse.json",
+      "sha256": "990c389ef8f366ba15914568db025e5657a2e033a8f58f387c30e110d1baba4d",
+      "size": 3501
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/spider-man-across-the-spider-verse.json",
+      "sha256": "ce15542dbcba098c7e6cce629831ef193cdfa0161fefb3fa7e12ec64f2be2a28",
+      "size": 387
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "spider-man-across-the-spider-verse",
+  "published_files": {
+    "data/csv/bytes/spider-man-across-the-spider-verse-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "89b5f7fcbada86442ec4fa3b011de2a22152a347d0bd19c479e555cb313327df",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-carto-4k.webp": "9724eccf61d118fe971fe8d53887ceff998748a83208b09a691995cacfb5f64e",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-carto.png": "0a5362894e5b9ab9936b846e567453cdcd734cc894ca61694295f4f4d093611a",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-cumulative-detail-btiha-itemized-by-bytes.svg": "a83b8e34ade4cc9bdaaae58cdeed8f5bab5a26c6a8ce34079195fbcf2e5767c8",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-data-ge-1080p-4k.webp": "98c81dcf972edaf3d5d7a39c1ea6100b88f70dfc8bb72e98e80429001dc0a1f0",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-data-ge-1080p.webp": "22913a5145ea646671a6dbe0935d78c6d803fb3eb96b203cf85f224ba1080772",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-data-lt-1080p-4k.webp": "44739713eecb9ad3b4312af7cc288119de8477cc9896396a82dde71df547f636",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-data-lt-1080p.webp": "9152e68ebe46c343889df350af93d02c834e966c1d9f08d2ddbb0cb3e1b5c6c3",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-downloads-by-day-day.svg": "5604d66fdcf9db6a09c4576b0290e0153b01a4409ae984397dbf4e0826e1ea75",
+    "docs/itemized/figures/spider-man-across-the-spider-verse-downloads-by-week-spider-man-across-the-spider-verse-week.svg": "6ae0ad56e373e9f15ff427ca0360dd8f2a3a2eff478aeec79ca709389789fe71",
+    "docs/itemized/spider-man-across-the-spider-verse-sample-cache-audit.md": "9b7200c7b14fbb82f70007b85658b0626e845f0d2b7aee9d960c431f81a41acf",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/spider-man-across-the-spider-verse/tmp/spider-man-across-the-spider-verse-cumulative-btiha.geojson",
+        "sha256": "2013bcde928767732c3ecad9915ec6bbbcab96870f125a945b7767ec40645a09",
+        "size": 430089775
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/spider-man-across-the-spider-verse/tmp/spider-man-across-the-spider-verse-cumulative-btiha-media-objects.json",
+        "sha256": "406387eed1e8891335f81ad952db02ef2a8e1c9ae057e09e1ef4889b30e220dc",
+        "size": 1601729
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "spider-man-across-the-spider-verse",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          50.0,
+          49.0,
+          44.0,
+          38.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Ashburn",
+          "Istanbul",
+          "Amsterdam",
+          "S\u00e3o Paulo",
+          "Lelystad",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          44.0,
+          43.0,
+          40.0,
+          33.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Chennai",
+          "Amsterdam",
+          "Lelystad",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 43,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 27,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
