@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9794044",
+    "imdb_id": "tt9794044",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q107125190",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Citadel_(TV_series)"
+  },
+  "coverage_sha256": "e53f51ce977e740ba3a9dce5b72dac60ca71ad8e27b20bcb20aee3d4d6c0b5bf",
+  "generated_at": "2026-08-31T19:00:14.201716+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/citadel-101.cache/cache.20230810.tar.xz",
+      "sha256": "594e627ffbf508a668b03003a23b5cdae4ebe7419f940b393e9837e1f5d8dc0e",
+      "size": 877747940
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/citadel-101.md",
+      "sha256": "f79c8138760f2187042f5a740ca933ae52be8c938aa2f83a09269d831571758f",
+      "size": 628
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/citadel-101.json",
+      "sha256": "e16a395137202f3f902c523f13f8fd274eadcdf344a8627a84967f173c177d65",
+      "size": 2330
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/citadel-101.json",
+      "sha256": "45fa74f409f47b172fb9863e108cbe7f1bc5e5e66ffdea743d5dd2ae3578dc34",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+      "size": 79337
+    }
+  },
+  "media_object": "citadel-101",
+  "published_files": {
+    "data/csv/bytes/citadel-101-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "ab7945500a0895a79320b93339b06913d011983a2537181f5a94dfdec916dbb5",
+    "docs/itemized/citadel-101-sample-cache-audit.md": "8f2da4434a1f15bed53e29dde5785b09ec7ed10a648300ad555425631fcc7877",
+    "docs/itemized/figures/citadel-101-carto-4k.webp": "0cdb6eb4c0c5914ce8cbab07e349d4c0e87245f872dda194eb4e2bcfa9cfc922",
+    "docs/itemized/figures/citadel-101-carto.png": "555afb8f775d065414ba60578999cff7d3eff694bfec850c513a52d916e139a6",
+    "docs/itemized/figures/citadel-101-cumulative-detail-btiha-itemized-by-bytes.svg": "8ed12f1158968caacbc8cffa90fc2e0a3d9f4876151592fac6bec7008e2c4be7",
+    "docs/itemized/figures/citadel-101-data-ge-1080p-4k.webp": "711bf0c1d2addafdee9569f397a739ff2aefd4792a88a39107e6a208ee3a5d55",
+    "docs/itemized/figures/citadel-101-data-ge-1080p.webp": "e3cb409e1e653ac1440a92ffee376dfc359ac5c1989d824fd6a0c736c005413d",
+    "docs/itemized/figures/citadel-101-data-lt-1080p-4k.webp": "4766eb2c4713a1507ad1a4577929a291ea9eb2bc63115caa643e6699235a5c9a",
+    "docs/itemized/figures/citadel-101-data-lt-1080p.webp": "01ee480e5cb8328766b3a68cc5a83b5913d5893499245107a28442dad5be5cce",
+    "docs/itemized/figures/citadel-101-downloads-by-day-day.svg": "d730b8afd411e640b6baab68dfbc37f452753f846fd3c8fdf1c44116f7983520",
+    "docs/itemized/figures/citadel-101-downloads-by-week-citadel-101-week.svg": "dfe6fc5b43b6c897318707e54b9e9740d960271f5118f1c9d65462ca8e843e41",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/citadel-101/tmp/citadel-101-cumulative-btiha.geojson",
+        "sha256": "00bbe450d7d8cbad95f7cb9b45f45e40ea33b763d5e96c67d6737a3895a8c3a6",
+        "size": 54941753
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/citadel-101/tmp/citadel-101-cumulative-btiha-media-objects.json",
+        "sha256": "3d62fff1cb443cf73e4bbcf5e72ac8de22c9291f7b5ca0fecc981a973a686fdd",
+        "size": 425134
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "citadel-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          59.0,
+          57.0,
+          46.0,
+          41.0,
+          31.0,
+          29.0,
+          27.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Amsterdam",
+          "London",
+          "Seoul",
+          "Shanghai",
+          "Johannesburg",
+          "Frankfurt am Main",
+          "Saint Petersburg",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          60.0,
+          46.0,
+          39.0,
+          38.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "London",
+          "Amsterdam",
+          "Johannesburg",
+          "Seoul",
+          "Saint Petersburg",
+          "Nairobi",
+          "Cape Town",
+          "Frankfurt am Main"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 37,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 8,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
