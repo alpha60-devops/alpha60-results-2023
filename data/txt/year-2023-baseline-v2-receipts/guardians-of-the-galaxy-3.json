@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6791350",
+    "imdb_id": "tt6791350",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q29226331",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3"
+  },
+  "coverage_sha256": "43a4bc4551d7298ed87e99c598055171ad805e8f45e395559f8c808b7ef5fa37",
+  "generated_at": "2026-08-31T20:33:47.735720+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/guardians-of-the-galaxy-3.cache/cache.20240104.tar.xz",
+      "sha256": "2c9e6b0e4d7f0706966972b72ef98ce56167326e1513cc14f4313c8c9721ff13",
+      "size": 5470615996
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/guardians-of-the-galaxy-3.md",
+      "sha256": "8b6b556da55c029b29faa614a189c45164d9392555dc867688ed35f91e584516",
+      "size": 583
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/guardians-of-the-galaxy-3.json",
+      "sha256": "b52690042e3d73fc594ff2b387adb2e88401389ebc76474ea8a4f8dbf4a48b77",
+      "size": 3467
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/guardians-of-the-galaxy-3.json",
+      "sha256": "bd54c460a1234362edc48379c67b14f2675160f660e6d6f4d2846e52340d2e36",
+      "size": 379
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "guardians-of-the-galaxy-3",
+  "published_files": {
+    "data/csv/bytes/guardians-of-the-galaxy-3-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "7a7d27d5ff643d9d7cabdba1cdf73d7548508578f857c73882181ae1b90f1ff2",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-carto-4k.webp": "ca70634b808ba7748503fea8244d570e9920e722acd446feb5e62fdbac02e062",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-carto.png": "6600adefc6365302a20e302b765e2a14b79b1c603728762437b45ff30e6443b3",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-cumulative-detail-btiha-itemized-by-bytes.svg": "80df923abeb8993ab90e68df64dc49a473d71b5cfd479fda1258718f0baa9de1",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-data-ge-1080p-4k.webp": "6d07d9a9eef7fb91c1bab0d429c226e0a257b672915f87feaef5cd1bd5bb16d1",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-data-ge-1080p.webp": "96bed97f9a195a6615c190493a3b79a8239b013d9d1d9627770f2b0ba800fb1b",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-data-lt-1080p-4k.webp": "004a4556795d1ea53e8b4ccc4026fc04283f45a65c329a8a984e81e48652a6dd",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-data-lt-1080p.webp": "825dbe9f1b80b53ef0b0b1694e36c832dd69429916b784218d184992be2eb196",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-downloads-by-day-day.svg": "6bf75879f25776d5fd56c0b70f4013322acc4b16e88441614f62acd2a1b13f66",
+    "docs/itemized/figures/guardians-of-the-galaxy-3-downloads-by-week-guardians-of-the-galaxy-3-week.svg": "f9dd21106a5a77708c451950b087d30064858c1d63ed9a089f03f5b5721bc344",
+    "docs/itemized/guardians-of-the-galaxy-3-sample-cache-audit.md": "398fe6a18aa8d9c4da56fd4d24df57b38d483f5453802108ef56af82e15a33b7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/guardians-of-the-galaxy-3/tmp/guardians-of-the-galaxy-3-cumulative-btiha.geojson",
+        "sha256": "a5a793fa9e12dfb53587fe5eebeaede542f1b296cbefc3ecc36d7a5301bae0c0",
+        "size": 542245934
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/guardians-of-the-galaxy-3/tmp/guardians-of-the-galaxy-3-cumulative-btiha-media-objects.json",
+        "sha256": "e31afe2c203567ca677ec4920d426a8c70a2c8f9a577e4bce32939cf88c0e34f",
+        "size": 3209559
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "guardians-of-the-galaxy-3",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          36.0,
+          36.0,
+          35.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Seoul",
+          "Krasnodar",
+          "Frankfurt am Main",
+          "Istanbul",
+          "S\u00e3o Paulo",
+          "Novosibirsk"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          47.0,
+          45.0,
+          42.0,
+          38.0,
+          27.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "Chennai",
+          "Istanbul",
+          "Frankfurt am Main",
+          "Hyderabad",
+          "Quezon City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 61,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
