@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13309742",
+    "imdb_id": "tt13309742",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q122899426",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blue_Eye_Samurai"
+  },
+  "coverage_sha256": "f7f8b8b60e2a7a3e801115b494cb1d33d595b085c52e6966de4cc5104034c1ee",
+  "generated_at": "2026-08-31T18:54:04.477969+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/blue-eye-samurai-01.cache/cache.20240112.tar.xz",
+      "sha256": "bca4330d16cc649aa647dfd3624415a3adfa806ddd495b4836b058050e04a4fd",
+      "size": 335196608
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/blue-eye-samurai-01.md",
+      "sha256": "68c49048d98a95314aa9e3af17a2acab3e5b3fd9b60d0f009b5cb6ef7041b15f",
+      "size": 571
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/blue-eye-samurai-01.json",
+      "sha256": "7d8e97482b7bc9d30487764ddf3d350b23592707ea6f5acf05e2ddac1172f7a3",
+      "size": 2458
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/blue-eye-samurai-01.json",
+      "sha256": "5b9fbeafdd475487a94b895b0932729f6e50f4fa8a2de85c787b2f257a0f8e09",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "blue-eye-samurai-01",
+  "published_files": {
+    "data/csv/bytes/blue-eye-samurai-01-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "d088e0c90d5987868266253181832febbfcd5e6295bd2448e069e67b802bee7d",
+    "docs/itemized/blue-eye-samurai-01-sample-cache-audit.md": "269d7bc8d1364c675abbaeab47f482787a592438726f7d08bb207fe9dd5fa57e",
+    "docs/itemized/figures/blue-eye-samurai-01-carto-4k.webp": "54fdb20fce768a4614eba60f02ccd58156386df17719aba4255820bae6a72070",
+    "docs/itemized/figures/blue-eye-samurai-01-carto.png": "bfbc94e100d02f95f8a7be5837880b157599f61df33026fb0f27a9e2fd229030",
+    "docs/itemized/figures/blue-eye-samurai-01-cumulative-detail-btiha-itemized-by-bytes.svg": "13ee687f5cbfbaea5eb4f8c6c4865b2b3c7653223c616013f26309418766a05c",
+    "docs/itemized/figures/blue-eye-samurai-01-data-ge-1080p-4k.webp": "d19187df826c0a02390d827569757440f5594a1accf032736c4d69620ced2fa5",
+    "docs/itemized/figures/blue-eye-samurai-01-data-ge-1080p.webp": "0b74d125d15e183912786fd0a883bd1a4fd5677b7512c6d855bccf0c0fa4fa23",
+    "docs/itemized/figures/blue-eye-samurai-01-data-lt-1080p-4k.webp": "2caf624c664f6e6a70a0a3acf1eafd1a14d83b75dd15b1d8c65a06428c847920",
+    "docs/itemized/figures/blue-eye-samurai-01-data-lt-1080p.webp": "9c4f24e342c0b4676e670f2ac1a073a86cfceb3868a00b9dcf56a179a2e943fa",
+    "docs/itemized/figures/blue-eye-samurai-01-downloads-by-day-day.svg": "72aca7b0218738a67aed1f960ad4d7298c405904242097664d17c01345890370",
+    "docs/itemized/figures/blue-eye-samurai-01-downloads-by-week-blue-eye-samurai-01-week.svg": "4a3b527e09b6f82b04e611e892fa08b7ce9a364539a4b96a80a8c9e45857fe8d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/blue-eye-samurai-01/tmp/blue-eye-samurai-01-cumulative-btiha.geojson",
+        "sha256": "aab3f10888c9e36a7728069eba8d1c6ee7378327d27d6974b760ebcad940a935",
+        "size": 79076870
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/blue-eye-samurai-01/tmp/blue-eye-samurai-01-cumulative-btiha-media-objects.json",
+        "sha256": "b3cb5fda8104c96b335abeb75038bcbaeea22c5ca63123e0989bd6aeb14a3b9b",
+        "size": 559408
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "blue-eye-samurai-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          54.0,
+          51.0,
+          48.0,
+          46.0,
+          43.0,
+          30.0,
+          28.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Ashburn",
+          "Shanghai",
+          "Saint Petersburg",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          62.0,
+          56.0,
+          45.0,
+          45.0,
+          38.0,
+          34.0,
+          32.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "Shanghai",
+          "Amsterdam",
+          "Lelystad",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 39,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
