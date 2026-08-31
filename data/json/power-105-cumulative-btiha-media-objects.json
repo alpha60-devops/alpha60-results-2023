@@ -1,0 +1,2979 @@
+{
+    "collection_name": "The Power",
+    "collection_id": "105",
+    "collection_key": "power-105",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "9da306c7aea0bc03b0a1d6a6401fdf9436521d39",
+            "duplicate_0_0": "The Power (2023) (S01E05) (1080p)",
+            "duplicate_0_1": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]",
+            "duplicate_0_2": "The.Power.S01E05.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "e7a2bed5e096d0820a4f36b0014ff45d251b77b3",
+            "duplicate_1_0": "The Power (2023) (S01E05) (480p)",
+            "duplicate_1_1": "The.Power.S01E05.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_1_2": "The.Power.S01E05.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "1072b5aec1cb5dc14ff6738d14d5c7a9643c7421",
+            "duplicate_2_0": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]-[rarbg.to]",
+            "duplicate_2_1": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "455b005673dffbec5229eb2a5958d91baa7684ac",
+            "duplicate_3_0": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]-[rarbg.to]",
+            "duplicate_3_1": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "54d86f6b8c9c090fd8b3c1c4bf5304990a09ae34",
+            "duplicate_4_0": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]-[rarbg.to]",
+            "duplicate_4_1": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "fb64289e4865bf513b082d2cc99d1886955717a6",
+            "duplicate_5_0": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]-[rarbg.to]",
+            "duplicate_5_1": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "a58423882e0cd9cdc4632987b9b10f736b81df3c",
+            "duplicate_6_0": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]-[rarbg.to]",
+            "duplicate_6_1": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "8efc0bd73c30dd71fafb31223fa8fb39ab699028",
+            "duplicate_7_0": "The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]-[rarbg.to]",
+            "duplicate_7_1": "The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ Torrent911.ws ] The.Power.S01E05.FRENCH.WEBRip.x264.mp4",
+            "size_total": 0.320665342,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.320665342,
+                    "path": "[ Torrent911.ws ] The.Power.S01E05.FRENCH.WEBRip.x264.mp4"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.ws ] The.Power.S01E05.VOSTFR.WEBRip.x264.mp4",
+            "size_total": 0.325072977,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.325072977,
+                    "path": "[ Torrent911.ws ] The.Power.S01E05.VOSTFR.WEBRip.x264.mp4"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The Power (2023) (S01E05) (1080p)",
+            "size_total": 4.157958759,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 4.157957559,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/the.power.s01e05.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000001071,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/the.power.s01e05.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The Power (2023) (S01E05) (480p)",
+            "size_total": 0.628926808,
+            "files_total": 45,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0000553,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/10_Danish.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000055412,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/11_Dutch.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00005616,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/12_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000057144,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/13_Filipino.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000055511,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/14_Finnish.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000055024,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/15_French.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000056543,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/16_French.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000055658,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/17_glg.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.00005682,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/18_German.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000080207,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/19_Greek.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.00007501,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/20_Hebrew.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000098472,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/21_Hindi.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000055815,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/22_Hungarian.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000057661,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/23_Indonesian.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000056372,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/24_Italian.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000058294,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/25_Japanese.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000106296,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/26_kan.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000057423,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/27_Korean.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000055402,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/28_Spanish.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000057358,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/29_Malay.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000007939,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000108555,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/30_mal.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000056882,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/31_Norwegian.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000056383,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/32_Polish.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000056432,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/33_Portuguese.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000054955,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/34_Portuguese.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.00005082,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/35_Romanian.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000076458,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/36_Russian.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000053272,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/37_Swedish.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000102978,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/38_Tamil.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000105919,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/39_Telugu.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000074811,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000102211,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/40_Thai.srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000057204,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/41_Turkish.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000072515,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/42_Ukrainian.srt"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000065289,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/43_Vietnamese.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000078295,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/4_Arabic.srt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.000055874,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/5_baq.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000055795,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/6_cat.srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000055818,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/7_Chinese.srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.000053643,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/8_Chinese.srt"
+                },
+                {
+                    "number": 44,
+                    "size": 0.000056882,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/9_Czech.srt"
+                },
+                {
+                    "number": 45,
+                    "size": 0.626205867,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/The.Power.S01E05.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The.Power.S01.400p.ColdFilm",
+            "size_total": 3.520943464,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.669029662,
+                    "path": "The.Power.S01.400p.ColdFilm/The.Power.S01E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.691921584,
+                    "path": "The.Power.S01.400p.ColdFilm/The.Power.S01E02.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.651086808,
+                    "path": "The.Power.S01.400p.ColdFilm/The.Power.S01E03.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.731187066,
+                    "path": "The.Power.S01.400p.ColdFilm/The.Power.S01E04.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.777718344,
+                    "path": "The.Power.S01.400p.ColdFilm/The.Power.S01E05.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The.Power.S01.720p.Ultradox",
+            "size_total": 5.011737552,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.219020089,
+                    "path": "The.Power.S01.720p.Ultradox/The.Power.S01E01.720p.Ultradox.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.271185288,
+                    "path": "The.Power.S01.720p.Ultradox/The.Power.S01E02.720p.Ultradox.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.181886465,
+                    "path": "The.Power.S01.720p.Ultradox/The.Power.S01E03.720p.Ultradox.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.33964571,
+                    "path": "The.Power.S01.720p.Ultradox/The.Power.S01E04.720p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The.Power.s01.HD720p.WEBRip.Rus.RuDub.tv",
+            "size_total": 9.300650031,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.756180845,
+                    "path": "The.Power.s01.HD720p.WEBRip.Rus.RuDub.tv/The.Power.s01e01.HD720p.WEBRip.Rus.RuDub.tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.828755981,
+                    "path": "The.Power.s01.HD720p.WEBRip.Rus.RuDub.tv/The.Power.s01e02.HD720p.WEBRip.Rus.RuDub.tv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.714557616,
+                    "path": "The.Power.s01.HD720p.WEBRip.Rus.RuDub.tv/The.Power.s01e03.HD720p.WEBRip.Rus.RuDub.tv.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.936789434,
+                    "path": "The.Power.s01.HD720p.WEBRip.Rus.RuDub.tv/The.Power.s01e04.HD720p.WEBRip.Rus.RuDub.tv.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.064366155,
+                    "path": "The.Power.s01.HD720p.WEBRip.Rus.RuDub.tv/The.Power.s01e05.HD720p.WEBRip.Rus.RuDub.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]-[rarbg.to]",
+            "size_total": 4.157354725,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.157354694,
+                    "path": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]",
+            "size_total": 4.157354725,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.157354694,
+                    "path": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[TGx]",
+            "size_total": 4.157355483,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.157354694,
+                    "path": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[TGx]/The.Power.S01E05.Scarlet.Minnow.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-WDYM.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Power.S01E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.5476843,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.005214415,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.005507678,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006786821,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.530174253,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta/The.Power.S01E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001133,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta/The.Power.S01E05.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.530174253,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.530174253,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.530176175,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.530174253,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[TGx]/The.Power.S01E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000001133,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[TGx]/The.Power.S01E05.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Power.S01E05.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 4.157961333,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 2,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 3,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 4,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 5,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 6,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 7,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 8,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 9,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 10,
+                    "size": 0.157958945,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.r09"
+                },
+                {
+                    "number": 11,
+                    "size": 0.4,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.72e-7,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/the.power.s01e05.1080p.web.h264-cakes.sfv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000001816,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "the.power.s01e05.1080p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 4.157957559,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.157957559,
+                    "path": "the.power.s01e05.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]",
+            "size_total": 4.157958759,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 4.157957559,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/the.power.s01e05.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000001071,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/the.power.s01e05.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Power.S01E05.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 4.157958759,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 4.157957559,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/the.power.s01e05.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000001071,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[rarbg]/the.power.s01e05.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Power.S01E05.1080p.WEB.H264-CAKES[TGx]",
+            "size_total": 4.157959419,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.157957559,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[TGx]/the.power.s01e05.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000001071,
+                    "path": "The.Power.S01E05.1080p.WEB.H264-CAKES[TGx]/the.power.s01e05.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Power.S01E05.1080p.x265-ELiTE",
+            "size_total": 0.615213424,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001382967,
+                    "path": "The.Power.S01E05.1080p.x265-ELiTE/Screens/The.Power.S01E05.1080p.x265-ELiTE.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001249976,
+                    "path": "The.Power.S01E05.1080p.x265-ELiTE/Screens/The.Power.S01E05.1080p.x265-ELiTE.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001604456,
+                    "path": "The.Power.S01E05.1080p.x265-ELiTE/Screens/The.Power.S01E05.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001272337,
+                    "path": "The.Power.S01E05.1080p.x265-ELiTE/Screens/The.Power.S01E05.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.609702173,
+                    "path": "The.Power.S01E05.1080p.x265-ELiTE/The.Power.S01E05.1080p.x265-ELiTE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001515,
+                    "path": "The.Power.S01E05.1080p.x265-ELiTE/The.Power.S01E05.1080p.x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]-[rarbg.to]",
+            "size_total": 9.548651,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.548650969,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.H.265-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]",
+            "size_total": 9.548651,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.548650969,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.H.265-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]-[rarbg.to]",
+            "size_total": 9.548625431,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.5486254,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]/The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX.mp4"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]",
+            "size_total": 9.548625431,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.5486254,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]/The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX.mp4"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]-[rarbg.to]",
+            "size_total": 6.945306193,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.945306162,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR10P.H.265-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]",
+            "size_total": 6.945306193,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.945306162,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR10P.H.265-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]-[rarbg.to]",
+            "size_total": 6.949420782,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.949420751,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]",
+            "size_total": 6.949420782,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.949420751,
+                    "path": "The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The.Power.S01E05.480p.x264-mSD [IPT]",
+            "size_total": 0.385887838,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000139824,
+                    "path": "The.Power.S01E05.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000164505,
+                    "path": "The.Power.S01E05.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00022225,
+                    "path": "The.Power.S01E05.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.385360297,
+                    "path": "The.Power.S01E05.480p.x264-mSD/The.Power.S01E05.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.62e-7,
+                    "path": "The.Power.S01E05.480p.x264-mSD/The.Power.S01E05.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Power.S01E05.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.385360297,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.385360297,
+                    "path": "The.Power.S01E05.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Power.S01E05.480p.x264-RUBiK",
+            "size_total": 0.392930816,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00036008,
+                    "path": "The.Power.S01E05.480p.x264-RUBiK/Screens/The.Power.S01E05.480p.x264-RUBiK.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00031129,
+                    "path": "The.Power.S01E05.480p.x264-RUBiK/Screens/The.Power.S01E05.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000401398,
+                    "path": "The.Power.S01E05.480p.x264-RUBiK/Screens/The.Power.S01E05.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000308071,
+                    "path": "The.Power.S01E05.480p.x264-RUBiK/Screens/The.Power.S01E05.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.391548468,
+                    "path": "The.Power.S01E05.480p.x264-RUBiK/The.Power.S01E05.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001509,
+                    "path": "The.Power.S01E05.480p.x264-RUBiK/The.Power.S01E05.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]-[rarbg.to]",
+            "size_total": 1.655191504,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.655191473,
+                    "path": "The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]",
+            "size_total": 1.655191504,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.655191473,
+                    "path": "The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]/The.Power.S01E05.Scarlet.Minnow.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-WDYM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Power.S01E05.720p.ColdFilm.mkv",
+            "size_total": 1.430289767,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.430289767,
+                    "path": "The.Power.S01E05.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Power.S01E05.720p.WEB.h264-EDITH [IPT]",
+            "size_total": 1.65511386,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 9.49e-7,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.055112044,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 8.67e-7,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH/the.power.s01e05.720p.web.h264-edith.sfv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Power.S01E05.720p.WEB.h264-EDITH[eztv.re].mkv",
+            "size_total": 1.65511014,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.65511014,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Power.S01E05.720p.WEB.h264-EDITH[TGx]",
+            "size_total": 1.655111878,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.65511014,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH[TGx]/The.Power.S01E05.720p.WEB.h264-EDITH.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 9.49e-7,
+                    "path": "The.Power.S01E05.720p.WEB.h264-EDITH[TGx]/the.power.s01e05.720p.web.h264-edith.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Power.S01E05.720p.WEBRip.x265-MiNX[TGx]",
+            "size_total": 0.22859267,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "The.Power.S01E05.720p.WEBRip.x265-MiNX[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.228591881,
+                    "path": "The.Power.S01E05.720p.WEBRip.x265-MiNX[TGx]/The.Power.S01E05.720p.WEBRip.x265-MiNX.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Power.S01E05.720p.WEBRip.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Power.S01E05.720p.x264-FENiX",
+            "size_total": 0.517561364,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000646743,
+                    "path": "The.Power.S01E05.720p.x264-FENiX/Screens/The.Power.S01E05.720p.x264-FENiX.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000594882,
+                    "path": "The.Power.S01E05.720p.x264-FENiX/Screens/The.Power.S01E05.720p.x264-FENiX.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00075614,
+                    "path": "The.Power.S01E05.720p.x264-FENiX/Screens/The.Power.S01E05.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000560035,
+                    "path": "The.Power.S01E05.720p.x264-FENiX/Screens/The.Power.S01E05.720p.x264-FENiX.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.515002056,
+                    "path": "The.Power.S01E05.720p.x264-FENiX/The.Power.S01E05.720p.x264-FENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001508,
+                    "path": "The.Power.S01E05.720p.x264-FENiX/The.Power.S01E05.720p.x264-FENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Power.S01E05.720p.x265-T0PAZ",
+            "size_total": 0.454446318,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000702333,
+                    "path": "The.Power.S01E05.720p.x265-T0PAZ/Screens/The.Power.S01E05.720p.x265-T0PAZ.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000613157,
+                    "path": "The.Power.S01E05.720p.x265-T0PAZ/Screens/The.Power.S01E05.720p.x265-T0PAZ.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000795745,
+                    "path": "The.Power.S01E05.720p.x265-T0PAZ/Screens/The.Power.S01E05.720p.x265-T0PAZ.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000650052,
+                    "path": "The.Power.S01E05.720p.x265-T0PAZ/Screens/The.Power.S01E05.720p.x265-T0PAZ.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.451683519,
+                    "path": "The.Power.S01E05.720p.x265-T0PAZ/The.Power.S01E05.720p.x265-T0PAZ.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001512,
+                    "path": "The.Power.S01E05.720p.x265-T0PAZ/The.Power.S01E05.720p.x265-T0PAZ.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Power.S01E05.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.178222899,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000164366,
+                    "path": "The.Power.S01E05.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000187993,
+                    "path": "The.Power.S01E05.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000252475,
+                    "path": "The.Power.S01E05.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.177616846,
+                    "path": "The.Power.S01E05.AAC.MP4-Mobile/The.Power.S01E05.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001219,
+                    "path": "The.Power.S01E05.AAC.MP4-Mobile/The.Power.S01E05.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Power.S01E05.HDR.2160p.WEB.H265-CAKES[rartv]-[rarbg.to]",
+            "size_total": 6.925376384,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Power.S01E05.HDR.2160p.WEB.H265-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Power.S01E05.HDR.2160p.WEB.H265-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 6.925375181,
+                    "path": "The.Power.S01E05.HDR.2160p.WEB.H265-CAKES[rarbg]/the.power.s01e05.hdr.2160p.web.h265-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000001074,
+                    "path": "The.Power.S01E05.HDR.2160p.WEB.H265-CAKES[rarbg]/the.power.s01e05.hdr.2160p.web.h265-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson [IPT]",
+            "size_total": 4.491476177,
+            "files_total": 32,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.69e-7,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.141474118,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.15,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.rar"
+                },
+                {
+                    "number": 32,
+                    "size": 0.00000189,
+                    "path": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson/the.power.s01e05.multi.1080p.web.h264-higgsboson.sfv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "the.power.s01e05.multi.1080p.web.h264-higgsboson[eztv.re].mkv",
+            "size_total": 4.491470008,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.491470008,
+                    "path": "the.power.s01e05.multi.1080p.web.h264-higgsboson[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Power.S01E05.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.296332664,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.1e-8,
+                    "path": "The.Power.S01E05.WEB.x264-TORRENTGALAXY[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.296331837,
+                    "path": "The.Power.S01E05.WEB.x264-TORRENTGALAXY[TGx]/The.Power.S01E05.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Power.S01E05.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 3.8e-8,
+                    "path": "The.Power.S01E05.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Power.S01E05.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.628926808,
+            "files_total": 45,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0000553,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/10_Danish.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000055412,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/11_Dutch.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00005616,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/12_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000057144,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/13_Filipino.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000055511,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/14_Finnish.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000055024,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/15_French.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000056543,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/16_French.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000055658,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/17_glg.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.00005682,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/18_German.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000080207,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/19_Greek.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.00007501,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/20_Hebrew.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000098472,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/21_Hindi.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000055815,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/22_Hungarian.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000057661,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/23_Indonesian.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000056372,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/24_Italian.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000058294,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/25_Japanese.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000106296,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/26_kan.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000057423,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/27_Korean.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000055402,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/28_Spanish.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000057358,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/29_Malay.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000007939,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000108555,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/30_mal.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000056882,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/31_Norwegian.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000056383,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/32_Polish.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000056432,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/33_Portuguese.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000054955,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/34_Portuguese.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.00005082,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/35_Romanian.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000076458,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/36_Russian.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000053272,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/37_Swedish.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000102978,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/38_Tamil.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000105919,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/39_Telugu.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000074811,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000102211,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/40_Thai.srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000057204,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/41_Turkish.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000072515,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/42_Ukrainian.srt"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000065289,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/43_Vietnamese.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000078295,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/4_Arabic.srt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.000055874,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/5_baq.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000055795,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/6_cat.srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000055818,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/7_Chinese.srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.000053643,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/8_Chinese.srt"
+                },
+                {
+                    "number": 44,
+                    "size": 0.000056882,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/9_Czech.srt"
+                },
+                {
+                    "number": 45,
+                    "size": 0.626205867,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/The.Power.S01E05.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Power.S01E05.WEBRip.x264-ION10",
+            "size_total": 0.628926808,
+            "files_total": 45,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0000553,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/10_Danish.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000055412,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/11_Dutch.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00005616,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/12_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000057144,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/13_Filipino.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000055511,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/14_Finnish.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000055024,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/15_French.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000056543,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/16_French.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000055658,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/17_glg.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.00005682,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/18_German.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000080207,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/19_Greek.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.00007501,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/20_Hebrew.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000098472,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/21_Hindi.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000055815,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/22_Hungarian.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000057661,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/23_Indonesian.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000056372,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/24_Italian.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000058294,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/25_Japanese.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000106296,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/26_kan.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000057423,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/27_Korean.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000055402,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/28_Spanish.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000057358,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/29_Malay.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000007939,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000108555,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/30_mal.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000056882,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/31_Norwegian.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000056383,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/32_Polish.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000056432,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/33_Portuguese.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000054955,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/34_Portuguese.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.00005082,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/35_Romanian.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000076458,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/36_Russian.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000053272,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/37_Swedish.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000102978,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/38_Tamil.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000105919,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/39_Telugu.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000074811,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000102211,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/40_Thai.srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000057204,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/41_Turkish.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000072515,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/42_Ukrainian.srt"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000065289,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/43_Vietnamese.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000078295,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/4_Arabic.srt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.000055874,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/5_baq.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000055795,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/6_cat.srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000055818,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/7_Chinese.srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.000053643,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/8_Chinese.srt"
+                },
+                {
+                    "number": 44,
+                    "size": 0.000056882,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/Subs/9_Czech.srt"
+                },
+                {
+                    "number": 45,
+                    "size": 0.626205867,
+                    "path": "The.Power.S01E05.WEBRip.x264-ION10/The.Power.S01E05.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Power.S01E05.WEBRip.x264-LAMA [IPT]",
+            "size_total": 0.628930394,
+            "files_total": 44,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.0000553,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/10_Danish.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000055412,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/11_Dutch.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00005616,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/12_Spanish.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000057144,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/13_Filipino.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000055511,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/14_Finnish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000055024,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/15_French.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000056543,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/16_French.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000055658,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/17_glg.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.00005682,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/18_German.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000080207,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/19_Greek.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.00007501,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/20_Hebrew.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000098472,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/21_Hindi.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000055815,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/22_Hungarian.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000057661,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/23_Indonesian.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000056372,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/24_Italian.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000058294,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/25_Japanese.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000106296,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/26_kan.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000057423,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/27_Korean.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000055402,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/28_Spanish.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000057358,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/29_Malay.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000007939,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/2_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000108555,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/30_mal.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000056882,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/31_Norwegian.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000056383,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/32_Polish.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000056432,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/33_Portuguese.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000054955,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/34_Portuguese.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.00005082,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/35_Romanian.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000076458,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/36_Russian.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000053272,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/37_Swedish.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000102978,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/38_Tamil.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000105919,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/39_Telugu.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000074811,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/3_English.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000102211,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/40_Thai.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000057204,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/41_Turkish.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000072515,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/42_Ukrainian.srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000065289,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/43_Vietnamese.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000078295,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/4_Arabic.srt"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000055874,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/5_baq.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000055795,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/6_cat.srt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.000055818,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/7_Chinese.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000053643,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/8_Chinese.srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000056882,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/Subs/9_Czech.srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.626205637,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/The.Power.S01E05.WEBRip.x264-LAMA.mp4"
+                },
+                {
+                    "number": 44,
+                    "size": 0.000003945,
+                    "path": "The.Power.S01E05.WEBRip.x264-LAMA/The.Power.S01E05.WEBRip.x264-LAMA.mp4.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Power.S01E05.WEBRip.x264-XEN0N",
+            "size_total": 0.33177867,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000273986,
+                    "path": "The.Power.S01E05.WEBRip.x264-XEN0N/Screens/The.Power.S01E05.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000227724,
+                    "path": "The.Power.S01E05.WEBRip.x264-XEN0N/Screens/The.Power.S01E05.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000308842,
+                    "path": "The.Power.S01E05.WEBRip.x264-XEN0N/Screens/The.Power.S01E05.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00023645,
+                    "path": "The.Power.S01E05.WEBRip.x264-XEN0N/Screens/The.Power.S01E05.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.33073015100000003,
+                    "path": "The.Power.S01E05.WEBRip.x264-XEN0N/The.Power.S01E05.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001517,
+                    "path": "The.Power.S01E05.WEBRip.x264-XEN0N/The.Power.S01E05.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Power.S01E05.XviD-AFG [IPT]",
+            "size_total": 0.426452363,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000177421,
+                    "path": "The.Power.S01E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000188491,
+                    "path": "The.Power.S01E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000252628,
+                    "path": "The.Power.S01E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.42583274,
+                    "path": "The.Power.S01E05.XviD-AFG/The.Power.S01E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001083,
+                    "path": "The.Power.S01E05.XviD-AFG/The.Power.S01E05.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Power.S01E05.XviD-AFG[eztv.re].avi",
+            "size_total": 0.42583274,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.42583274,
+                    "path": "The.Power.S01E05.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "【高清剧集网 www.BTHDTV.com】电击少女 第一季[第05集][简繁英字幕].The.Power.S01.1080p.AMZN.WEB-DL.DDP.5.1.H.264-BlackTV",
+            "size_total": 4.189152238,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.187878286,
+                    "path": "【高清剧集网 www.BTHDTV.com】电击少女 第一季[第05集][简繁英字幕].The.Power.S01.1080p.AMZN.WEB-DL.DDP.5.1.H.264-BlackTV/The.Power.S01E05.Scarlet.Minnow.1080p.AMZN.WEB-DL.DDP.5.1.H.264-BlackTV.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000636976,
+                    "path": "【高清剧集网 www.BTHDTV.com】电击少女 第一季[第05集][简繁英字幕].The.Power.S01.1080p.AMZN.WEB-DL.DDP.5.1.H.264-BlackTV/【更多电视剧集下载请访问 www.BTHDTV.com】【更多剧集打包下载请访问 www.BTHDTV.com】.MKV"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000636976,
+                    "path": "【高清剧集网 www.BTHDTV.com】电击少女 第一季[第05集][简繁英字幕].The.Power.S01.1080p.AMZN.WEB-DL.DDP.5.1.H.264-BlackTV/【更多高清剧集下载请访问 www.BTHDTV.com】【更多剧集打包下载请访问 www.BTHDTV.com】.mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "电击少女.The.Power.S01E05.1080p.H265-官方中字.mp4",
+            "size_total": 1.009658666,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.009658666,
+                    "path": "电击少女.The.Power.S01E05.1080p.H265-官方中字.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 39,
+            "name": "The.Power.S01E05.720p.x265-T0PAZ",
+            "btih": "33c9107b8ed909858d95bcee15fc957ce38b558b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.454446318,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26355,
+            "uuploaders": 4037
+        },
+        {
+            "id": 53,
+            "name": "multi-btih-0-3-x-The Power (2023) (S01E05) (1080p)",
+            "btih": "9da306c7aea0bc03b0a1d6a6401fdf9436521d39",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 4.157958759,
+            "creation": "2023-04-14T00:05:09.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25512,
+            "uuploaders": 624
+        },
+        {
+            "id": 59,
+            "name": "multi-btih-6-2-x-The.Power.S01E05.2160p.AMZN.WEB-DL.x265.8bit.SDR.DDP5.1.Atmos-WDYM[rartv]-[rarbg.to]",
+            "btih": "a58423882e0cd9cdc4632987b9b10f736b81df3c",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.949420782,
+            "creation": "2023-04-14T08:17:41.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22690,
+            "uuploaders": 3093
+        },
+        {
+            "id": 14,
+            "name": "The.Power.S01E05.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "64b89ce69aaab104c78f84567ead399d98023fd3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.157961333,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 20660,
+            "uuploaders": 1883
+        },
+        {
+            "id": 54,
+            "name": "multi-btih-1-3-x-The Power (2023) (S01E05) (480p)",
+            "btih": "e7a2bed5e096d0820a4f36b0014ff45d251b77b3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.628926808,
+            "creation": "2023-04-14T00:27:05.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20178,
+            "uuploaders": 2012
+        },
+        {
+            "id": 1,
+            "name": "[ Torrent911.ws ] The.Power.S01E05.FRENCH.WEBRip.x264.mp4",
+            "btih": "eb3f83a6d054142f938e58d60fc06c6f07e1bf69",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.320665342,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18938,
+            "uuploaders": 1367
+        },
+        {
+            "id": 40,
+            "name": "The.Power.S01E05.AAC.MP4-Mobile [IPT]",
+            "btih": "23a58965137120b8971ac6501a87b810d94f8ff4",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.178222899,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16373,
+            "uuploaders": 2809
+        },
+        {
+            "id": 51,
+            "name": "【高清剧集网 www.BTHDTV.com】电击少女 第一季[第05集][简繁英字幕].The.Power.S01.1080p.AMZN.WEB-DL.DDP.5.1.H.264-BlackTV",
+            "btih": "8dad7e6b6c2936a62fee8b4ed93c18e37fa114a9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.189152238,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15415,
+            "uuploaders": 291
+        },
+        {
+            "id": 33,
+            "name": "The.Power.S01E05.720p.ColdFilm.mkv",
+            "btih": "34165bc2a0856ebcc544fd04f58844dc4ffecb61",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.430289767,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15108,
+            "uuploaders": 2890
+        },
+        {
+            "id": 57,
+            "name": "multi-btih-4-2-x-The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]-[rarbg.to]",
+            "btih": "54d86f6b8c9c090fd8b3c1c4bf5304990a09ae34",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 9.548625431,
+            "creation": "2023-04-14T08:32:29.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14097,
+            "uuploaders": 548
+        },
+        {
+            "id": 47,
+            "name": "The.Power.S01E05.WEBRip.x264-LAMA [IPT]",
+            "btih": "bc8234f8e28f748733665b181be0b81e35edf1ab",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.628930394,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 13584,
+            "uuploaders": 1855
+        },
+        {
+            "id": 41,
+            "name": "The.Power.S01E05.HDR.2160p.WEB.H265-CAKES[rartv]-[rarbg.to]",
+            "btih": "b410b3394c7923535a8a9e4ac9dd8f30019611d2",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.925376384,
+            "creation": "2023-04-14T00:08:19.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12748,
+            "uuploaders": 1466
+        },
+        {
+            "id": 10,
+            "name": "The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[TGx]",
+            "btih": "f55d306d9862532300dcab08a366797d9232192b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.157355483,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12369,
+            "uuploaders": 2930
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.ws ] The.Power.S01E05.VOSTFR.WEBRip.x264.mp4",
+            "btih": "a6c531d0bd8a6fa337a852a82981105c2a6a2e26",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.325072977,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11719,
+            "uuploaders": 1801
+        },
+        {
+            "id": 60,
+            "name": "multi-btih-7-2-x-The.Power.S01E05.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]-[rarbg.to]",
+            "btih": "8efc0bd73c30dd71fafb31223fa8fb39ab699028",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.655191504,
+            "creation": "2023-04-14T08:17:19.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11651,
+            "uuploaders": 1294
+        },
+        {
+            "id": 56,
+            "name": "multi-btih-3-2-x-The.Power.S01E05.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.MKV.x265-WDYM[rartv]-[rarbg.to]",
+            "btih": "455b005673dffbec5229eb2a5958d91baa7684ac",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 9.548651,
+            "creation": "2023-04-14T08:23:09.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11645,
+            "uuploaders": 913
+        },
+        {
+            "id": 28,
+            "name": "The.Power.S01E05.480p.x264-mSD [IPT]",
+            "btih": "baa9207de0099ea3452d611cb98454141e7af17d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.385887838,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 11525,
+            "uuploaders": 787
+        },
+        {
+            "id": 49,
+            "name": "The.Power.S01E05.XviD-AFG [IPT]",
+            "btih": "6f13d9610f7059c87c4e11236590acb4da6e8195",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.426452363,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 10730,
+            "uuploaders": 1909
+        },
+        {
+            "id": 6,
+            "name": "The.Power.S01.720p.Ultradox",
+            "btih": "e1d9c7483d712ad1bc326c8ac9d55d3d9f947273",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.011737552,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10326,
+            "uuploaders": 1326
+        },
+        {
+            "id": 7,
+            "name": "The.Power.s01.HD720p.WEBRip.Rus.RuDub.tv",
+            "btih": "e18edff952a4f3527f622602ae991d3bc9ec6b7f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 9.300650031,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10150,
+            "uuploaders": 997
+        },
+        {
+            "id": 43,
+            "name": "the.power.s01e05.multi.1080p.web.h264-higgsboson[eztv.re].mkv",
+            "btih": "693633c175dedca8dc0704e4d8b1ed3d4858d9d4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.491470008,
+            "creation": "2023-04-14T01:19:23.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.com, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10081,
+            "uuploaders": 417
+        },
+        {
+            "id": 55,
+            "name": "multi-btih-2-2-x-The.Power.S01E05.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-WDYM[rartv]-[rarbg.to]",
+            "btih": "1072b5aec1cb5dc14ff6738d14d5c7a9643c7421",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.157354725,
+            "creation": "2023-04-14T08:17:26.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9476,
+            "uuploaders": 1037
+        },
+        {
+            "id": 58,
+            "name": "multi-btih-5-2-x-The.Power.S01E05.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos.x265-WDYM[rartv]-[rarbg.to]",
+            "btih": "fb64289e4865bf513b082d2cc99d1886955717a6",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.945306193,
+            "creation": "2023-04-14T08:17:49.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8899,
+            "uuploaders": 352
+        },
+        {
+            "id": 5,
+            "name": "The.Power.S01.400p.ColdFilm",
+            "btih": "3d856a394d50256fdfc95d8680c3f155a5105318",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.520943464,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7140,
+            "uuploaders": 518
+        },
+        {
+            "id": 52,
+            "name": "电击少女.The.Power.S01E05.1080p.H265-官方中字.mp4",
+            "btih": "6f21a6c5a69b00674d7c481a59afa8528c84181f",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.009658666,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7112,
+            "uuploaders": 1344
+        },
+        {
+            "id": 15,
+            "name": "the.power.s01e05.1080p.web.h264-cakes[eztv.re].mkv",
+            "btih": "d6eec0c905407ffe3235c167952aa93ba34c9640",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.157957559,
+            "creation": "2023-04-14T00:11:33.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.com, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6888,
+            "uuploaders": 354
+        },
+        {
+            "id": 50,
+            "name": "The.Power.S01E05.XviD-AFG[eztv.re].avi",
+            "btih": "3247cbe9a738aa935cd68da205cf17bf486d667f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.42583274,
+            "creation": "2023-04-14T00:24:05.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.com, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6850,
+            "uuploaders": 598
+        },
+        {
+            "id": 18,
+            "name": "The.Power.S01E05.1080p.WEB.H264-CAKES[TGx]",
+            "btih": "8a5622082d07c3358c098f70560c1c239259a71e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.157959419,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6798,
+            "uuploaders": 361
+        },
+        {
+            "id": 37,
+            "name": "The.Power.S01E05.720p.WEBRip.x265-MiNX[TGx]",
+            "btih": "9c884f3db8f040cc57252d6fb19ade1b918195ce",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.22859267,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5947,
+            "uuploaders": 541
+        },
+        {
+            "id": 29,
+            "name": "The.Power.S01E05.480p.x264-mSD[eztv.re].mkv",
+            "btih": "ef868a69d2d5687e829581d742f3a996b981c259",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.385360297,
+            "creation": "2023-04-15T19:45:04.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.com, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4876,
+            "uuploaders": 94
+        },
+        {
+            "id": 48,
+            "name": "The.Power.S01E05.WEBRip.x264-XEN0N",
+            "btih": "fa6481132cfc260232ca740b6e043dc6549bb13b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.33177867,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3388,
+            "uuploaders": 340
+        },
+        {
+            "id": 35,
+            "name": "The.Power.S01E05.720p.WEB.h264-EDITH[eztv.re].mkv",
+            "btih": "ab7949303b5dbb6a0d53b1a21d76d4ffdac4d552",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.65511014,
+            "creation": "2023-04-15T19:24:28.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.com, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2306,
+            "uuploaders": 156
+        },
+        {
+            "id": 13,
+            "name": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "262152347eed71796033212515a423d1101a9ee8",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.530176175,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2184,
+            "uuploaders": 203
+        },
+        {
+            "id": 12,
+            "name": "The.Power.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "1bb5854d1805f5c02a0502f600ecb03c637e8435",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.530174253,
+            "creation": "2023-04-14T00:36:06.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.com, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1906,
+            "uuploaders": 114
+        },
+        {
+            "id": 34,
+            "name": "The.Power.S01E05.720p.WEB.h264-EDITH [IPT]",
+            "btih": "3fa7610582e1deed70a64e22e8ab18a177e02b67",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.65511386,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1685,
+            "uuploaders": 119
+        },
+        {
+            "id": 19,
+            "name": "The.Power.S01E05.1080p.x265-ELiTE",
+            "btih": "09f2e89c5de81fc19f49729d176633d577b70983",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.615213424,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1500,
+            "uuploaders": 109
+        },
+        {
+            "id": 44,
+            "name": "The.Power.S01E05.WEB.x264-TORRENTGALAXY[TGx]",
+            "btih": "4bad9cc811601b611c901a72be9dee186daab324",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.296332664,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 998,
+            "uuploaders": 286
+        },
+        {
+            "id": 11,
+            "name": "The.Power.S01E05.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "8d4385efbe2031a012e57dd1409c8ef3c812400e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.5476843,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 953,
+            "uuploaders": 428
+        },
+        {
+            "id": 42,
+            "name": "The.Power.S01E05.MULTI.1080p.WEB.H264-HiggsBoson [IPT]",
+            "btih": "8ebf5cf0bca72413ec414cdf1f3c3ae1256cbea4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.491476177,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 385,
+            "uuploaders": 240
+        },
+        {
+            "id": 36,
+            "name": "The.Power.S01E05.720p.WEB.h264-EDITH[TGx]",
+            "btih": "26fd0c11c0803106d6087df6141b0cecd83fa765",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.655111878,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 207,
+            "uuploaders": 165
+        },
+        {
+            "id": 30,
+            "name": "The.Power.S01E05.480p.x264-RUBiK",
+            "btih": "46a837570d80330757ae4c2f27372b8bc0039280",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.392930816,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 115,
+            "uuploaders": 75
+        },
+        {
+            "id": 38,
+            "name": "The.Power.S01E05.720p.x264-FENiX",
+            "btih": "03d884e45f61b2f509877ced0fe0ff404e69ac2c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.517561364,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 110,
+            "uuploaders": 66
+        }
+    ]
+}
