@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13622776",
+    "imdb_id": "tt13622776",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q104153367",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_Ahsoka"
+  },
+  "coverage_sha256": "cdcb14806ed7d12c78de5df57ee0825f89706c6629bd4dbf03096ac3fa1e2a73",
+  "generated_at": "2026-08-31T18:08:51.794131+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/ahsoka-108.cache/cache.20240402.tar.xz",
+      "sha256": "8b472b801c08c2a992eee704a8c032f8474392388ad5de315b166ccbf39324ba",
+      "size": 1797228244
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/ahsoka-108.md",
+      "sha256": "1aeda592e5bb8ae162c231ec5598b2a033039feb75822fabe1af93dbb8b2141e",
+      "size": 716
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/ahsoka-108.json",
+      "sha256": "96b731b552472cc80427da4a0d0585a4cd969a1505a4ea431ba2bbcee2d8c95b",
+      "size": 3418
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/ahsoka-108.json",
+      "sha256": "e5d7861db45d51cac8308b29823be2d025c02f05a194f240d57238827b371926",
+      "size": 364
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "ahsoka-108",
+  "published_files": {
+    "data/csv/bytes/ahsoka-108-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "259b7b4a3be24bfdbcebb3d2cb190c573ba73f25908f2778f79e09c096ba6eff",
+    "docs/itemized/ahsoka-108-sample-cache-audit.md": "621d1ce5d0ae07edc5c46a5ec9f348f7bcf7e14a98fca8a20ee5bc1dee8d5d49",
+    "docs/itemized/figures/ahsoka-108-carto-4k.webp": "c2ded51adf14d0254f31e3ff3aa1f04e3f77d68103f355bc23087614e8e90dc8",
+    "docs/itemized/figures/ahsoka-108-carto.png": "cdcc13b5712f7762a0c2ce5fced19e567efcc69f1b31fff6f7834d6e7630be91",
+    "docs/itemized/figures/ahsoka-108-cumulative-detail-btiha-itemized-by-bytes.svg": "921186622f824d0ad537db3c89eaba0f6a6aba48f926f80cf9f56fae606171c0",
+    "docs/itemized/figures/ahsoka-108-data-ge-1080p-4k.webp": "ccc86b6278117ba6045c9c19bf925ff4534e1e44843370adb21ee478f5fb0ee7",
+    "docs/itemized/figures/ahsoka-108-data-ge-1080p.webp": "110ead08bc0a5f5dc9357c30d7fd40ad206b814a36c1c26077106fef429437ec",
+    "docs/itemized/figures/ahsoka-108-data-lt-1080p-4k.webp": "b526b81b23018d418701dce494890d7d64062190d98dc66df56091fcdd50a0fa",
+    "docs/itemized/figures/ahsoka-108-data-lt-1080p.webp": "60b0f7054f14be5a0c1ef74ed502b722c4a915f12e2104ebe9f4684bdb27a411",
+    "docs/itemized/figures/ahsoka-108-downloads-by-day-day.svg": "462b732d31511dc5a3ccd41918262ecac1a5faa2b48875d375bee4e811ee5f63",
+    "docs/itemized/figures/ahsoka-108-downloads-by-week-ahsoka-108-week.svg": "92be8b7bb8260c4fb2a1fbaee14923daf824877b622106bdfc9c3f13786478b1",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/ahsoka-108/tmp/ahsoka-108-cumulative-btiha.geojson",
+        "sha256": "0e16a4d0f446acc8ce32fa966585e305af3a2ad793b20153f9cf08e3b996cc36",
+        "size": 330664624
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/ahsoka-108/tmp/ahsoka-108-cumulative-btiha-media-objects.json",
+        "sha256": "d630772a80b460dcb6815c575133bc6c43bd21320c30bfb0700d68aa536416d7",
+        "size": 694178
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "ahsoka-108",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          45.0,
+          42.0,
+          37.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Lelystad",
+          "Budapest",
+          "Amsterdam",
+          "Mexico City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          44.0,
+          42.0,
+          35.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Budapest",
+          "Amsterdam",
+          "Lelystad",
+          "Mexico City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
