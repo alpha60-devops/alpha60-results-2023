@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14661396",
+    "imdb_id": "tt14661396",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q111360692",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Charlotte:_A_Bridgerton_Story"
+  },
+  "coverage_sha256": "c9a9d8176929b7c833283f45cebcae0d306d6e1cfbda4ed8701d2effe5f0daec",
+  "generated_at": "2026-08-31T21:27:34.066497+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/queen-charlotte-01.cache/cache.20230816.tar.xz",
+      "sha256": "d1f1c7490759495458962673958f9a0c9da61da479df746ca97ab6f8864458ed",
+      "size": 408040764
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/queen-charlotte-01.md",
+      "sha256": "ff4dc328e8947c601bf411b17b05c8e199ddc7041000464a03d4d434ecb84362",
+      "size": 569
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/queen-charlotte-01.json",
+      "sha256": "8a3506c76f62f7e2d2a0adbd8a82c3087dd8cf627aa5bcf66114c9e1e33c944d",
+      "size": 2749
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/queen-charlotte-01.json",
+      "sha256": "c0a783be2e62a79c99a84eccf136bd6ff4f528b55ba69f40c1b2cc3d3a8b0393",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+      "size": 79337
+    }
+  },
+  "media_object": "queen-charlotte-01",
+  "published_files": {
+    "data/csv/bytes/queen-charlotte-01-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "3609f6ad6fa0b5efff9c06f2a774850d319a36b09267dd69587bf8cc864c12ee",
+    "docs/itemized/figures/queen-charlotte-01-carto-4k.webp": "4dc341f91289c2d7eafb275f261f13cb521759d4eeef80e1f9795fb7f23ed73d",
+    "docs/itemized/figures/queen-charlotte-01-carto.png": "4584ce1195b3ba2870eb5d8c57d43178c9d553b0accc23da496f587526d1c31d",
+    "docs/itemized/figures/queen-charlotte-01-cumulative-detail-btiha-itemized-by-bytes.svg": "26ef9024579baac332220fe979e6ba7fbeafa4a4e39a60e2fbc0c493bc7d06d7",
+    "docs/itemized/figures/queen-charlotte-01-data-ge-1080p-4k.webp": "7f5ef7f7aaf88d869f1fcbe9bc6d529b62a5496a2e87029309e4d16b2f357453",
+    "docs/itemized/figures/queen-charlotte-01-data-ge-1080p.webp": "29e3293cd03f3c50d96a89d1c736353394456f56c5228557636ba99a902c3012",
+    "docs/itemized/figures/queen-charlotte-01-data-lt-1080p-4k.webp": "d2655fb4ae5b01e5d0e8a76170c4f375892979d30e534dd393de541889ed0257",
+    "docs/itemized/figures/queen-charlotte-01-data-lt-1080p.webp": "3615b13adfed775278e8626e23e9851c8536e5e544600274dc22e65a5fc7f482",
+    "docs/itemized/figures/queen-charlotte-01-downloads-by-day-day.svg": "2276d9020aadb9d170f0ca772483243e18157c4003fc33557db76809f1859207",
+    "docs/itemized/figures/queen-charlotte-01-downloads-by-week-queen-charlotte-01-week.svg": "1806ade1df454b5357f8aedfadd04b2eb019e37da2d5806192db327d937a7008",
+    "docs/itemized/queen-charlotte-01-sample-cache-audit.md": "9e43edc8d0458709106e5ca6b34e4dfc15ba1f526d171d279e746950b6ba01a8",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/queen-charlotte-01/tmp/queen-charlotte-01-cumulative-btiha.geojson",
+        "sha256": "cc44fed51517772f29c94de9ce887d6d7a8be892739f95fb17721766f668ed74",
+        "size": 39751389
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/queen-charlotte-01/tmp/queen-charlotte-01-cumulative-btiha-media-objects.json",
+        "sha256": "f7539853edc126463208cd187204b4823f41d556ab14d75531f19b151d631a92",
+        "size": 1061995
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "queen-charlotte-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          52.0,
+          32.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Seoul",
+          "London",
+          "Johannesburg",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Pretoria",
+          "Council Bluffs",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          31.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Johannesburg",
+          "Amsterdam",
+          "Pretoria",
+          "Lelystad",
+          "Council Bluffs"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 26,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
