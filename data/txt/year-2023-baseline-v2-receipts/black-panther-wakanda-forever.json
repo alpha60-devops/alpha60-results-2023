@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9114286",
+    "imdb_id": "tt9114286",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q54860489",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
+  },
+  "coverage_sha256": "c6ddced6176d2f8f88324167f6d33cd3446a77ecb22237d3d48a7414648ad2c3",
+  "generated_at": "2026-08-31T18:47:20.958288+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/black-panther-wakanda-forever.cache/cache.20230731.tar.xz",
+      "sha256": "abbefeb6f4035290fedeff44ec465154d845a984feb5f43fdbc1b4152bcdb913",
+      "size": 5976986508
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/black-panther-wakanda-forever.md",
+      "sha256": "5bf7f6a2fc86862750d9cda33da319cba8f3f99e5de5539b55abc0b950dc9777",
+      "size": 591
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/black-panther-wakanda-forever.json",
+      "sha256": "eae32cb13992380ec42213bcf991c3b4e054acad014ee97e94bcfc6f5cb5c5c3",
+      "size": 3479
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/black-panther-wakanda-forever.json",
+      "sha256": "5907862b6e51995c5cbffb9a4e2440052fa813a0ee5ad73357b2dd1492906c9d",
+      "size": 383
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "black-panther-wakanda-forever",
+  "published_files": {
+    "data/csv/bytes/black-panther-wakanda-forever-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "244d2814e31adbefef97ff73a997e08928bfc413c2a2576d87cab7a30a71df9a",
+    "docs/itemized/black-panther-wakanda-forever-sample-cache-audit.md": "c34489c1a756aa06a934edea616ca6d58cd8773d509d8ab320e068a2dc218a3f",
+    "docs/itemized/figures/black-panther-wakanda-forever-carto-4k.webp": "11982c4de3e7a60c5eff3d8bbac7c86dc92487b0f6d33ddb734931e4b5488d6c",
+    "docs/itemized/figures/black-panther-wakanda-forever-carto.png": "b1110a44bcc6ab9d73ea5d5f303027544ec20ec65b60b97d5a235e2e5bb0dae6",
+    "docs/itemized/figures/black-panther-wakanda-forever-cumulative-detail-btiha-itemized-by-bytes.svg": "40f8d3f0cb33aff324da28063f3cb47690777005a4bb54e4e7e6b065abb35343",
+    "docs/itemized/figures/black-panther-wakanda-forever-data-ge-1080p-4k.webp": "0132515559fe0839051aa1514ceffbb3c682c5d3bfb0791c597b0f4ba245b990",
+    "docs/itemized/figures/black-panther-wakanda-forever-data-ge-1080p.webp": "2f2cc455ffa4106403ff5903f6d244a17efa6f7779312f35b7dc9de9b4652593",
+    "docs/itemized/figures/black-panther-wakanda-forever-data-lt-1080p-4k.webp": "98a4e6b1e0544dc7e5fce5f6976264efc189c12d7d67795fd432fabc9a32f231",
+    "docs/itemized/figures/black-panther-wakanda-forever-data-lt-1080p.webp": "b39b8815285d974f9a6d51f1743b4b8ad16010892275ac932d68473452be0322",
+    "docs/itemized/figures/black-panther-wakanda-forever-downloads-by-day-day.svg": "14e6dcb7fb6f16da2e8a37193e9964bbf9244141460d39635553330c192d50e2",
+    "docs/itemized/figures/black-panther-wakanda-forever-downloads-by-week-black-panther-wakanda-forever-week.svg": "110502c7175b60e08381cdb94a03b2f6fada6e518b58566c7e3c1db3b9a18c9e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/black-panther-wakanda-forever/tmp/black-panther-wakanda-forever-cumulative-btiha.geojson",
+        "sha256": "7e3c5bb5bbdd55e9999c856dfee2130621200f01a3811147efc9ab6405aebf13",
+        "size": 301016278
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/black-panther-wakanda-forever/tmp/black-panther-wakanda-forever-cumulative-btiha-media-objects.json",
+        "sha256": "dcfb63ac9a9a37fceaf4e2bae12146814b914461519c368ba37a3cbec83d320e",
+        "size": 2515994
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "black-panther-wakanda-forever",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          38.0,
+          38.0,
+          35.0,
+          34.0,
+          33.0,
+          32.0,
+          32.0,
+          31.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "Dublin",
+          "Frankfurt am Main",
+          "Boardman",
+          "London",
+          "Amsterdam",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          69.0,
+          44.0,
+          37.0,
+          36.0,
+          36.0,
+          33.0,
+          33.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Quezon City",
+          "Moscow",
+          "Johannesburg",
+          "London",
+          "Colombo",
+          "Saint Petersburg",
+          "Cape Town",
+          "Mumbai",
+          "Frankfurt am Main",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 57,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
