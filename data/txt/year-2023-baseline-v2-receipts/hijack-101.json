@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt19854762",
+    "imdb_id": "tt19854762",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q112131897",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hijack_(TV_series)"
+  },
+  "coverage_sha256": "6173bc348678a6dbb80b4047f4608f79915aa3e673c8df2e17e9508d0e989667",
+  "generated_at": "2026-08-31T20:42:01.559229+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/hijack-101.cache/cache.20231018.tar.xz",
+      "sha256": "0e21725745ddc8ce320955274d158e84461fae06145330ea94103b794c7d5182",
+      "size": 660474128
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/hijack-101.md",
+      "sha256": "05cca4b0276820de436745128462685e101cd821687e32e4c59f6665a1c3080f",
+      "size": 833
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/hijack-101.json",
+      "sha256": "c1da2f13f4b57342b29ad2c37cf82c1b38680bb4559f5113bb88cf967ca9d57a",
+      "size": 2789
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/hijack-101.json",
+      "sha256": "a06fcd76067a33ad66242bb0c2c6e11ea869ac7edfa58721686b0fb11d021815",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "hijack-101",
+  "published_files": {
+    "data/csv/bytes/hijack-101-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "aa60087e375d9d2975a4117f38d1ed7d9436771b9707fae71f5d6c2f70003fef",
+    "docs/itemized/figures/hijack-101-carto-4k.webp": "51d9aa13ff8d1530850431bc28ab5fcce7fba76d33726f1ecf595dfced4ced2d",
+    "docs/itemized/figures/hijack-101-carto.png": "21fe9de1aaa293111d3ad2bde2bcab7f04762f6727fd2b5c2b9a6f43478c10f7",
+    "docs/itemized/figures/hijack-101-cumulative-detail-btiha-itemized-by-bytes.svg": "d567ea04146104138bfa6ed7a2a412c1452d837712c44c224846a076e444be47",
+    "docs/itemized/figures/hijack-101-data-ge-1080p-4k.webp": "9c1af7c6deb5ca0f68422571e036caa615bdeead228684e02cacd340a36fc7eb",
+    "docs/itemized/figures/hijack-101-data-ge-1080p.webp": "617510240d9d4788d10d0f9ee1a1c0ec8176e0e9df728f5467770d3c3aaef53d",
+    "docs/itemized/figures/hijack-101-data-lt-1080p-4k.webp": "1694e748fdc6c0f46b52a496c5ad26774bcdd622ad6b9516ebf7b7b187104159",
+    "docs/itemized/figures/hijack-101-data-lt-1080p.webp": "61ff342c1e024acb2da2b61a9d670264b9dff4d47a0b2dc664b870bc7259c983",
+    "docs/itemized/figures/hijack-101-downloads-by-day-day.svg": "c839e92aaa64efaca2cd8227ab00e374ae00b2e106434801483d86c981e57140",
+    "docs/itemized/figures/hijack-101-downloads-by-week-hijack-101-week.svg": "2f817b02ea917d0bb91987bea43c501c531105044783ad8ed4929bbf47d81eba",
+    "docs/itemized/hijack-101-sample-cache-audit.md": "22e5b8c9b30312c4752124554bafe3fe6c825df57a90c7cd135591e4efa5a941",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/hijack-101/tmp/hijack-101-cumulative-btiha.geojson",
+        "sha256": "61d3ef2cb5109625a0edc8dafe246052ff4d639309b532e471fe6a3667a0425d",
+        "size": 83816055
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/hijack-101/tmp/hijack-101-cumulative-btiha-media-objects.json",
+        "sha256": "355f09d1189ca7974691ffbd5e507fc5744073ce4d010b265d48ba474bfa04d8",
+        "size": 274924
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "hijack-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          72.0,
+          39.0,
+          35.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Amsterdam",
+          "New York City",
+          "Johannesburg",
+          "Lelystad",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          61.0,
+          33.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Johannesburg",
+          "Amsterdam",
+          "New York City",
+          "Sydney",
+          "Nairobi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 31,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
