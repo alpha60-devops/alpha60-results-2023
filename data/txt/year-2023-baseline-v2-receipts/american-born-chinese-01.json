@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt15552018",
+    "imdb_id": "tt15552018",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q111169509",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Born_Chinese_(TV_series)"
+  },
+  "coverage_sha256": "d7db041c73e71fc891da04fa68f45834f036e2dfbbb163e39b66e2dbc05320cb",
+  "generated_at": "2026-08-31T17:50:06.543750+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/american-born-chinese-01.cache/cache.20230905.tar.xz",
+      "sha256": "b3faf9f7e86558f4edd35aea093231bc6c565baacdb574db7d961fd184f42dab",
+      "size": 257890900
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/american-born-chinese-01.md",
+      "sha256": "8502ac01ffc996f1ab3bc2ed05a4fb8cf23f3d199079d2bef14a057e035de383",
+      "size": 581
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/american-born-chinese-01.json",
+      "sha256": "319e1d52063624b24d925cfee502be22a62064ff96f5ff8992cdb6d3ef5ab7d1",
+      "size": 2767
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/american-born-chinese-01.json",
+      "sha256": "61920528e9f3ec49db0e56a6adbb745e90c3caa1f682b6f7184395bd5e930f42",
+      "size": 378
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+      "size": 79337
+    }
+  },
+  "media_object": "american-born-chinese-01",
+  "published_files": {
+    "data/csv/bytes/american-born-chinese-01-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "61e3f72a38139131dcb0dd3456ca956e8ba25e9f91724a274358f8375e327f38",
+    "docs/itemized/american-born-chinese-01-sample-cache-audit.md": "f141d071dade9df278f1da772f7260c44cfc1b8560cec556064a7f9807352743",
+    "docs/itemized/figures/american-born-chinese-01-carto-4k.webp": "6ece369b9e270da9fd8807aab83967c4f5b611e42b1d9a8fb3faf61d4f77821a",
+    "docs/itemized/figures/american-born-chinese-01-carto.png": "5b48d18e8fe2cc6f77be0c7716f9c2e049914b7b7214b364e1fc2786c1e6aff3",
+    "docs/itemized/figures/american-born-chinese-01-cumulative-detail-btiha-itemized-by-bytes.svg": "019d1573e146ecd8da878523e1cadcdf818b0fefb66104f5e40d877afe82b41e",
+    "docs/itemized/figures/american-born-chinese-01-data-ge-1080p-4k.webp": "7f1a07141868f419308bb98fe31c8f5fffae7a505b1122409cfd69febb95088c",
+    "docs/itemized/figures/american-born-chinese-01-data-ge-1080p.webp": "06534a1c2e1c343073cf103bfabf9cecf5dba515a2ea73843ec61a43bc6b5e04",
+    "docs/itemized/figures/american-born-chinese-01-data-lt-1080p-4k.webp": "12f2cac1123e50c00b3c927429159b672988036af06877680781be0427cd294e",
+    "docs/itemized/figures/american-born-chinese-01-data-lt-1080p.webp": "cecd9647b9f5cd4c14531060e1ff1ebf16b5d55764c0a1158fec4cdcd011c229",
+    "docs/itemized/figures/american-born-chinese-01-downloads-by-day-day.svg": "9b375beab4cf4f715e03b00b0dbbfda6007cbc2b9319e72e84a2e14dafe0cc8c",
+    "docs/itemized/figures/american-born-chinese-01-downloads-by-week-american-born-chinese-01-week.svg": "22ab6047845ead3c572d616826c465b58e15a8fd195d65c4fa7265113fda8c09",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/american-born-chinese-01/tmp/american-born-chinese-01-cumulative-btiha.geojson",
+        "sha256": "3f344c440c62040d03e39b6acf319ba8529e7b552f4deda2cf0f4f0aacd107e8",
+        "size": 52766912
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/american-born-chinese-01/tmp/american-born-chinese-01-cumulative-btiha-media-objects.json",
+        "sha256": "4d5cb2b73b21429bef024ea68a919a73ff02eeaf476104dc2b5cdbd86143f295",
+        "size": 1020757
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "american-born-chinese-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          37.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Boardman",
+          "Dublin",
+          "Frankfurt am Main",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Frankfurt am Main",
+          "Dublin",
+          "Boardman",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 26,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
