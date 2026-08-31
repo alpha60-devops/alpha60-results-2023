@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt16280138",
+    "imdb_id": "tt16280138",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q114876189",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Magic_Mike%27s_Last_Dance"
+  },
+  "coverage_sha256": "6d576dd624ea53ae58b44127060be3f060ea70577992b9c897211681ac530576",
+  "generated_at": "2026-08-31T21:10:39.219265+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/magic-mikes-last-dance.cache/cache.20230508.tar.xz",
+      "sha256": "2d924f074d90f681e8be3e98f7a986c5a243fcf78a4528720771f123a07be87d",
+      "size": 323885104
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/magic-mikes-last-dance.md",
+      "sha256": "68cabf21e733203a59f07ceb68de3db81dce2d12605771e1ec620d78a7b3dc3b",
+      "size": 650
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/magic-mikes-last-dance.json",
+      "sha256": "3e151795251e4b3bb5a9328e5113f2a274d10e155cefcf61707a9a76bb3b14af",
+      "size": 2466
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/magic-mikes-last-dance.json",
+      "sha256": "18114312ebf70238e33e4fd19fe93bd327fb9194161c69cb76a280c583191add",
+      "size": 374
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+      "size": 79337
+    }
+  },
+  "media_object": "magic-mikes-last-dance",
+  "published_files": {
+    "data/csv/bytes/magic-mikes-last-dance-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "41e6cf285be4648cd221db7744e5b07fce55a79e241f0fa884841b0620d62a4b",
+    "docs/itemized/figures/magic-mikes-last-dance-carto-4k.webp": "69c922bf716ea5f496a68fe053ee1eb6b3ba97f6be139089c1f31072a3de6a49",
+    "docs/itemized/figures/magic-mikes-last-dance-carto.png": "2c93a851b59ae57f9329f333f3fc4df7f25168c9c574e1003f0e22fe0ba78718",
+    "docs/itemized/figures/magic-mikes-last-dance-cumulative-detail-btiha-itemized-by-bytes.svg": "5d277f33f6c6cd5f1995a97ced3c8adf973c2c3ff0156da6d8d63a7d3216735d",
+    "docs/itemized/figures/magic-mikes-last-dance-data-ge-1080p-4k.webp": "8c2c16bd184db60cc5dccd6cd55ecb7c3d063747c5bbd5387b0d30c2f631dfe6",
+    "docs/itemized/figures/magic-mikes-last-dance-data-ge-1080p.webp": "c2b0004af394a0d65b7e2ac888cdd2d676e99a2a40974dfb3c35f0c217beaad5",
+    "docs/itemized/figures/magic-mikes-last-dance-data-lt-1080p-4k.webp": "fb2421c999130689abba0bb606765ec162b46692ff8f403344b6c4af7de0c312",
+    "docs/itemized/figures/magic-mikes-last-dance-data-lt-1080p.webp": "b0e1ce6c2fa3dbe0de9ca90d26b2dd8b19d9ccb6ad65b1c6aa532e51b0c4348b",
+    "docs/itemized/figures/magic-mikes-last-dance-downloads-by-day-day.svg": "57dffb7f877de36444f319b1418d3bf75a8cedd2084bad2dad0b3277926e57d6",
+    "docs/itemized/figures/magic-mikes-last-dance-downloads-by-week-magic-mikes-last-dance-week.svg": "11175a3aac3f8c2b6bba39c9422ac1db041c0af43e7117d93ba13d797ded9a1b",
+    "docs/itemized/magic-mikes-last-dance-sample-cache-audit.md": "8f7675ad6356a496db2efc635d5c8dedf089ca50781b865bcd72a2948c2c107e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/magic-mikes-last-dance/tmp/magic-mikes-last-dance-cumulative-btiha.geojson",
+        "sha256": "04bd5a4b083808ae368ae7a3bd01368b4800a78c65146afe9074d851208341c5",
+        "size": 27592436
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/magic-mikes-last-dance/tmp/magic-mikes-last-dance-cumulative-btiha-media-objects.json",
+        "sha256": "c124540be566c7c2aa7dc1ba8ad8c743ee548e32950b055fa40aba87534d146e",
+        "size": 163720
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "magic-mikes-last-dance",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          70.0,
+          59.0,
+          52.0,
+          52.0,
+          48.0,
+          37.0,
+          34.0,
+          28.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Amsterdam",
+          "London",
+          "Johannesburg",
+          "Leipzig",
+          "Saint Petersburg",
+          "Seoul",
+          "Cape Town",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          44.0,
+          34.0,
+          34.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Madrid",
+          "London",
+          "Leipzig",
+          "Krasnodar",
+          "New York City",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 34,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
