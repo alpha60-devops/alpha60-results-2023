@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13623580",
+    "imdb_id": "tt13623580",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q104902493",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Reservation_Dogs"
+  },
+  "coverage_sha256": "80b5c71421da6ca39f2c20ad335435df276986b891c2e2c787d9ee8c5009cf3d",
+  "generated_at": "2026-08-31T21:58:06.362853+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/reservation-dogs-310.cache/cache.20231213.tar.xz",
+      "sha256": "3d6d43b930be545e712614baaaa4676175863990c008e5073a96f602e2f992f2",
+      "size": 148729352
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/reservation-dogs-310.md",
+      "sha256": "0aeae578ed9fdb3b928e59cde58b3c7c58f7e7647e275bab8ed05f99cd25ed23",
+      "size": 573
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/reservation-dogs-310.json",
+      "sha256": "a266f9f1dfc316d2a88d676690fd5c718cf53d800c22c3a1d632b178cc866cf3",
+      "size": 2517
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/reservation-dogs-310.json",
+      "sha256": "c882cb8870a11739ccc54374e085ec394b9ff9539e59b4e4ff862f7b3e3211ac",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+      "size": 79337
+    }
+  },
+  "media_object": "reservation-dogs-310",
+  "published_files": {
+    "data/csv/bytes/reservation-dogs-310-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "82e5f17a4d97eded8f69ffedbf2ee199de9bdd3d2c827fe5f4b79a615bb6bdf1",
+    "docs/itemized/figures/reservation-dogs-310-carto-4k.webp": "89115dacc33e4fc6c287418057f1f8202141363dcbaebf53802af92b583e7d8c",
+    "docs/itemized/figures/reservation-dogs-310-carto.png": "aeea6656d224088b21d9b6cc7b2e993bdb52378fd8666945a52e0bc1dd73c1e0",
+    "docs/itemized/figures/reservation-dogs-310-cumulative-detail-btiha-itemized-by-bytes.svg": "1de9870994d50acc565bb80a14ac97c4762d1a25764da4550a5c462231d4af18",
+    "docs/itemized/figures/reservation-dogs-310-data-ge-1080p-4k.webp": "76188dd76b0f03b5c0bce1a9325d45326f8010772cdf743e9bc27d2ab26a8ee0",
+    "docs/itemized/figures/reservation-dogs-310-data-ge-1080p.webp": "4f17a26965fad28c005d4be800dcfe6ff09c141b43748f0af4e3aff8c07f35bb",
+    "docs/itemized/figures/reservation-dogs-310-data-lt-1080p-4k.webp": "faddc71488d925aeefdd9e74493563ffc70613dea553ba170fd413dcda0ec33e",
+    "docs/itemized/figures/reservation-dogs-310-data-lt-1080p.webp": "eeb53fd0c521b073e81aba16f90221ca49fe391a1483e28b574bc1546c70417c",
+    "docs/itemized/figures/reservation-dogs-310-downloads-by-day-day.svg": "1f87e622dabf66c038deb834b11bbc8d7826b4b0b8f90802cc7714285dd63c25",
+    "docs/itemized/figures/reservation-dogs-310-downloads-by-week-reservation-dogs-310-week.svg": "dae08d2b8c83646cbcd6da83f4776f797e34eedea5dc03e52cad887fc98b8db1",
+    "docs/itemized/reservation-dogs-310-sample-cache-audit.md": "e6d107487e77ea9ea3b7ba4613a927e07ce61f66461d2a7fe948e5d2c7d04924",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/reservation-dogs-310/tmp/reservation-dogs-310-cumulative-btiha.geojson",
+        "sha256": "faab36e0c0f163c039abfdb2813183878bf8726cf2751af6784651e7fe596723",
+        "size": 57809359
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/reservation-dogs-310/tmp/reservation-dogs-310-cumulative-btiha-media-objects.json",
+        "sha256": "ea5ce89fbf229b640846602fe0f9a010b9834b162b774d7a58d4114dc2c6233a",
+        "size": 301043
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "reservation-dogs-310",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          45.0,
+          39.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Lelystad",
+          "Frankfurt am Main",
+          "Amsterdam",
+          "Istanbul",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          54.0,
+          45.0,
+          41.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Lelystad",
+          "Istanbul",
+          "Frankfurt am Main",
+          "Amsterdam",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
