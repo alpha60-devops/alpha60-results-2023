@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6718170",
+    "imdb_id": "tt6718170",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q108671102",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie"
+  },
+  "coverage_sha256": "7968639baf56ae7e780b6173ca767f57209be6c1b629ba7780a7fa46355a67b4",
+  "generated_at": "2026-08-31T23:56:05.043155+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/super-mario-brothers-movie.cache/cache.20230925.tar.xz",
+      "sha256": "2ac6e904c938d09788450daa044ed42e151470feae7cf84a715f550c066957c1",
+      "size": 2834934908
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/super-mario-brothers-movie.md",
+      "sha256": "82f6f65f6dd03dcd104055275c02c11e2ee0ffe129f8b45492031d9c06613eb7",
+      "size": 585
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/super-mario-brothers-movie.json",
+      "sha256": "6a1a15494328ec1f24988f1c3dee32a90da418d8cadcccb70099462c4a5f6559",
+      "size": 3025
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/super-mario-brothers-movie.json",
+      "sha256": "7b16d854222c4668d432676400683ff9af72edbd4d11286c481d9c00732517d7",
+      "size": 380
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "super-mario-brothers-movie",
+  "published_files": {
+    "data/csv/bytes/super-mario-brothers-movie-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "3cb1d53b738b1bdcff2fa9616b1b25540a1c9cfc9cd009f25a5e5231098cc53f",
+    "docs/itemized/figures/super-mario-brothers-movie-carto-4k.webp": "51ba1649f616354039e6fc80bc687ce5124b915d9d23724125463f710ddc19e5",
+    "docs/itemized/figures/super-mario-brothers-movie-carto.png": "976d3230d52a52160e32738fb0f5752108bfb357deb2b939edbcc3934785092b",
+    "docs/itemized/figures/super-mario-brothers-movie-cumulative-detail-btiha-itemized-by-bytes.svg": "988bc7ad159f4cbacb2ec90c038865fc2dc32e761c3f4b7fcb192760932ceafa",
+    "docs/itemized/figures/super-mario-brothers-movie-data-ge-1080p-4k.webp": "ef7cafcfb95054ab9156bd57114b40c6ac9b3749828c0eeb2217df20e7c76084",
+    "docs/itemized/figures/super-mario-brothers-movie-data-ge-1080p.webp": "54a583152d34ca988f24faa8f34f531bbe26d4452180cb93676a48b75923eb64",
+    "docs/itemized/figures/super-mario-brothers-movie-data-lt-1080p-4k.webp": "6a3f23abe913ede92fafcb553094840fa0dd19786c2567914e6ac5899619bd96",
+    "docs/itemized/figures/super-mario-brothers-movie-data-lt-1080p.webp": "3f47c63503ce95575455dc1a3c1ce75e3a7b5131cf8758cdb497a69ae14e99cc",
+    "docs/itemized/figures/super-mario-brothers-movie-downloads-by-day-day.svg": "c5d818e46bd656d1be517f331a4e3813e7a2cbebe7bb2999b3156774bf6f0adb",
+    "docs/itemized/figures/super-mario-brothers-movie-downloads-by-week-super-mario-brothers-movie-week.svg": "0116fc37aae3840fa1201b9e0b3b940bc0de5f0e75f9f38f55667653834cba7e",
+    "docs/itemized/super-mario-brothers-movie-sample-cache-audit.md": "b7e02dad8abb01d4da6902436072cdb83384ad79594023d448a6dfa72aa17dc7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/super-mario-brothers-movie/tmp/super-mario-brothers-movie-cumulative-btiha.geojson",
+        "sha256": "80e3d62ebf3930f36c8df2d3913aaf91356656db1433aef6c078233b519f5253",
+        "size": 212702179
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/super-mario-brothers-movie/tmp/super-mario-brothers-movie-cumulative-btiha-media-objects.json",
+        "sha256": "736154d5645c369638cf5edcdf6428d860346bc7525d7751bd652ab731f8ce44",
+        "size": 2200927
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "super-mario-brothers-movie",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          73.0,
+          52.0,
+          48.0,
+          41.0,
+          41.0,
+          41.0,
+          35.0,
+          35.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "Seoul",
+          "Quezon City",
+          "Amsterdam",
+          "Saint Petersburg",
+          "New York City",
+          "Santiago",
+          "Johannesburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          53.0,
+          50.0,
+          39.0,
+          39.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "S\u00e3o Paulo",
+          "London",
+          "Saint Petersburg",
+          "Quezon City",
+          "Seoul",
+          "Amsterdam",
+          "Santiago",
+          "Johannesburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 30,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 19,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}

@@ -1,0 +1,14 @@
+{
+  "collection_key": "super-mario-brothers-movie",
+  "day_products": 133,
+  "first_date": "2023-05-16",
+  "first_index": 1,
+  "geojson_data_version": "20260701",
+  "ip_geolocation_version": "6:1777968300",
+  "json_data_version": "2026-08-05",
+  "last_date": "2023-09-25",
+  "last_index": 133,
+  "schema": "alpha60-day-product-contract/1",
+  "sparse": false,
+  "status": "pass"
+}
