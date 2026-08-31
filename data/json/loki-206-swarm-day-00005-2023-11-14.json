@@ -1,0 +1,17 @@
+{
+    "datestamp": "2023-11-14",
+    "collection_name": "Loki",
+    "collection_id": "206",
+    "collection_key": "loki-206",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 5,
+    "btiha_size": 151,
+    "upeers_total": 340090,
+    "useeds_total": 112406,
+    "upeers_new": 0,
+    "useeds_new": 0
+}

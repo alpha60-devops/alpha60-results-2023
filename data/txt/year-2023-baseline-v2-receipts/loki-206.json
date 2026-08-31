@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9140554",
+    "imdb_id": "tt9140554",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q64349029",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
+  },
+  "coverage_sha256": "d70f1b6e14c2fe7094d0ae957edf8640483cb00a445d6428f077990297ac323f",
+  "generated_at": "2026-08-31T20:57:52.028584+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/loki-206.cache/cache.20240509.tar.xz",
+      "sha256": "85a10831283008ca14b6b5ae74546ac2b3fbf38a12ba9e80a520803103692441",
+      "size": 1813362520
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/loki-206.md",
+      "sha256": "07069bfda22adcf0372c27324c11530289c6ad7773a260225d86daf5665cb5b7",
+      "size": 622
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/loki-206.json",
+      "sha256": "13dcb40f1f67573ec429f9c1f1085cdc721a284d5c2015ae26454d97ee2cb0c8",
+      "size": 3412
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/loki-206.json",
+      "sha256": "c50658dc11f7193d753aa9522a4e476ed701650290c3c522cb37fc8dedf3ecd9",
+      "size": 362
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+      "size": 79337
+    }
+  },
+  "media_object": "loki-206",
+  "published_files": {
+    "data/csv/bytes/loki-206-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "aac9b9e5bcaa3edd866d262155a0eea5adf7717df5aa7c07716052c8d247ede7",
+    "docs/itemized/figures/loki-206-carto-4k.webp": "170113ca5096db0e91df791400c14911d1148bd05af8b54617b66c4e88a917a4",
+    "docs/itemized/figures/loki-206-carto.png": "f222847f30fb4110a701f798f76e74c4df23bece08797bc3b96792f461d81f1e",
+    "docs/itemized/figures/loki-206-cumulative-detail-btiha-itemized-by-bytes.svg": "c521fa8ce38f3aef9510cadff75c3b26203bb2885a58c836012f863b19ba64f4",
+    "docs/itemized/figures/loki-206-data-ge-1080p-4k.webp": "6559f07734b1916c2c7399fad972493331bbb1b8fd005735b48b77c154a4ff9c",
+    "docs/itemized/figures/loki-206-data-ge-1080p.webp": "ea769b2ef0bc2c2928699c0f59443733b9889c549ad25e5e0cc84587d103b979",
+    "docs/itemized/figures/loki-206-data-lt-1080p-4k.webp": "29e28fb5d21e309e68a5f8461f01eee0ac78b37b8c62c461d09ef099c4d2dbf8",
+    "docs/itemized/figures/loki-206-data-lt-1080p.webp": "216cbc249d9d1bec023ba5aafbc81b43b1b01112c8cd665312079756985a4860",
+    "docs/itemized/figures/loki-206-downloads-by-day-day.svg": "8fc4a6a14dc1dbfc15c3946c996d620058155f85858000337b2ad9cc9a9972d7",
+    "docs/itemized/figures/loki-206-downloads-by-week-loki-206-week.svg": "fe2aadb4892e4d5d1b85a761a176160d7df63664ede33bd97437cc025a76e9d1",
+    "docs/itemized/loki-206-sample-cache-audit.md": "ecc897bfc58ffd7281f128b19c816fc97351dabda19e89ae3802a2c6dc9393c6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/loki-206/tmp/loki-206-cumulative-btiha.geojson",
+        "sha256": "59928f847d4f2f7b484b929269d15632a44934a36f013efb99864f33705a1d52",
+        "size": 345633426
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/loki-206/tmp/loki-206-cumulative-btiha-media-objects.json",
+        "sha256": "505808ad2b320b0e1a9f3991cc0c1587a105befa8142be54997d5d797b3b9fe7",
+        "size": 573697
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "loki-206",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          46.0,
+          42.0,
+          40.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Ashburn",
+          "Budapest",
+          "Lelystad",
+          "Mexico City",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          57.0,
+          46.0,
+          42.0,
+          40.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Budapest",
+          "Mexico City",
+          "S\u00e3o Paulo",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 52,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
