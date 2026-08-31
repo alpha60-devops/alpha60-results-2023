@@ -1,0 +1,14 @@
+{
+  "collection_key": "witcher-03.1",
+  "day_products": 180,
+  "first_date": "2023-06-29",
+  "first_index": 1,
+  "geojson_data_version": "20260701",
+  "ip_geolocation_version": "6:1777968300",
+  "json_data_version": "2026-08-05",
+  "last_date": "2023-12-27",
+  "last_index": 182,
+  "schema": "alpha60-day-product-contract/1",
+  "sparse": true,
+  "status": "pass"
+}
