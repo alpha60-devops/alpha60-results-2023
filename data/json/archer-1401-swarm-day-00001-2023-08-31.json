@@ -1,0 +1,17 @@
+{
+    "datestamp": "2023-08-31",
+    "collection_name": "Archer",
+    "collection_id": "1401",
+    "collection_key": "archer-1401",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 1,
+    "btiha_size": 30,
+    "upeers_total": 19653,
+    "useeds_total": 9233,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
