@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt15227418",
+    "imdb_id": "tt15227418",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q116050906",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Murder_at_the_End_of_the_World"
+  },
+  "coverage_sha256": "dcd093d82974ed90b6ed22b3f4bba3abe5e1a12b5f4d8a81629cb9e65105250b",
+  "generated_at": "2026-08-31T21:44:40.093694+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/murder-at-the-end-of-the-world-101.cache/cache.20240304.tar.xz",
+      "sha256": "6fbed6197d1a9134d2dc1c27ae101cdf5d8060d3c76edda384643d83778932a9",
+      "size": 422187776
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/murder-at-the-end-of-the-world-101.md",
+      "sha256": "21e1b2101c1f03dfa23c13afd320faed06b656d4b58059ea8dd0345934605f57",
+      "size": 674
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/murder-at-the-end-of-the-world-101.json",
+      "sha256": "8b43a1b03b09e07ed78cb2f263c576f035691a91ebde85e3cc3ac529cf39a8f7",
+      "size": 2860
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/murder-at-the-end-of-the-world-101.json",
+      "sha256": "bb66acc157f5e78b5f7c4b0c2b3e70099cce6ce4d5e04a1608a3a8c915decf00",
+      "size": 388
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "murder-at-the-end-of-the-world-101",
+  "published_files": {
+    "data/csv/bytes/murder-at-the-end-of-the-world-101-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "58309c7ba82aaf99a2c18de4e33d38297af6e280e75b05e9dabcf83953c66720",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-carto-4k.webp": "27bc645d2a04516ee707b7eb3bb7cd6dfbeac82ca5e2b66e5677159ab3161314",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-carto.png": "5b21e22e65f345d418b0de92ba7f6b50157c581a291a5b58a0ac519ad9a97b48",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-cumulative-detail-btiha-itemized-by-bytes.svg": "b5f62c31bc0246e5d79ff18cdf3c9f2344393d8848fbd762df6f3df1fc819dae",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-data-ge-1080p-4k.webp": "2ad6fc2ff8a47de0be5ce82af2873fdf9f6e1508d431c466fcd2e6ea77b1ba1d",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-data-ge-1080p.webp": "3e4350243d1668f025826b9f903f094b8917185ed06f2cef56dc024b4423ca89",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-data-lt-1080p-4k.webp": "090e088421f9ca06f664adab48cfd2e1a70257fb32da1e59f2505f4c8bf654fd",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-data-lt-1080p.webp": "6d39fa4c9451ca6a0e949ea07c9ba3ebf8e39c099cc88157df8c443e603c101b",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-downloads-by-day-day.svg": "d5327f73fbc17d135affef8bca5e27b5d50b34cab16744dc0fcabdbb0e48c082",
+    "docs/itemized/figures/murder-at-the-end-of-the-world-101-downloads-by-week-murder-at-the-end-of-the-world-101-week.svg": "6a7bd28585253da28f068a18cdc60ebf309e913e690fe51124365e88d955c231",
+    "docs/itemized/murder-at-the-end-of-the-world-101-sample-cache-audit.md": "ce12860e0dfa09a8546d01aa290fc70c2c270eb152210a9a8430bf2a44ed6c81",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/murder-at-the-end-of-the-world-101/tmp/murder-at-the-end-of-the-world-101-cumulative-btiha.geojson",
+        "sha256": "d1a342f91abc3d3e93b6d6074b7e6c281406c8afaa0afd33b785b2c93973aad9",
+        "size": 104111933
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/murder-at-the-end-of-the-world-101/tmp/murder-at-the-end-of-the-world-101-cumulative-btiha-media-objects.json",
+        "sha256": "9f30dc656b47e096036e8591e791f3bd9b4eddac6bf7d7810c1bb837b7800e66",
+        "size": 177913
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "murder-at-the-end-of-the-world-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          60.0,
+          51.0,
+          45.0,
+          45.0,
+          32.0,
+          30.0,
+          29.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Istanbul",
+          "Ashburn",
+          "Saint Petersburg",
+          "S\u00e3o Paulo",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          70.0,
+          68.0,
+          50.0,
+          46.0,
+          31.0,
+          31.0,
+          30.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "S\u00e3o Paulo",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 32,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}

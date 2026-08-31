@@ -1,0 +1,14 @@
+{
+  "collection_key": "murder-at-the-end-of-the-world-101",
+  "day_products": 112,
+  "first_date": "2023-11-14",
+  "first_index": 1,
+  "geojson_data_version": "20260701",
+  "ip_geolocation_version": "6:1777968300",
+  "json_data_version": "2026-08-05",
+  "last_date": "2024-03-04",
+  "last_index": 112,
+  "schema": "alpha60-day-product-contract/1",
+  "sparse": false,
+  "status": "pass"
+}
