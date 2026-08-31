@@ -1,0 +1,36 @@
+{
+  "schema": "alpha60-year-worker-link-local-transfer/1",
+  "status": "pass",
+  "year": "2023",
+  "recorded_at": "2026-08-31T07:19:59-07:00",
+  "payload": {
+    "bytes": 67108864,
+    "sha256": "1edb8c6973a607cfbc0554ef2680af05b9645d37d7c19355852df26e26763959",
+    "generated_on": "rizal",
+    "random_data": true
+  },
+  "directions": [
+    {
+      "source": "eureka",
+      "source_address": "169.254.31.134",
+      "destination": "ord",
+      "destination_address": "169.254.4.107",
+      "bytes_per_second": 44750259.33,
+      "destination_sha256": "1edb8c6973a607cfbc0554ef2680af05b9645d37d7c19355852df26e26763959",
+      "rsync_log": "year-2023-link-eureka-to-ord.log",
+      "rsync_log_sha256": "7a1d6c2c060ab245b933970992f308e71eec25224ca299bfd28802b9b3a61872"
+    },
+    {
+      "source": "ord",
+      "source_address": "169.254.4.107",
+      "destination": "eureka",
+      "destination_address": "169.254.31.134",
+      "bytes_per_second": 134250802.0,
+      "destination_sha256": "1edb8c6973a607cfbc0554ef2680af05b9645d37d7c19355852df26e26763959",
+      "rsync_log": "year-2023-link-ord-to-eureka.log",
+      "rsync_log_sha256": "bb67f5f723bc20acfa6f7ac977090f8a9ff149310c4bd60f72be628b495d32e6"
+    }
+  ],
+  "archive_mutated": false,
+  "raw_samples_opened": false
+}

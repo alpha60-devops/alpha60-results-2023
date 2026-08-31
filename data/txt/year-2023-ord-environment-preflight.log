@@ -1,0 +1,20 @@
+schema=alpha60-year-worker-environment-preflight/1
+status=pass
+ord
+474825457664
+alpha60=68e01669ef00258db3a3043364cd1379e8d81859
+metadata=946ba50d640e259c07a45c8bd2a72d9ee5ced032
+data=f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951
+izzi=8af8b18ee736d60a8f38068217ed0e3d29e7e10f
+cartofreako=fc58111b5bfa7667b12f6ade522ae5e566b464d1
+results=832e1ff8edb997b0cad717f8a72001577f404092
+tracked_clean=pass
+7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05  /home/bkoz/src/alpha60/build/campaign/a60-cache-recache-synthesize-uniques.exe
+e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7  /home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe
+c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea  /home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe
+9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4  /home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render
+d60a25bd8fa5493eedd289dbf45dd0f7eaab514f067989286dcf401fb463c013  /home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png
+e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827  /home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/src.js/izzi-graph-hover-txt-polyline-red.js
+geolocation_db=pass
+{"status":"pass","counts":{"inventory_entries":69,"unique_keys":69,"ready_records":69,"error_records":0,"errors":0}}
+{"status":"pass","counts":{"errors":0,"passed":34,"records":34},"verification_policy":{"sha256":true,"size":true,"tar_listing":true}}
