@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10324164",
+    "imdb_id": "tt10324164",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q111582387",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prehistoric_Planet"
+  },
+  "coverage_sha256": "10a618af34b329e7fa1e1d9c169a49761eda74a98c0e755b508764008ab85693",
+  "generated_at": "2026-08-31T23:02:26.601144+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/prehistoric-planet-02.cache/cache.20230730.tar.xz",
+      "sha256": "df1b31ece823ab87d1b707f9edb7a5f9cfc93d102d1a2937c77abae4ed2f666c",
+      "size": 306689124
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/prehistoric-planet-02.md",
+      "sha256": "7a572dbf4da545ca85bb10d87195705148cc5b1123cd5f0656604358b56d406d",
+      "size": 648
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/prehistoric-planet-02.json",
+      "sha256": "dfed557043286638e6d79bf390fc34fc0cac831fab9fc5801894870b84550802",
+      "size": 2467
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/prehistoric-planet-02.json",
+      "sha256": "a3d7eebe0eac82eb4d1e021f537003ee33c64301b373a9a91d287cab92de814f",
+      "size": 373
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "prehistoric-planet-02",
+  "published_files": {
+    "data/csv/bytes/prehistoric-planet-02-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "ec81fdea7676d4ace4a8de82f09ef2af63e969c1eb3b9aa8bddcfc5fc3d4ebb5",
+    "docs/itemized/figures/prehistoric-planet-02-carto-4k.webp": "dee17dfc81eeb9cb254408fe7aa485193180acd421a99edc6fcfb5c0a6a87dbb",
+    "docs/itemized/figures/prehistoric-planet-02-carto.png": "fd2be8e9b419a4d178eefece1624d8655375ddb9b2df1d1f9412428a056e8e2d",
+    "docs/itemized/figures/prehistoric-planet-02-cumulative-detail-btiha-itemized-by-bytes.svg": "3c4b2ff4198213887bb2c0b99b8cb522fa35f70e4a23b775b013070e19e27b1e",
+    "docs/itemized/figures/prehistoric-planet-02-data-ge-1080p-4k.webp": "a29c9ced5bb7482a242d2ecf657150b2cc058b182f72225bc4bcc144fe91db97",
+    "docs/itemized/figures/prehistoric-planet-02-data-ge-1080p.webp": "c707260826aa44cfe408f48c9e7974ac485ad510929d99e8367b8005aae5ae5f",
+    "docs/itemized/figures/prehistoric-planet-02-data-lt-1080p-4k.webp": "da98b5ddf6ccf2f5916bf88b8fe96f558349f47e023776d84884abc38fbeb5f9",
+    "docs/itemized/figures/prehistoric-planet-02-data-lt-1080p.webp": "7c91cc3579d00d52c82cb362e94a73f39bf71953be48f9261f16762da9e5cb63",
+    "docs/itemized/figures/prehistoric-planet-02-downloads-by-day-day.svg": "653418454a17eaf8d87b20b1e8942d4f976dc0627bc982a6c697e277ace2b7dd",
+    "docs/itemized/figures/prehistoric-planet-02-downloads-by-week-prehistoric-planet-02-week.svg": "aa85b47d69945759db1cd5c34275b6601241daec7c9b2100e376d141641f6924",
+    "docs/itemized/prehistoric-planet-02-sample-cache-audit.md": "065972086a08a58f3fd71b8fec41b54a8141a0fbb0d3e093fbf2e9dab9f0dca4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/prehistoric-planet-02/tmp/prehistoric-planet-02-cumulative-btiha.geojson",
+        "sha256": "e8492eb3b605f5afc09a1d2a262d0ab83fc8ed006fa8103e10c3946f7a764f55",
+        "size": 51255271
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/prehistoric-planet-02/tmp/prehistoric-planet-02-cumulative-btiha-media-objects.json",
+        "sha256": "1d8b92fc422029885732f16820a871791b888ee5a439608674656c6b92b408e2",
+        "size": 1086624
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "prehistoric-planet-02",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          55.0,
+          40.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Shanghai",
+          "London",
+          "Saint Petersburg",
+          "Seoul",
+          "Amsterdam",
+          "Shenzhen",
+          "Lelystad",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          49.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "London",
+          "Amsterdam",
+          "Seoul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Lelystad",
+          "Toronto",
+          "Shenzhen"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 36,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
