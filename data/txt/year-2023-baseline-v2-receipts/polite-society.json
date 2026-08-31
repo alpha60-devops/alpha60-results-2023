@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt18257464",
+    "imdb_id": "tt18257464",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q115478681",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polite_Society_(film)"
+  },
+  "coverage_sha256": "390002609d52070722bac92b7dce6df84454099c2554a219ff6dbc9c61db3a19",
+  "generated_at": "2026-08-31T22:59:45.501675+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/polite-society.cache/cache.20230724.tar.xz",
+      "sha256": "55790994eba8dd59341b7ba99140ee500e3222bad7b153f15af9976784b44bb6",
+      "size": 156308596
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/polite-society.md",
+      "sha256": "eeeaa7c3251e4e23a0e8de114ef9a452e5c8e79bf4043042a86b595980e3451d",
+      "size": 634
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/polite-society.json",
+      "sha256": "6a31aeab4729d24b6639e68cca67e248b686cf132473c76281abdc7ec743159f",
+      "size": 2443
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/polite-society.json",
+      "sha256": "d4ddb73ef23d9d3b5861500cdc8f09c884c44973fb8d86285018bfe77bc961c4",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "polite-society",
+  "published_files": {
+    "data/csv/bytes/polite-society-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "c8adc099c4984712826758c23f86918df274aa38e0f65ba1a8d998e75474948d",
+    "docs/itemized/figures/polite-society-carto-4k.webp": "e2aa7ca4f69c2ab9410dde96a186b53ca175e5daaeee5f7b7940fe3664a3fa8e",
+    "docs/itemized/figures/polite-society-carto.png": "f03af5a1f4680d0395a052db90cf4787bef169f02678fe9a7cbdb133b6e356cf",
+    "docs/itemized/figures/polite-society-cumulative-detail-btiha-itemized-by-bytes.svg": "5cb944f8d8e96f6b9c60b53dc87d9a53a493dbbd3b101474c1ff067dada30b01",
+    "docs/itemized/figures/polite-society-data-ge-1080p-4k.webp": "48e1113a3c3bc6570220e2ae9d89ca8eb7c39f98e92723f037b563270101d0df",
+    "docs/itemized/figures/polite-society-data-ge-1080p.webp": "6afc5dbd6d298c127451ca135ca1467d148ef127d7b1bcc7bf13d6e59c2a18f2",
+    "docs/itemized/figures/polite-society-data-lt-1080p-4k.webp": "fef13635fd9a426014ca5ecd97e0cab1ae1a1f56b7ca02c6e0068c98ec1c86da",
+    "docs/itemized/figures/polite-society-data-lt-1080p.webp": "101c9dadbf642bc48e26760975c8c8c7baba56adfd5c62ee214844d004a12be6",
+    "docs/itemized/figures/polite-society-downloads-by-day-day.svg": "4d1db6608233633adceb91d9453a2021f3525b4d531c8e0a3ccbf60be46e9681",
+    "docs/itemized/figures/polite-society-downloads-by-week-polite-society-week.svg": "eb14cdfeb43d3e11d77267f9131247b256ff63da26034eb3a598f37c549b2f15",
+    "docs/itemized/polite-society-sample-cache-audit.md": "9aa65264446c47cd87605b06da2cf68075ac15e1e0a02a4612c36f598f6d5559",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/polite-society/tmp/polite-society-cumulative-btiha.geojson",
+        "sha256": "4f2039c098e94e0af35b9e68d13dc103cffb8e682296838480725de29a28a541",
+        "size": 24648674
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/polite-society/tmp/polite-society-cumulative-btiha-media-objects.json",
+        "sha256": "a40cd9e632033aee6ec64e6c83494079d0b0bb117e612058528483d3dba5c1c7",
+        "size": 388287
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "polite-society",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          57.0,
+          44.0,
+          41.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "London",
+          "Amsterdam",
+          "Seoul",
+          "Saint Petersburg",
+          "Lelystad",
+          "Johannesburg",
+          "New York City",
+          "Toronto"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Amsterdam",
+          "London",
+          "Johannesburg",
+          "Pretoria",
+          "Saint Petersburg",
+          "Seoul",
+          "Accra",
+          "Nairobi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 26,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
