@@ -1,0 +1,14 @@
+{
+  "schema": "alpha60-year-cache-archive-overrides/1",
+  "year": "2023",
+  "overrides": {
+    "citadel-101": {
+      "archive_date": "20230810",
+      "reason": "Canonical metadata ends at 2023-06-22; this immutable archive continues through 2023-08-10, so admit only released indices 1-56."
+    },
+    "only-murders-in-the-building-310": {
+      "archive_date": "20240122",
+      "reason": "Canonical metadata ends at 2023-12-19; this immutable archive continues through 2024-01-22, so admit only released indices 1-78."
+    }
+  }
+}
