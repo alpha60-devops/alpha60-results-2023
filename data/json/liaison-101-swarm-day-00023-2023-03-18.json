@@ -1,0 +1,17 @@
+{
+    "datestamp": "2023-03-18",
+    "collection_name": "Liaison",
+    "collection_id": "101",
+    "collection_key": "liaison-101",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 23,
+    "btiha_size": 50,
+    "upeers_total": 18045,
+    "useeds_total": 3402,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
