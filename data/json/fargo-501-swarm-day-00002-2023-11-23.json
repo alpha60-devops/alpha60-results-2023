@@ -1,0 +1,17 @@
+{
+    "datestamp": "2023-11-23",
+    "collection_name": "Fargo",
+    "collection_id": "501",
+    "collection_key": "fargo-501",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 2,
+    "btiha_size": 88,
+    "upeers_total": 172310,
+    "useeds_total": 61843,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
