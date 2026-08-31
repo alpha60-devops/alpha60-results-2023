@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2906216",
+    "imdb_id": "tt2906216",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q105554572",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves"
+  },
+  "coverage_sha256": "7feb1b764c64ee132ea7cbd14c45b58f5d5299418c194ab600f3117a5f007017",
+  "generated_at": "2026-08-31T19:27:49.850035+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/dungeons-and-dragons-honor-among-thieves.cache/cache.20230815.tar.xz",
+      "sha256": "6433dac6538b72568a73bb949dc15341241209c91366e941863e7d7e998fb1d1",
+      "size": 2449652572
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/dungeons-and-dragons-honor-among-thieves.md",
+      "sha256": "ac56b499b009b2dfa64b503bd23d514a45b2afc5676f991e93c4915b4a83953c",
+      "size": 775
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/dungeons-and-dragons-honor-among-thieves.json",
+      "sha256": "6a8ccba709ebafe7152baf93533c5798521900c28fe4d1d962c678dd362ab927",
+      "size": 2815
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/dungeons-and-dragons-honor-among-thieves.json",
+      "sha256": "8124b7c42e68c43131c06d2fc218c2f8bd223afad8164024d80dfe3efaa06476",
+      "size": 394
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "dungeons-and-dragons-honor-among-thieves",
+  "published_files": {
+    "data/csv/bytes/dungeons-and-dragons-honor-among-thieves-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "08f7413dcbf162d9ad08680e71e4b38b6e8666aa4dae1ea12c88835dce81635d",
+    "docs/itemized/dungeons-and-dragons-honor-among-thieves-sample-cache-audit.md": "b21a4646126c78e21812c44e8ef8bd2f5eae0a0c5bf02cd7998576e1c09eca50",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-carto-4k.webp": "efffbaf6cbab906a2b6f4dae1430db944a30dee003818934e4679f7875ae4d73",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-carto.png": "a93aa960f17d5d660bb046a6f494babf4fdd0b1b7f6a9340a12a7a41c8400b8d",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-cumulative-detail-btiha-itemized-by-bytes.svg": "5d624920c3cab8387e827d1b548ddcb34791d5aeb460566e4a08d93f89bd02f3",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-data-ge-1080p-4k.webp": "d049c4994dc1c532516c610ea143b3466f9b1f7f91589f6f4b889f440bad9cc7",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-data-ge-1080p.webp": "f9d0588f3a4031675df4fafa21fad08af7af02e8b3987224f3ea312800e4b991",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-data-lt-1080p-4k.webp": "a3f620fd92756ff7558d585c490d8f0d79c49cea230e28557dbe84b5315df9fa",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-data-lt-1080p.webp": "d5b0c7a42af18cdad0cf38a15a9434f1617f8f8854fad545f22336754aa5c407",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-downloads-by-day-day.svg": "a6ab33b1881d85e65a367b218ccf82af39ac08b65d4bc2914c965938a41a7dae",
+    "docs/itemized/figures/dungeons-and-dragons-honor-among-thieves-downloads-by-week-dungeons-and-dragons-honor-among-thieves-week.svg": "07f0715a4ef00765736c29e2eb473b56ca191806f43650f6e495339ec255841f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/dungeons-and-dragons-honor-among-thieves/tmp/dungeons-and-dragons-honor-among-thieves-cumulative-btiha.geojson",
+        "sha256": "7626f84a12e6d2accbe7476c026e06a048b517163a84c5fa3589d73d261a2ead",
+        "size": 135605784
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/dungeons-and-dragons-honor-among-thieves/tmp/dungeons-and-dragons-honor-among-thieves-cumulative-btiha-media-objects.json",
+        "sha256": "416c5fdbdc9146da087e908ed5925de583091c6fbb4e1670f6e20c96c57e6487",
+        "size": 814075
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "dungeons-and-dragons-honor-among-thieves",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          63.0,
+          45.0,
+          42.0,
+          37.0,
+          36.0,
+          32.0,
+          29.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Seoul",
+          "S\u00e3o Paulo",
+          "Saint Petersburg",
+          "Amsterdam",
+          "New York City",
+          "Shanghai",
+          "Quezon City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          41.0,
+          40.0,
+          37.0,
+          36.0,
+          35.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Johannesburg",
+          "Saint Petersburg",
+          "Madrid",
+          "Quezon City",
+          "Krasnodar",
+          "Seoul",
+          "Chennai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 40,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
