@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6741278",
+    "imdb_id": "tt6741278",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q55614601",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Invincible_(TV_series)"
+  },
+  "coverage_sha256": "6688964fda0df1d15d1ef3939b681db9fc9789081fddd796e836d5f8db701afe",
+  "generated_at": "2026-08-31T20:50:16.284729+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/invincible-201.cache/cache.20240112.tar.xz",
+      "sha256": "942fe5571fb4db87e0dea48699c6602d44514fd7ef5857e8ce602d0eea415278",
+      "size": 537265284
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/invincible-201.md",
+      "sha256": "0215cf277e23298d14fa319c725501db6aa87472b7b4d3033660144e89170a66",
+      "size": 23168
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/invincible-201.json",
+      "sha256": "6766f6f457cabddaf98bad9215de2156e1d65c3b7bc1d2f6237c042a2731e6ec",
+      "size": 2443
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/invincible-201.json",
+      "sha256": "469776a9433c825c09163dfb52c72ffcbcd3637e08c2f06b5ed744f71ae965ce",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "invincible-201",
+  "published_files": {
+    "data/csv/bytes/invincible-201-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "4cafd5cff918a3c476282ef6d25c47c5cd708ba7209e134002d8447a5a7b7ce4",
+    "docs/itemized/figures/invincible-201-carto-4k.webp": "94913cc54c0a7aa672a9d2ad72b4511ed3416639b3a54cee09189e574d9f782e",
+    "docs/itemized/figures/invincible-201-carto.png": "7d0d1fffa574024cda9cfdcfbe6acda0175d88d8260ff55c98c4e9fe9a49b9a3",
+    "docs/itemized/figures/invincible-201-cumulative-detail-btiha-itemized-by-bytes.svg": "6e523886b23b41bafef9a3a1f8e12554615563260eaba1203a40e61f5b214221",
+    "docs/itemized/figures/invincible-201-data-ge-1080p-4k.webp": "c91c5cb99da9953c2cd7fe86c5b9a533dce947aa679b4ab5931e2f9473e7382b",
+    "docs/itemized/figures/invincible-201-data-ge-1080p.webp": "29ac007864ade6ee64d6ab138e3ce0b108708230cfd7b98888009355572bd36c",
+    "docs/itemized/figures/invincible-201-data-lt-1080p-4k.webp": "fb4de35e6a18aef9166d6a68a8448a5d399b83cec5eb038f0c8fd5776c0d5573",
+    "docs/itemized/figures/invincible-201-data-lt-1080p.webp": "98392c63260441e5dc59604d49087006e968886aff97ef98c88e39a502faec41",
+    "docs/itemized/figures/invincible-201-downloads-by-day-day.svg": "b597a2d2806f61c43223da00a2dc277dc9d8a5cd74116140c96a645adb0e6994",
+    "docs/itemized/figures/invincible-201-downloads-by-week-invincible-201-week.svg": "fc791aaa862bd6aee3097af22ae5162de70a45e356ef5de12a34b0bdf0dd8564",
+    "docs/itemized/invincible-201-sample-cache-audit.md": "e778e3c0ad3618aaa165f95decb2300723aec1f765543fb9b5d9e7128a46b4f8",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/invincible-201/tmp/invincible-201-cumulative-btiha.geojson",
+        "sha256": "35449bf3157753bd958131dad328b5987fe5e16871496a0278352d7807e44042",
+        "size": 89259845
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/invincible-201/tmp/invincible-201-cumulative-btiha-media-objects.json",
+        "sha256": "b77d5dded7e77fb383fd7527b1175bdbb67a247c8e6f3a0821dd91bf26833cfa",
+        "size": 153933
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "invincible-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          65.0,
+          53.0,
+          45.0,
+          45.0,
+          35.0,
+          32.0,
+          32.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Ashburn",
+          "Istanbul",
+          "Saint Petersburg",
+          "S\u00e3o Paulo",
+          "Amsterdam",
+          "Budapest",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          66.0,
+          63.0,
+          58.0,
+          46.0,
+          45.0,
+          35.0,
+          33.0,
+          31.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Ashburn",
+          "Istanbul",
+          "Saint Petersburg",
+          "S\u00e3o Paulo",
+          "Amsterdam",
+          "Budapest",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
