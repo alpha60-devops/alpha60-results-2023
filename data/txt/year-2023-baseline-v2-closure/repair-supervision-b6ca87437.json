@@ -1,0 +1,75 @@
+{
+  "schema": "alpha60-year-baseline-v2-repair-supervision/1",
+  "year": "2023",
+  "status": "pass",
+  "service": {
+    "name": "alpha60-year-2023-repair-supervisor-b6ca87437.service",
+    "invocation_id": "fbc6aceff38240ad95f968fd2d1794a4",
+    "result": "success",
+    "exec_main_status": 0,
+    "started_at": "2026-08-31T14:06:05-07:00",
+    "original_worker_exited_at": "2026-08-31T15:28:35-07:00",
+    "repair_started_at": "2026-08-31T15:28:35-07:00",
+    "repair_worker_pid": 886957,
+    "repair_finished_at": "2026-08-31T15:59:16-07:00"
+  },
+  "guard": {
+    "required_original_records": 35,
+    "required_original_passed": 33,
+    "required_original_errors": 2,
+    "required_error_keys": [
+      "last-of-us-101",
+      "last-of-us-109"
+    ],
+    "original_worker_receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-run.json",
+      "size": 24383,
+      "sha256": "30df4deae90bcaf37508709b0ed313a79fc888260d22b0d258a7a271935245a3"
+    },
+    "original_archive_verification_sha256": "67964e1843a1607413e8b4908675a1ea5030af321acc7fc3a7cb40404d5e1331",
+    "supervisor_script": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/year-2023-repair-supervisor-b6ca87437.sh",
+      "size": 3627,
+      "sha256": "e544bc159877f34c9ca8f2fa78609e2a3b6bb3e8a22f59c75f60fffe4cf199bd"
+    }
+  },
+  "repair_bundle": {
+    "alpha60_revision": "b6ca87437",
+    "path": "/home/bkoz/src/alpha60/build/year-2023-repair-b6ca87437",
+    "binaries": {
+      "a60-cache-recache-synthesize-uniques.exe": "157575474f90c8b688713459784404455976e84bb1c1c3ec864f752303414694",
+      "a60-cache-samples.exe": "d6e0478daa70231a7f1ff2766e1445f3562f63e2a17e5f29c4bc34294f96a32d",
+      "a60-carto-geo.exe": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "a60-meta-collection.exe": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65"
+    }
+  },
+  "repair_worker": {
+    "receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-run.repair-b6ca87437.json",
+      "size": 2090,
+      "sha256": "bff65eaa5149f4a0de7c46b35f45191770fc4bc9c84c764499a280a1a8f8dcd9"
+    },
+    "log": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker.repair-b6ca87437.log",
+      "size": 665043,
+      "sha256": "a2e368abaa6f1774f535e82720e70c9e6384c115d7d14734c2110471758a1758"
+    },
+    "counts": {
+      "records": 2,
+      "passed": 2,
+      "errors": 0
+    },
+    "records": [
+      {
+        "collection_key": "last-of-us-101",
+        "status": "pass",
+        "results_revision": "20e51e7dce503700f959b6319f97e9bc6704c197"
+      },
+      {
+        "collection_key": "last-of-us-109",
+        "status": "pass",
+        "results_revision": "0d801d540f8029eb811677fb0ae7469b0ad18463"
+      }
+    ]
+  }
+}

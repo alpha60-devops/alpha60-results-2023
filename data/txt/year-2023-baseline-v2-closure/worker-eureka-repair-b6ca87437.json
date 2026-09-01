@@ -1,0 +1,61 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/archive-verification.json",
+    "sha256": "67964e1843a1607413e8b4908675a1ea5030af321acc7fc3a7cb40404d5e1331",
+    "size": 21507
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 2,
+    "records": 2
+  },
+  "executor": "eureka",
+  "finished_at": "2026-08-31T22:59:16.045724+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/last-of-us-101.cache/cache.20230716.tar.xz",
+      "collection_key": "last-of-us-101",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T22:45:10.859960+00:00",
+      "owner": "eureka",
+      "results_revision": "20e51e7dce503700f959b6319f97e9bc6704c197",
+      "started_at": "2026-08-31T22:28:37.317203+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/last-of-us-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/last-of-us-109.cache/cache.20230702.tar.xz",
+      "collection_key": "last-of-us-109",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T22:59:16.045175+00:00",
+      "owner": "eureka",
+      "results_revision": "0d801d540f8029eb811677fb0ae7469b0ad18463",
+      "started_at": "2026-08-31T22:45:10.860490+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/last-of-us-109",
+        "removed": true,
+        "status": "pass"
+      }
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-08-31T22:28:37.316507+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+    "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+    "size": 79337
+  },
+  "year": "2023"
+}

@@ -1,0 +1,361 @@
+{
+  "schema": "alpha60-results-baseline-v2-audit/1",
+  "year": "2023",
+  "status": "pass",
+  "counts": {
+    "passed": 69,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 69,
+    "unique": 69
+  },
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "ahsoka-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "ahsoka-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "american-born-chinese-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "and-just-like-that-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "archer-1401",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "avatar-the-way-of-water",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "barbie",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "barry-401",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "beacon-23-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "beacon-23-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "bear-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "black-mirror-06",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "black-panther-wakanda-forever",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "blue-eye-samurai-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "changeling-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "citadel-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "citadel-106",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "consultant-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "curse-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "dungeons-and-dragons-honor-among-thieves",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "fargo-501",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "for-all-mankind-401",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "foundation-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "fubar-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "full-circle-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "gen-v-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "gen-v-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "guardians-of-the-galaxy-3",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "hijack-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "hijack-107",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "idol-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "im-a-virgo-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "invincible-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "last-of-us-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "last-of-us-109",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "liaison-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "loki-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "loki-206",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "lupin-03",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "magic-mikes-last-dance",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-308",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "marvelous-mrs-maisel-501",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "minx-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "monarch-legacy-of-monsters-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "murder-at-the-end-of-the-world-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "murder-at-the-end-of-the-world-107",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "no-more-bets",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "only-murders-in-the-building-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "only-murders-in-the-building-310",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "oppenheimer",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "outer-banks-03",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "polite-society",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "power-105",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "power-109",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "prehistoric-planet-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-charlotte-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "queer-eye-2018-07",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "reacher-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "reservation-dogs-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "reservation-dogs-310",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "spider-man-across-the-spider-verse",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "super-mario-brothers-movie",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "they-cloned-tyrone",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "twisted-metal-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "warrior-310",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "witcher-03.1",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "witcher-03.2",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "you-04.2",
+      "status": "passed",
+      "issues": []
+    }
+  ]
+}

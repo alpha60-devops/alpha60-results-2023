@@ -1,0 +1,1565 @@
+{
+  "counts": {
+    "archive_records": 69,
+    "baseline_v2_pages": 69,
+    "day_complete": 69,
+    "day_product_pairs": 8356,
+    "excluded_records": 4,
+    "index_links": 69,
+    "inventory": 69,
+    "unique": 69,
+    "worker_failed": 0,
+    "worker_passed": 69,
+    "worker_repairs": 2
+  },
+  "day_records": [
+    {
+      "collection_key": "ahsoka-101",
+      "coverage_sha256": "eb6625d7c6ed312db33b311899209950d7aaad583b12f14a5dcbb6efcb0efbac",
+      "day_product_sha256": "f37c97b0f5b6b666be995fcb869a7130ba99b76df7808a14eb52be277b8403dd",
+      "day_products": 181,
+      "day_stream_sha256": "bb0322680a5ebb349ad66754db5d1ce8cc14629de3164a815444ad864bd62e7d",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "ahsoka-108",
+      "coverage_sha256": "1aeda592e5bb8ae162c231ec5598b2a033039feb75822fabe1af93dbb8b2141e",
+      "day_product_sha256": "e5d7861db45d51cac8308b29823be2d025c02f05a194f240d57238827b371926",
+      "day_products": 182,
+      "day_stream_sha256": "96b731b552472cc80427da4a0d0585a4cd969a1505a4ea431ba2bbcee2d8c95b",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "american-born-chinese-01",
+      "coverage_sha256": "8502ac01ffc996f1ab3bc2ed05a4fb8cf23f3d199079d2bef14a057e035de383",
+      "day_product_sha256": "61920528e9f3ec49db0e56a6adbb745e90c3caa1f682b6f7184395bd5e930f42",
+      "day_products": 105,
+      "day_stream_sha256": "319e1d52063624b24d925cfee502be22a62064ff96f5ff8992cdb6d3ef5ab7d1",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "and-just-like-that-201",
+      "coverage_sha256": "145e5483cffb9fc62d42a996ecbc9ed1f402448a70a3749a8a9304523709a931",
+      "day_product_sha256": "7ea19459c6841d964c64c5b80a20c4e52bd805aff4491304ba353781838346e0",
+      "day_products": 112,
+      "day_stream_sha256": "96c9a5e53b6791af53f62d33382c9eec4ab7aa50e107aa6f5f25b9909472b2f3",
+      "first_index": 1,
+      "last_index": 112,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "archer-1401",
+      "coverage_sha256": "79dd1900fb5e9ece7a5a2b123d02b9834c65be805bf1612a09f37135684acf1b",
+      "day_product_sha256": "ec9de262fc50d4477ff31b0f6e60d57725b80d5f83d3e2bff6ca6406b4417693",
+      "day_products": 182,
+      "day_stream_sha256": "84923576e032eb1df4613dc303c3a25206b11e9676fb213c2404f20aaecc0ee5",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "avatar-the-way-of-water",
+      "coverage_sha256": "3180bf99b7c71c74cd516dc08b9ef665b4bdf0f820d5bb043d9064220d0bbfa4",
+      "day_product_sha256": "5771bca9c6a00512a21445d5af8d4a20687252eb10e17979832bcae6357f6c0f",
+      "day_products": 182,
+      "day_stream_sha256": "a01274e6f8c62e55b1a332cd8fc3b6bb8295aaf6088f34dea39ee61d4e53adf5",
+      "first_index": 1,
+      "last_index": 189,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "barbie",
+      "coverage_sha256": "6f1d12a303e497f5f311b40f7d15c8f491bcc26b3c271e60fe8be0e2252cc428",
+      "day_product_sha256": "4e00e07b637ee790a7dc05310db4ac74aff621f761c2723663e8416426606470",
+      "day_products": 182,
+      "day_stream_sha256": "21a37ec97284d3a94db9231314133e33b1c63d9705e7591e747b21ae71b0b156",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "barry-401",
+      "coverage_sha256": "036c6006123c306fbeecd0eacb442eae431d54178d01f54ffcb31e24d8908757",
+      "day_product_sha256": "c7f3a2648e9ed6d0e7c620ee500861ea96bb5f605008d1993d1d39c84d53b4f5",
+      "day_products": 70,
+      "day_stream_sha256": "c838fd10aa6888a2e6983d5f0bae3f0ed38b977a1a812a3c395018c58ce86931",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "beacon-23-101",
+      "coverage_sha256": "f00da83ed7b4e822552546c531662e122bd53f7204dc085adc4aeabb0c51d7ba",
+      "day_product_sha256": "469009224c0eb439bcaef3a014b5a333b8ea90502c6aa005427d627276fef082",
+      "day_products": 105,
+      "day_stream_sha256": "77d417b25eeb79f85bdb7f05414a076469869990041af0a4bad5ab4e6adee133",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "beacon-23-108",
+      "coverage_sha256": "944333a9a4deeffeddb401fe8f31bbe63afee8dcc5c8b871503d998e5c0176cf",
+      "day_product_sha256": "9e12830ecfea76e3f4214ef0e52895c0367210744dfd5d3ec1be2eed4c165d7a",
+      "day_products": 104,
+      "day_stream_sha256": "9b6a55bf6af7efe81dab9715a0bcc020f79dd0115424caa02781bd13e456af88",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "bear-02",
+      "coverage_sha256": "aec969e1ae615cb1e90b67ff63cb1aca5216655acfd0c3bc496d88ea6aa24fe2",
+      "day_product_sha256": "df172fcce27ab08106d63c59476d130f646b7d81902f37d3a1b663cd9063408d",
+      "day_products": 182,
+      "day_stream_sha256": "d8abaac3c35c9063e9dad419e979e5c845a058439a58d7f7f9fd59b319950866",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "black-mirror-06",
+      "coverage_sha256": "c82636e1a23feebb2aadd3a7a79868d2d74b7d29f806cdf74ecc2c7c01427ae3",
+      "day_product_sha256": "cf8c54f6d807ef798424936d7d49cbcf2b1acf0e1ee41a5a425562600f733dd3",
+      "day_products": 105,
+      "day_stream_sha256": "5cb2b9a083468a56e72f97525618ced2419d686124b51953dfe0b413f885c455",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "black-panther-wakanda-forever",
+      "coverage_sha256": "5bf7f6a2fc86862750d9cda33da319cba8f3f99e5de5539b55abc0b950dc9777",
+      "day_product_sha256": "5907862b6e51995c5cbffb9a4e2440052fa813a0ee5ad73357b2dd1492906c9d",
+      "day_products": 182,
+      "day_stream_sha256": "eae32cb13992380ec42213bcf991c3b4e054acad014ee97e94bcfc6f5cb5c5c3",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "blue-eye-samurai-01",
+      "coverage_sha256": "68c49048d98a95314aa9e3af17a2acab3e5b3fd9b60d0f009b5cb6ef7041b15f",
+      "day_product_sha256": "5b9fbeafdd475487a94b895b0932729f6e50f4fa8a2de85c787b2f257a0f8e09",
+      "day_products": 70,
+      "day_stream_sha256": "7d8e97482b7bc9d30487764ddf3d350b23592707ea6f5acf05e2ddac1172f7a3",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "changeling-108",
+      "coverage_sha256": "37374aaa8b40bc18e3d94ed059013809d9e6372b0bc41b53abcfef81eb552877",
+      "day_product_sha256": "9c07e4285a0eaf8f761a6971d744cdbee7c0b0dc1a7c3265dfd57cbc340c0a1f",
+      "day_products": 70,
+      "day_stream_sha256": "6378746018da04fd145c4a57c9bcdb0e4cb1daedb8e9bd72a3505c2e3a5e4e8a",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "citadel-101",
+      "coverage_sha256": "f79c8138760f2187042f5a740ca933ae52be8c938aa2f83a09269d831571758f",
+      "day_product_sha256": "45fa74f409f47b172fb9863e108cbe7f1bc5e5e66ffdea743d5dd2ae3578dc34",
+      "day_products": 56,
+      "day_stream_sha256": "e16a395137202f3f902c523f13f8fd274eadcdf344a8627a84967f173c177d65",
+      "first_index": 1,
+      "last_index": 56,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "citadel-106",
+      "coverage_sha256": "5ab75c542fdfb26570eb4af33649a5a51cedb56d2c3dcc425b852076bd6cd3fb",
+      "day_product_sha256": "b053b26dfb706c660442f881d7645c3d1a775582cfa3626c51bc929180cc5ab5",
+      "day_products": 78,
+      "day_stream_sha256": "b9b5192d8be5f87fe2663a21320c58d4d4b1fe95a785ff73e7b667efbfe9e8ce",
+      "first_index": 1,
+      "last_index": 78,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "consultant-01",
+      "coverage_sha256": "133b6824b93ce6628c0146f3fb4de1b335c33ac33976aeaf9679bebc752269e7",
+      "day_product_sha256": "1a1db9bd9fdaa50a15f0bc5fbdeaa8c30b6ad617d5cf0db1adfd20e2c0ce90d7",
+      "day_products": 84,
+      "day_stream_sha256": "1c0797c242dc9c25d21892e48759c4af772012c60c8986f385330187b8bb234f",
+      "first_index": 1,
+      "last_index": 84,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "curse-01",
+      "coverage_sha256": "5d9229e33d96fed5a9659e7a78d673bfa49fd834759c36293c16a540af68fae7",
+      "day_product_sha256": "821d82d6fc0d01dbd13a71a9682047e117ff0d320865d2dc443685c382b7ef30",
+      "day_products": 105,
+      "day_stream_sha256": "b2ba8c59d5e4f4751a0dab743a3920aa501e99c0e893a88a187e3527526eacdb",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "dungeons-and-dragons-honor-among-thieves",
+      "coverage_sha256": "ac56b499b009b2dfa64b503bd23d514a45b2afc5676f991e93c4915b4a83953c",
+      "day_product_sha256": "8124b7c42e68c43131c06d2fc218c2f8bd223afad8164024d80dfe3efaa06476",
+      "day_products": 105,
+      "day_stream_sha256": "6a8ccba709ebafe7152baf93533c5798521900c28fe4d1d962c678dd362ab927",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "fargo-501",
+      "coverage_sha256": "3d652f1fd7d367350c9a4882e36bfe99269127da9e3af0734d7424509f72c2f8",
+      "day_product_sha256": "177c1c8ae9f8581b0589ece33d10a8fc59ab427a45bb2f552e26b3fee024c6eb",
+      "day_products": 105,
+      "day_stream_sha256": "1587921b5ac9aa69fa4eeee68bdfd26a6f3498f7e050caad8513f654f6537992",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "for-all-mankind-401",
+      "coverage_sha256": "267441ebe0f7f5dbd2966d96e3835871251e36878243a91a970aa23fc9bc4008",
+      "day_product_sha256": "0a3222ac5745a9bb2db64c2eee8e1bf4cbfe418fd8cfd19b748851b7c7e3d683",
+      "day_products": 182,
+      "day_stream_sha256": "b0f90a550b59fe1ba04f4e176bfb59c3cf287a059a12a3f0fa211c92e37ff691",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "foundation-201",
+      "coverage_sha256": "5b81817726ca650cd589424fdd565e65cc00957b6b2c774434946329116978e7",
+      "day_product_sha256": "04d479329cfaf3b3a07e8d22c722cb86187e10725f2fafc223ac577b8043364b",
+      "day_products": 105,
+      "day_stream_sha256": "2d73f71e0ae608b350d0dbbd5efa6c96daffb8a4bcd82084c4072fe50dee52f1",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "fubar-01",
+      "coverage_sha256": "3a2964a98fe12005367d534e14e10da3dce5e7a80b1f3751361866b182011dea",
+      "day_product_sha256": "e4a6b8fe83b3d901528b0528251e1db1d803232c874fe40570f0600081684fd7",
+      "day_products": 115,
+      "day_stream_sha256": "ccd4170f5af20df818e34606037fb360bbc5a15c92342eb290056f535b9cbd6f",
+      "first_index": 1,
+      "last_index": 115,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "full-circle-01",
+      "coverage_sha256": "fa43e9d22c811af8a6a54529dc0054bfcae4f97a76bf6a64837f147998542cd7",
+      "day_product_sha256": "fb4dc9d1d85847dbcaa4e0671af406757ee75ec8c6bce81c4fc03ab41def7863",
+      "day_products": 113,
+      "day_stream_sha256": "7b58941ecebad6a26096d9728be8ce41bf5db4f90647276ba125ba82da75b9d7",
+      "first_index": 1,
+      "last_index": 113,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "gen-v-101",
+      "coverage_sha256": "b77323c6616b8e241f645261c1e0bd0286ae2153faeae7f0b1ffadc330af1679",
+      "day_product_sha256": "74d1ec2f425362349d0236803822a2a8372a7025544098f6df85d7dce05cd24f",
+      "day_products": 182,
+      "day_stream_sha256": "b6eefe9d9ddb3ab9de5bfa1b01decdcd7f6349497f0c8733f5798261bb0dbc20",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "gen-v-108",
+      "coverage_sha256": "0fac964dc91034e94449066b586f513c0e4f6c146e92ef074a9ef63faf665971",
+      "day_product_sha256": "dd85d47a25414ce216efa2a6ee073c0f9018d9a977e8b35c87d5a7e5da0249f8",
+      "day_products": 182,
+      "day_stream_sha256": "20e58e5a7698cea877999b4e154c4214609a9b9238f362a78bebd389c74d7fb5",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "guardians-of-the-galaxy-3",
+      "coverage_sha256": "8b6b556da55c029b29faa614a189c45164d9392555dc867688ed35f91e584516",
+      "day_product_sha256": "bd54c460a1234362edc48379c67b14f2675160f660e6d6f4d2846e52340d2e36",
+      "day_products": 182,
+      "day_stream_sha256": "b52690042e3d73fc594ff2b387adb2e88401389ebc76474ea8a4f8dbf4a48b77",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "hijack-101",
+      "coverage_sha256": "05cca4b0276820de436745128462685e101cd821687e32e4c59f6665a1c3080f",
+      "day_product_sha256": "a06fcd76067a33ad66242bb0c2c6e11ea869ac7edfa58721686b0fb11d021815",
+      "day_products": 111,
+      "day_stream_sha256": "c1da2f13f4b57342b29ad2c37cf82c1b38680bb4559f5113bb88cf967ca9d57a",
+      "first_index": 1,
+      "last_index": 112,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "hijack-107",
+      "coverage_sha256": "bcd3dff1dd67ea51dcc0c7872021dc3497f4f522138cdd4b83f173737d1d3340",
+      "day_product_sha256": "b05e2aac8e4855815db84ac4760778376001fb3290f8b742f868452bb8276fc8",
+      "day_products": 105,
+      "day_stream_sha256": "895c05df9922e85e4530c7d7e214e7f100448a08948ee101fd59c227a098537d",
+      "first_index": 1,
+      "last_index": 106,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "idol-101",
+      "coverage_sha256": "428c1a2b5e65ef44976a294b186a93170eb82d11b135aed3c25f648d34649d10",
+      "day_product_sha256": "8ba005f0b7eb533387006df43f8fc65dbeb7df012cd458a5c67c7ae6c826a57e",
+      "day_products": 75,
+      "day_stream_sha256": "4554944c1b61f227e7cbd96b297e77a0756a1404394238d35b083483dd0d0b82",
+      "first_index": 1,
+      "last_index": 77,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "im-a-virgo-01",
+      "coverage_sha256": "efe4e683fec6b61b7518fa3fe94550c556cf271b3032ff9f6e428e2551815087",
+      "day_product_sha256": "085ccd88d6aaf3a616698d48e772d7d63c06d3ca8a9cf50c89d8192b55df39e9",
+      "day_products": 70,
+      "day_stream_sha256": "2da52a72b831527eceb6ac30b6fc7513ed550c98f0d84dbebcd595e8d93238c0",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "invincible-201",
+      "coverage_sha256": "0215cf277e23298d14fa319c725501db6aa87472b7b4d3033660144e89170a66",
+      "day_product_sha256": "469776a9433c825c09163dfb52c72ffcbcd3637e08c2f06b5ed744f71ae965ce",
+      "day_products": 70,
+      "day_stream_sha256": "6766f6f457cabddaf98bad9215de2156e1d65c3b7bc1d2f6237c042a2731e6ec",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "last-of-us-101",
+      "coverage_sha256": "cf3ba51b681aae288075edee91e88a20b12d3a9e7c9aa20b51a669474f3bac25",
+      "day_product_sha256": "a4758895dc53532ff0d9bac391992165b8d8ef356266629d2138e442035207ba",
+      "day_products": 181,
+      "day_stream_sha256": "67988d548281b39f30e8986890bf321bcb3be700d25aaeb0408a66931267e9d7",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "last-of-us-109",
+      "coverage_sha256": "98820aa84dfb0c14a663bd12a3235a803363897867d5b571a1f399a3ffa99e99",
+      "day_product_sha256": "d3f0f33c008e3cd603cf72532a9a627cb43702eb2a097db4fda184cf13fc4504",
+      "day_products": 112,
+      "day_stream_sha256": "efa20ee13ed66c9baefdc5e4c3c9348d4c1939964220962f9c12b89a231791a4",
+      "first_index": 1,
+      "last_index": 112,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "liaison-101",
+      "coverage_sha256": "75fb431e189896bb4d1a9592ac430f9d0e0e18f67135c5f1e862451452e625a7",
+      "day_product_sha256": "25c8d1e817297dd7c53abbfef95b0b0b9e37c028508412855999f619b761f192",
+      "day_products": 84,
+      "day_stream_sha256": "a04513a5a60db436e9cb574291aad1028f09acebeff03d604272c5803b87fe00",
+      "first_index": 1,
+      "last_index": 84,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "loki-201",
+      "coverage_sha256": "690f4eb1d5eeec62b0da953a33814ea905381eba2c20422902ada0fd764c5f16",
+      "day_product_sha256": "975ee41cd5d31b5eed94de3d8e16b07f1cf4e7ae2dcac42081f7098be9b75c1d",
+      "day_products": 181,
+      "day_stream_sha256": "5ae7d0288bf8518f6e13e896da5ad48de9b2234fa26046c164d70c5988b03213",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "loki-206",
+      "coverage_sha256": "07069bfda22adcf0372c27324c11530289c6ad7773a260225d86daf5665cb5b7",
+      "day_product_sha256": "c50658dc11f7193d753aa9522a4e476ed701650290c3c522cb37fc8dedf3ecd9",
+      "day_products": 182,
+      "day_stream_sha256": "13dcb40f1f67573ec429f9c1f1085cdc721a284d5c2015ae26454d97ee2cb0c8",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "lupin-03",
+      "coverage_sha256": "1795ddf421375fb81f053701c5165ad273b0a655b8225d30e82f188156fd63ba",
+      "day_product_sha256": "5b1b0b77e202c147a654035509d10abc3687531c54df57e6b6759e3e41cb9d6b",
+      "day_products": 105,
+      "day_stream_sha256": "f649b31a4ec12fb23b03c14e1a700cb582a3dfef1085ef3324234cb96a08a71a",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "magic-mikes-last-dance",
+      "coverage_sha256": "68cabf21e733203a59f07ceb68de3db81dce2d12605771e1ec620d78a7b3dc3b",
+      "day_product_sha256": "18114312ebf70238e33e4fd19fe93bd327fb9194161c69cb76a280c583191add",
+      "day_products": 70,
+      "day_stream_sha256": "3e151795251e4b3bb5a9328e5113f2a274d10e155cefcf61707a9a76bb3b14af",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "mandalorian-301",
+      "coverage_sha256": "c685cbd295d87c5509b92f14c79dd8676fa31e40e8b848f6c866368c19499b43",
+      "day_product_sha256": "3fe4b5e8f1a0ef28ebf6d40d51a23f159aca9a6a0fdfb1784006b97877903fa3",
+      "day_products": 182,
+      "day_stream_sha256": "dcf265c66859af443458983c8b278897fd76ab26ec779e944d11bc331c36326d",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "mandalorian-308",
+      "coverage_sha256": "a722a077c2adb440bbd66b3923eeb9e7fa7e4431b4bf3f7e8b1f758bd498511e",
+      "day_product_sha256": "5a417364e8cfe703bf8409f85bc92e8410f61d9528fa75d4ac35c1b4eec5697d",
+      "day_products": 105,
+      "day_stream_sha256": "02c209a53aaf4794e45d6df4c89e706afd86a74043f8ad2d4dc12e634a72d50a",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "marvelous-mrs-maisel-501",
+      "coverage_sha256": "35e0763ba2d429a9b83a79a035948a234b202a6b9a63c6684cdad9e3395a21d1",
+      "day_product_sha256": "b47dde3af319244ab3ff11621caf88de4dc7ba532baa96310fd682f01536b403",
+      "day_products": 70,
+      "day_stream_sha256": "5086f2b5532843c42bcfe57a1bd526ea17c7bd702881c53fc6ea213362454291",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "minx-02",
+      "coverage_sha256": "4215df8403eaf7763ff91e5ebb79874734c62ae95e9a353a36840556edcc4c84",
+      "day_product_sha256": "1cfd34f050377bdcfffae8b0bbc83a1e2333a59762ea063eea03c765a4ee2467",
+      "day_products": 112,
+      "day_stream_sha256": "dfc5ee735bc1388da85bdac6a0d72ca2dcae6d064d3e6197a9b8a9e9158f7e78",
+      "first_index": 1,
+      "last_index": 112,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "monarch-legacy-of-monsters-101",
+      "coverage_sha256": "2f13648a10a98a3e181e258ba2d8e8ce7c889533d2261f5519d1643059601ad3",
+      "day_product_sha256": "e6859ae9dfd157ef5acea0837e7f1a694b2681bd39fb9aca98e7e1ffc09e72a6",
+      "day_products": 182,
+      "day_stream_sha256": "3188b9bddece8e83ae195a641409cc93e9a43e4254f056d2a3afc4d57c900c2a",
+      "first_index": 1,
+      "last_index": 183,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "murder-at-the-end-of-the-world-101",
+      "coverage_sha256": "21e1b2101c1f03dfa23c13afd320faed06b656d4b58059ea8dd0345934605f57",
+      "day_product_sha256": "bb66acc157f5e78b5f7c4b0c2b3e70099cce6ce4d5e04a1608a3a8c915decf00",
+      "day_products": 112,
+      "day_stream_sha256": "8b43a1b03b09e07ed78cb2f263c576f035691a91ebde85e3cc3ac529cf39a8f7",
+      "first_index": 1,
+      "last_index": 112,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "murder-at-the-end-of-the-world-107",
+      "coverage_sha256": "1216962f4b6df26d30d5a5314e8087720e82703bfe29c8e74820c5168a051f2f",
+      "day_product_sha256": "fdf8b0eee1c26fd5f6b0d2191e195d174088144bbc0f7c56880e3b86f16943e7",
+      "day_products": 112,
+      "day_stream_sha256": "7106470e389666df4a69552054cb75b0b7b1f643807bc19d8fc9ea0eb303e111",
+      "first_index": 1,
+      "last_index": 112,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "no-more-bets",
+      "coverage_sha256": "d0d59181aa694ea1534738c19a978665cd9ccec950da0ffaf25dfd5d93583228",
+      "day_product_sha256": "388a026d4670edd34951f3cdf823e47a0daca7fce5e4fa72de541d59b178b27f",
+      "day_products": 240,
+      "day_stream_sha256": "1da0b438545ccdf22ea62780c567e2f2667a3bf3759d518975d1ce225b5a033a",
+      "first_index": 1,
+      "last_index": 240,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "only-murders-in-the-building-301",
+      "coverage_sha256": "ceb76d88e40c9f3b2a68ccedd3abf8691eafb76eb750d8dacfa41eab55aae7d8",
+      "day_product_sha256": "8458fb6b888eac5093f3129a02dc1b61b579559ee28e2c5f06db5c851e001b27",
+      "day_products": 105,
+      "day_stream_sha256": "420b236f040d8fcf491f947eea49ff21ddc331a66be91a4fc9add5bb5c2cb9a1",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "only-murders-in-the-building-310",
+      "coverage_sha256": "5052794627c96ac6e2ea7dcc89c27149aa42ed93e39bbcc624f30b5f12f30a0d",
+      "day_product_sha256": "6eb9b4daf4dcbadc7ccf1ad4bddbe397cefc7ee2b754e2cfc203504cf41561e2",
+      "day_products": 78,
+      "day_stream_sha256": "f210a2356a56420d2e1378abc37d14ae5334b4425b3ca92111f0a9ed42176082",
+      "first_index": 1,
+      "last_index": 78,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "oppenheimer",
+      "coverage_sha256": "672232a5ed284d21656fd9bd99518bd9c529b07818561397d0e82bc9bd25b638",
+      "day_product_sha256": "91c49dc8d97525133fbed84b7a0972c090897e4423151664158d9b04a475f631",
+      "day_products": 182,
+      "day_stream_sha256": "c4ed17c0725a63a8915998b78541da17e5b9116f12f0e8311299524e1746ba63",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "outer-banks-03",
+      "coverage_sha256": "a9b2d405874342db12e35f578c3881da3a4299ea73efec9a4b0567ada6e1b9f7",
+      "day_product_sha256": "d376a6b060b3662bca1fb6faa777639880ac97fd6ab265194da305002225a85b",
+      "day_products": 70,
+      "day_stream_sha256": "e951a8295c61835aa1ba78ba94e4d8c35ef31494414a6fadfd18808a60560d45",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "polite-society",
+      "coverage_sha256": "eeeaa7c3251e4e23a0e8de114ef9a452e5c8e79bf4043042a86b595980e3451d",
+      "day_product_sha256": "d4ddb73ef23d9d3b5861500cdc8f09c884c44973fb8d86285018bfe77bc961c4",
+      "day_products": 70,
+      "day_stream_sha256": "6a31aeab4729d24b6639e68cca67e248b686cf132473c76281abdc7ec743159f",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "power-105",
+      "coverage_sha256": "595a30e5cc62f039136b626525f08debee16eb2656be918b2c09f4f6ae0c4d56",
+      "day_product_sha256": "5e2562b58485f92aac31113bb81d4edb3be3a69f15b8a3b8b1b871f585739db8",
+      "day_products": 71,
+      "day_stream_sha256": "f07d621253f2d9c3c7f688d4cc62190153c85c38a94947ec162931411a7ab63d",
+      "first_index": 1,
+      "last_index": 71,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "power-109",
+      "coverage_sha256": "45442dcd295da06028e191fd5e9315d9eec8cdd4e83235d1a87ff80c8293a885",
+      "day_product_sha256": "c1546ce746309eaac8c4123ec999c1ff019b97661965e4361b3720ffd2e3f861",
+      "day_products": 70,
+      "day_stream_sha256": "b5d0cc3ab3fdfde6d3554f5a44928d6acf5b2852000dd1f0b30b33d7991d657e",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "prehistoric-planet-02",
+      "coverage_sha256": "7a572dbf4da545ca85bb10d87195705148cc5b1123cd5f0656604358b56d406d",
+      "day_product_sha256": "a3d7eebe0eac82eb4d1e021f537003ee33c64301b373a9a91d287cab92de814f",
+      "day_products": 70,
+      "day_stream_sha256": "dfed557043286638e6d79bf390fc34fc0cac831fab9fc5801894870b84550802",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "queen-charlotte-01",
+      "coverage_sha256": "ff4dc328e8947c601bf411b17b05c8e199ddc7041000464a03d4d434ecb84362",
+      "day_product_sha256": "c0a783be2e62a79c99a84eccf136bd6ff4f528b55ba69f40c1b2cc3d3a8b0393",
+      "day_products": 105,
+      "day_stream_sha256": "8a3506c76f62f7e2d2a0adbd8a82c3087dd8cf627aa5bcf66114c9e1e33c944d",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "queer-eye-2018-07",
+      "coverage_sha256": "5a2cc751cafccac5b5e19f0f6dd9d2f1da36dea62cbf8fca7839ac324b8e27b9",
+      "day_product_sha256": "9a1a9fbb3b96847d3dd396c7bd1550f31421a12a9118a1340026f89c1d34ee8c",
+      "day_products": 111,
+      "day_stream_sha256": "8f0150b1091998207e4a7c323acce22edb35b7bcbad7d3484f729c9a0a555691",
+      "first_index": 1,
+      "last_index": 111,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "reacher-201",
+      "coverage_sha256": "8c4c6c0ce671c3ccc6ec1afb5d420c9eefaf863b07de66606bf88cd7d5cec9b1",
+      "day_product_sha256": "747e202b3fcb21a157bd9ab888a786ac72a494982b55bc57e2cdab5295e2b3f0",
+      "day_products": 182,
+      "day_stream_sha256": "2ea988d633e5aea488ea48f6eec87b8324b88aa0013b0468c78ac43e0b2099c1",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "reservation-dogs-301",
+      "coverage_sha256": "a0f053ded0a2194e8904866d501f2c90683952780d5e5882272c9ea29ad61c26",
+      "day_product_sha256": "8e4d9f6a5ed1b1e71b6bab77bf9c43d856bc78cb259dd973a8304a4dbc5d75b1",
+      "day_products": 105,
+      "day_stream_sha256": "3b08be2d9a58553c34c13c74d5c2ddb0a924f3e5eafd126210b1daf60cde6371",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "reservation-dogs-310",
+      "coverage_sha256": "0aeae578ed9fdb3b928e59cde58b3c7c58f7e7647e275bab8ed05f99cd25ed23",
+      "day_product_sha256": "c882cb8870a11739ccc54374e085ec394b9ff9539e59b4e4ff862f7b3e3211ac",
+      "day_products": 77,
+      "day_stream_sha256": "a266f9f1dfc316d2a88d676690fd5c718cf53d800c22c3a1d632b178cc866cf3",
+      "first_index": 1,
+      "last_index": 77,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "spider-man-across-the-spider-verse",
+      "coverage_sha256": "10d74ad34df094b916d5033efb1a2781a2d6e39a9c7233ba291eabdf6733c0c8",
+      "day_product_sha256": "ce15542dbcba098c7e6cce629831ef193cdfa0161fefb3fa7e12ec64f2be2a28",
+      "day_products": 182,
+      "day_stream_sha256": "990c389ef8f366ba15914568db025e5657a2e033a8f58f387c30e110d1baba4d",
+      "first_index": 1,
+      "last_index": 183,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "super-mario-brothers-movie",
+      "coverage_sha256": "82f6f65f6dd03dcd104055275c02c11e2ee0ffe129f8b45492031d9c06613eb7",
+      "day_product_sha256": "7b16d854222c4668d432676400683ff9af72edbd4d11286c481d9c00732517d7",
+      "day_products": 133,
+      "day_stream_sha256": "6a1a15494328ec1f24988f1c3dee32a90da418d8cadcccb70099462c4a5f6559",
+      "first_index": 1,
+      "last_index": 133,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "they-cloned-tyrone",
+      "coverage_sha256": "3074a12ab324d44cea65e7555302efa03e9598bbbad35eea3b54e234a5c83bf5",
+      "day_product_sha256": "2baf05b591053677becee1ad0ae9debc1dc6227dd47b2edd62f8e26ee2417db5",
+      "day_products": 70,
+      "day_stream_sha256": "448f2ac4a845da8cd0851d12a7b4d0011afef8c401aa2a578bc224bf7e973408",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "twisted-metal-01",
+      "coverage_sha256": "6c99be9c32c15ca47af0206fc1611702474f639895d62a21fd8b6e822af5afb1",
+      "day_product_sha256": "8c2a700665a0f6fd2d7db650ce5a87b6081c0790d9e6b71a1c617e32c60f0716",
+      "day_products": 105,
+      "day_stream_sha256": "002fb8b5646308a860ab4542a0b609b4135650a9f690dc8d9970ee6da4e2f2ac",
+      "first_index": 1,
+      "last_index": 105,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "warrior-310",
+      "coverage_sha256": "d47ae2a8c0826f291948017cc6ca2af56a5708d3e3a9eec5564449f93d6a771a",
+      "day_product_sha256": "90a4e4e665a48f239927e3a91d6d1832943e612eec1bbfbcb38d218bf2043fbf",
+      "day_products": 69,
+      "day_stream_sha256": "11dd6c52eba3eac2d6bcddf7cef6fc4c1b65a4add5eceb80d406524230f656d4",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "witcher-03.1",
+      "coverage_sha256": "2d1b27bb19dc512ae51414ff1a339b723414f1c0d4bd420cbdfe0953d7b2b9c6",
+      "day_product_sha256": "bb857eca91663ddd6687514834db492f795cccebca74aa12fa5a4694e859d7e0",
+      "day_products": 180,
+      "day_stream_sha256": "ef260c5e2f1744397fc6d7eec69a067ddeee2d23f7feafebe9605b07ffed04fa",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": true,
+      "status": "pass"
+    },
+    {
+      "collection_key": "witcher-03.2",
+      "coverage_sha256": "ae3093a22ae5bc60a2cab9aaa51eda842f220fd6e7635fe38f31631383eff651",
+      "day_product_sha256": "000ac0cbf534e6a9a56e4328e1ec02e7c9890eef90f78b81f44d38a0cfa1819e",
+      "day_products": 182,
+      "day_stream_sha256": "ef56cd3da09c85416bdeb7e0e1f7b3ec1a7ea0a33e504bfc2ff2f283d1248924",
+      "first_index": 1,
+      "last_index": 182,
+      "sparse": false,
+      "status": "pass"
+    },
+    {
+      "collection_key": "you-04.2",
+      "coverage_sha256": "1e02c33b76f07f1124256e3b242bcfc541e70e0eb3b1fa6ca967dd4aa88b710f",
+      "day_product_sha256": "e93827f2d6b538ef617aa78d4c76abb35a6e0b9fdf4cbcef1525b20d0a70668d",
+      "day_products": 70,
+      "day_stream_sha256": "9d4b7c182a008368994dc6ca5ec53893a23ff1befa78376ea7fde9178c3efbf4",
+      "first_index": 1,
+      "last_index": 70,
+      "sparse": false,
+      "status": "pass"
+    }
+  ],
+  "excluded_records": [
+    {
+      "collection_key": "3d-guns",
+      "current_sha256": "37cf6c3181d9631428c666189a3fa315d1765b2ac7ea223bf3b4d33b1d407d92",
+      "published_outputs": [],
+      "scope_revision": "2af93a9",
+      "scope_sha256": "37cf6c3181d9631428c666189a3fa315d1765b2ac7ea223bf3b4d33b1d407d92",
+      "unchanged": true
+    },
+    {
+      "collection_key": "distributed-denial-of-secrets-corporate",
+      "current_sha256": "ec0d827ef37df6b8c3921dec706d0934427589dec78c4f3dfa0ebab25fd27f0a",
+      "published_outputs": [],
+      "scope_revision": "2af93a9",
+      "scope_sha256": "ec0d827ef37df6b8c3921dec706d0934427589dec78c4f3dfa0ebab25fd27f0a",
+      "unchanged": true
+    },
+    {
+      "collection_key": "distributed-denial-of-secrets-cyberwar-rus-ukr",
+      "current_sha256": "777e3b63272a76c4ee67a01a39485756feb0f1bc7e99feda8c52a676a4794cf5",
+      "published_outputs": [],
+      "scope_revision": "2af93a9",
+      "scope_sha256": "777e3b63272a76c4ee67a01a39485756feb0f1bc7e99feda8c52a676a4794cf5",
+      "unchanged": true
+    },
+    {
+      "collection_key": "hacks-leaks-yandex",
+      "current_sha256": "5bec2054e246d7ec5b63cf37457d1d451f32a100cec9387be0ca4758104b490e",
+      "published_outputs": [],
+      "scope_revision": "2af93a9",
+      "scope_sha256": "5bec2054e246d7ec5b63cf37457d1d451f32a100cec9387be0ca4758104b490e",
+      "unchanged": true
+    }
+  ],
+  "gates": {
+    "baseline_v2_pages": true,
+    "canonical_metadata": true,
+    "day_products": true,
+    "exclusions_unchanged": true,
+    "index_links": true,
+    "inventory": true,
+    "repositories_clean": true,
+    "worker_terminal_dispositions": true
+  },
+  "generated_at": "2026-09-01T00:30:31.449609+00:00",
+  "inputs": {
+    "archive_map": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-cache-archive-map.json",
+      "sha256": "01041a907373c8a4e64b5093aaa21e8db8305b1d7060db17f4dae5272f68bd3b",
+      "size": 151385
+    },
+    "index_include": {
+      "path": "/home/bkoz/src/alpha60-results-2023/_includes/year-2023-0-media-objects.txt",
+      "sha256": "1609b6a941e6c245e1541fe14237212709a4c449265e75b575a097a9254540de",
+      "size": 5287
+    },
+    "inventory": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-0-media-objects.txt",
+      "sha256": "3f3c8e97f74b789432e21206cceea8011c8e78f37302c9a84eb9d02075ca15be",
+      "size": 1160
+    },
+    "metadata_audit": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/year-2023-metadata-readiness-final.json",
+      "sha256": "75924b0786b65c01bd660aaf5dcd63ce15d92971a88a0b0abf4ef90b41ccce47",
+      "size": 7431
+    },
+    "original_worker_receipts": [
+      {
+        "counts": {
+          "errors": 2,
+          "passed": 33,
+          "records": 35
+        },
+        "executor": "eureka",
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-run.json",
+          "sha256": "30df4deae90bcaf37508709b0ed313a79fc888260d22b0d258a7a271935245a3",
+          "size": 24383
+        },
+        "owner": "eureka",
+        "status": "error"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 34,
+          "records": 34
+        },
+        "executor": "ord",
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-run.ord.final.json",
+          "sha256": "54b200bb7e7fb4cd359ace7681ac74f21f63587a243ef55dd878657628f437db",
+          "size": 22977
+        },
+        "owner": "ord",
+        "status": "pass"
+      }
+    ],
+    "repair_worker_receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-run.repair-b6ca87437.json",
+      "sha256": "bff65eaa5149f4a0de7c46b35f45191770fc4bc9c84c764499a280a1a8f8dcd9",
+      "size": 2090
+    },
+    "scope_receipt": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/reports/runs/year-2023-campaign-scope-and-review-20260830.json",
+      "sha256": "c67db5e7c280938c370f9136bd457f1dcd870f217a68103c13b0f0fc7ba1257c",
+      "size": 2418
+    },
+    "site_audit": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/year-2023-results-site-baseline-v2.final.json",
+      "sha256": "4e182c3a6853b7874e21e21ac5a1eb715ef72ab5f70c32068ee89602565b06ee",
+      "size": 7283
+    }
+  },
+  "issues": [],
+  "metadata_counts": {
+    "error_records": 0,
+    "errors": 0,
+    "inventory_entries": 69,
+    "ready_records": 69,
+    "unique_keys": 69
+  },
+  "metadata_repository": {
+    "path": "/home/bkoz/src/alpha60-swarm-metadata",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "publication_source_revisions": {
+    "alpha60": [
+      "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "4c6bea46ea6f83fa033ae420058685cd04606124",
+      "ae1829c600653bcd2a89f17eea42c714516dc5d4"
+    ],
+    "cartofreako": [
+      "fc58111b5bfa7667b12f6ade522ae5e566b464d1"
+    ],
+    "data": [
+      "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951"
+    ],
+    "izzi": [
+      "8af8b18ee736d60a8f38068217ed0e3d29e7e10f"
+    ],
+    "metadata": [
+      "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+    ]
+  },
+  "results_repository": {
+    "path": "/home/bkoz/src/alpha60-results-2023",
+    "revision": "3386bd67b11d2586314fcec5ca8b21d68c296c53",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "schema": "alpha60-year-baseline-v2-campaign-audit/1",
+  "site_counts": {
+    "absent": 0,
+    "failed": 0,
+    "inventory": 69,
+    "old": 0,
+    "passed": 69,
+    "unique": 69
+  },
+  "status": "pass",
+  "terminal_records": [
+    {
+      "collection_key": "ahsoka-101",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass-existing",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": null
+    },
+    {
+      "collection_key": "ahsoka-108",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "cfb44de2dade4acb37c97a6945332775ce9b9bf6"
+    },
+    {
+      "collection_key": "american-born-chinese-01",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "89844daef6122d0c8196617e2fbead4aa0347488"
+    },
+    {
+      "collection_key": "and-just-like-that-201",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "4d3ecc93e8c9fa7c750a97865b9da00ae3c92393"
+    },
+    {
+      "collection_key": "archer-1401",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "0be49a33772f0951ecefabd725b2028092ff6b0d"
+    },
+    {
+      "collection_key": "avatar-the-way-of-water",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "63d2799693cd3fc7e34a88e912f60f840c5953dc"
+    },
+    {
+      "collection_key": "barbie",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass-existing",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": null
+    },
+    {
+      "collection_key": "barry-401",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "e290703e8c3f5b2aba785b339b1974374a23f9bc"
+    },
+    {
+      "collection_key": "beacon-23-101",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "9a048fde518d1a2308e4ec118c2420b614b7fbe2"
+    },
+    {
+      "collection_key": "beacon-23-108",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "fc237fd2d3cec17579d3e490fc7c55e5d5212367"
+    },
+    {
+      "collection_key": "bear-02",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass-existing",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": null
+    },
+    {
+      "collection_key": "black-mirror-06",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "a9c51ed70b8a8f685091ad4852f2cc49b88c2d03"
+    },
+    {
+      "collection_key": "black-panther-wakanda-forever",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "45fa291f08fae6913d33cb104e84478e4a638815"
+    },
+    {
+      "collection_key": "blue-eye-samurai-01",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "8ac5b8cc353add0c34589eaa9ddbcc6cdf9f2d06"
+    },
+    {
+      "collection_key": "changeling-108",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "56fc254c2622b0919443e93fae82041e763aef19"
+    },
+    {
+      "collection_key": "citadel-101",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "6df2fdc5be527a2d7728ac2a32db52d00a9f54f4"
+    },
+    {
+      "collection_key": "citadel-106",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "4eafc42a03b11c1e615d4f082f17f197f9abb73c"
+    },
+    {
+      "collection_key": "consultant-01",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "fbdae50f3a3a73402f19158289cd25a5f5376b9d"
+    },
+    {
+      "collection_key": "curse-01",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "7c7ef026e5907cb93ccbee3bf5fbd1b3f0f9b416"
+    },
+    {
+      "collection_key": "dungeons-and-dragons-honor-among-thieves",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "8e051dd0ffea33fcbec260989561cc50dc09fab6"
+    },
+    {
+      "collection_key": "fargo-501",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "f4de5c3f86cb3a459480b655362d06a15ab9289e"
+    },
+    {
+      "collection_key": "for-all-mankind-401",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "ebcbd835db0bf68505398a080f0bdc64eb1f2183"
+    },
+    {
+      "collection_key": "foundation-201",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "695ee30dc0d60cb0ee864b3e0fd29fd207f0e40d"
+    },
+    {
+      "collection_key": "fubar-01",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "6f2ae7e752c92ca0e797456772296e944507d5ed"
+    },
+    {
+      "collection_key": "full-circle-01",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "bceb5fd08edd5154d179e56679b7e933ca2d5bbd"
+    },
+    {
+      "collection_key": "gen-v-101",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "8a6ed3b61d87576287b62b04b86b87e8458b2f51"
+    },
+    {
+      "collection_key": "gen-v-108",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "8e2ecdc0112814ad8770f15ec027b0d1e9496630"
+    },
+    {
+      "collection_key": "guardians-of-the-galaxy-3",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "b2d2d9eba2c672214e98955f853d1b701d1b9b54"
+    },
+    {
+      "collection_key": "hijack-101",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "1281af01be6ced1f0bda30698a43de56d463191e"
+    },
+    {
+      "collection_key": "hijack-107",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "64aef8047c211b2491972cb50e7f2af385381ad5"
+    },
+    {
+      "collection_key": "idol-101",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "44eb80db4728aec92616c9405137eb56bc7fa6bb"
+    },
+    {
+      "collection_key": "im-a-virgo-01",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "25937c5d19abb620b0e25d909ea11c8302a0457a"
+    },
+    {
+      "collection_key": "invincible-201",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "8748008ccf6783350a0dafbdecf7def8eaa831cf"
+    },
+    {
+      "collection_key": "last-of-us-101",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "20e51e7dce503700f959b6319f97e9bc6704c197"
+    },
+    {
+      "collection_key": "last-of-us-109",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "0d801d540f8029eb811677fb0ae7469b0ad18463"
+    },
+    {
+      "collection_key": "liaison-101",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "057210339315cefde53b17f956e938267376b2a2"
+    },
+    {
+      "collection_key": "loki-201",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "4fd3c2ce6bb21478dd4eb2e2eb0cfc2d7321ca34"
+    },
+    {
+      "collection_key": "loki-206",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "cc8e9cb0a435072f870508e65564e27f3042b3cb"
+    },
+    {
+      "collection_key": "lupin-03",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "9b4ac2f4bda0bca9fecd852736b2ba35fcfdd099"
+    },
+    {
+      "collection_key": "magic-mikes-last-dance",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "d038b2298c01dd4989464a8280f816eff193d569"
+    },
+    {
+      "collection_key": "mandalorian-301",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "4172045757c70f48b73c6bd3f0786f1247dab84b"
+    },
+    {
+      "collection_key": "mandalorian-308",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "8360d790bf7f64b709249101a4ab32398d5edb8a"
+    },
+    {
+      "collection_key": "marvelous-mrs-maisel-501",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "7c9a7f8b9855c1fa56b73e1f61b2109edf6ce011"
+    },
+    {
+      "collection_key": "minx-02",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "99402efa473198586f01d72f949a43fe007d8e17"
+    },
+    {
+      "collection_key": "monarch-legacy-of-monsters-101",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "00a99306cc0817a8a514332197b41537839e70dc"
+    },
+    {
+      "collection_key": "murder-at-the-end-of-the-world-101",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "592d5fa630e4ad8f524d54af1380831e8be6634e"
+    },
+    {
+      "collection_key": "murder-at-the-end-of-the-world-107",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "d613b1bc7244d5ba7b1d3b34879a7b78ae40cfdc"
+    },
+    {
+      "collection_key": "no-more-bets",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "c2155c87b1659a1a35f8c0a89456afb84701d1d4"
+    },
+    {
+      "collection_key": "only-murders-in-the-building-301",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "fec45da1b0c75ae5cd0c19528f3e93a4e234d408"
+    },
+    {
+      "collection_key": "only-murders-in-the-building-310",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "c3a0ff2564919bcd7f0c2c5bbfe2d683c08c8239"
+    },
+    {
+      "collection_key": "oppenheimer",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "44012ea1b494ed9dd6cedea619c7489878603fb9"
+    },
+    {
+      "collection_key": "outer-banks-03",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "92d331626134f86975f7d24349e9897f8b9ca6e2"
+    },
+    {
+      "collection_key": "polite-society",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "65f2c4a8a37812a567a5caf806b9b63ac0667d10"
+    },
+    {
+      "collection_key": "power-105",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "e36ecb7154b4afd65ce9fe189f34148544488bd7"
+    },
+    {
+      "collection_key": "power-109",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "255a7668aa6331356ce432b89f06c30499546d27"
+    },
+    {
+      "collection_key": "prehistoric-planet-02",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "fac17f9dbd95b8f4550fcd300c957fe7b64e3631"
+    },
+    {
+      "collection_key": "queen-charlotte-01",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "99da4b540e27ba4089ab39a94b4121af5d254ec1"
+    },
+    {
+      "collection_key": "queer-eye-2018-07",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "c816507245e879c96a5101793402d9b2e96c1d18"
+    },
+    {
+      "collection_key": "reacher-201",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "7747d85f6ecad3aa638f4d22d88a8ca8e9640108"
+    },
+    {
+      "collection_key": "reservation-dogs-301",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "905279cac43f458ca7b38b321c7fb3241f076907"
+    },
+    {
+      "collection_key": "reservation-dogs-310",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "3a9d83b8be3408f5f9b6305f6f914be715bde5b3"
+    },
+    {
+      "collection_key": "spider-man-across-the-spider-verse",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "7b49577da554f51782ab49ebaccac4122d9436f8"
+    },
+    {
+      "collection_key": "super-mario-brothers-movie",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "474714932e3c1db900d9a49e070fc61228460ff3"
+    },
+    {
+      "collection_key": "they-cloned-tyrone",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "504c6b2a74d580a648c67273cad309c58b9b4f68"
+    },
+    {
+      "collection_key": "twisted-metal-01",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "248eeaae29c2a24ba61477a480ada3f697ea691b"
+    },
+    {
+      "collection_key": "warrior-310",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "159fac60f67194f792ed80021c732d200c2c4eed"
+    },
+    {
+      "collection_key": "witcher-03.1",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "ca539f457d5858d7a389dc033550d5d0f4e54ed8"
+    },
+    {
+      "collection_key": "witcher-03.2",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "010147cd15aa91ae155bd7e10378868538a6a30e"
+    },
+    {
+      "collection_key": "you-04.2",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "3386bd67b11d2586314fcec5ca8b21d68c296c53"
+    }
+  ],
+  "year": "2023"
+}

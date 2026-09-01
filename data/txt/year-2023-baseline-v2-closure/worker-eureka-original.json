@@ -1,0 +1,602 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/archive-verification.json",
+    "sha256": "67964e1843a1607413e8b4908675a1ea5030af321acc7fc3a7cb40404d5e1331",
+    "size": 21507
+  },
+  "counts": {
+    "errors": 2,
+    "passed": 33,
+    "records": 35
+  },
+  "executor": "eureka",
+  "finished_at": "2026-08-31T22:28:19.182938+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/ahsoka-101.cache/cache.20240220.tar.xz",
+      "collection_key": "ahsoka-101",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T17:47:18.948924+00:00",
+      "owner": "eureka",
+      "started_at": "2026-08-31T17:47:17.641073+00:00",
+      "status": "pass-existing",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/ahsoka-101",
+        "removed": false,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/american-born-chinese-01.cache/cache.20230905.tar.xz",
+      "collection_key": "american-born-chinese-01",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T17:50:17.096546+00:00",
+      "owner": "eureka",
+      "results_revision": "89844daef6122d0c8196617e2fbead4aa0347488",
+      "started_at": "2026-08-31T17:47:18.949269+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/american-born-chinese-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/and-just-like-that-201.cache/cache.20231011.tar.xz",
+      "collection_key": "and-just-like-that-201",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T17:53:25.757828+00:00",
+      "owner": "eureka",
+      "results_revision": "4d3ecc93e8c9fa7c750a97865b9da00ae3c92393",
+      "started_at": "2026-08-31T17:50:17.097045+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/and-just-like-that-201",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/archer-1401.cache/cache.20240228.tar.xz",
+      "collection_key": "archer-1401",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T17:59:41.092150+00:00",
+      "owner": "eureka",
+      "results_revision": "0be49a33772f0951ecefabd725b2028092ff6b0d",
+      "started_at": "2026-08-31T17:53:25.759375+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/archer-1401",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/avatar-the-way-of-water.cache/cache.20230929.tar.xz",
+      "collection_key": "avatar-the-way-of-water",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T18:39:28.589135+00:00",
+      "owner": "eureka",
+      "results_revision": "63d2799693cd3fc7e34a88e912f60f840c5953dc",
+      "started_at": "2026-08-31T17:59:41.092701+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/avatar-the-way-of-water",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/barbie.cache/cache.20240302.tar.xz",
+      "collection_key": "barbie",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T18:39:30.065349+00:00",
+      "owner": "eureka",
+      "started_at": "2026-08-31T18:39:28.589724+00:00",
+      "status": "pass-existing",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/barbie",
+        "removed": false,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/barry-401.cache/cache.20230625.tar.xz",
+      "collection_key": "barry-401",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T18:41:04.451692+00:00",
+      "owner": "eureka",
+      "results_revision": "e290703e8c3f5b2aba785b339b1974374a23f9bc",
+      "started_at": "2026-08-31T18:39:30.065904+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/barry-401",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/beacon-23-101.cache/cache.20240224.tar.xz",
+      "collection_key": "beacon-23-101",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T18:47:33.649361+00:00",
+      "owner": "eureka",
+      "results_revision": "9a048fde518d1a2308e4ec118c2420b614b7fbe2",
+      "started_at": "2026-08-31T18:41:04.452433+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/beacon-23-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/black-mirror-06.cache/cache.20230927.tar.xz",
+      "collection_key": "black-mirror-06",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T18:56:41.127186+00:00",
+      "owner": "eureka",
+      "results_revision": "a9c51ed70b8a8f685091ad4852f2cc49b88c2d03",
+      "started_at": "2026-08-31T18:47:33.650131+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/black-mirror-06",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/citadel-101.cache/cache.20230810.tar.xz",
+      "collection_key": "citadel-101",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T19:00:26.446855+00:00",
+      "owner": "eureka",
+      "results_revision": "6df2fdc5be527a2d7728ac2a32db52d00a9f54f4",
+      "started_at": "2026-08-31T18:56:41.127970+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/citadel-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/fargo-501.cache/cache.20240305.tar.xz",
+      "collection_key": "fargo-501",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T19:09:48.611736+00:00",
+      "owner": "eureka",
+      "results_revision": "f4de5c3f86cb3a459480b655362d06a15ab9289e",
+      "started_at": "2026-08-31T19:00:26.447526+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/fargo-501",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/foundation-201.cache/cache.20231026.tar.xz",
+      "collection_key": "foundation-201",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T19:14:24.972292+00:00",
+      "owner": "eureka",
+      "results_revision": "695ee30dc0d60cb0ee864b3e0fd29fd207f0e40d",
+      "started_at": "2026-08-31T19:09:48.612446+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/foundation-201",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/full-circle-01.cache/cache.20231103.tar.xz",
+      "collection_key": "full-circle-01",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T19:18:31.432995+00:00",
+      "owner": "eureka",
+      "results_revision": "bceb5fd08edd5154d179e56679b7e933ca2d5bbd",
+      "started_at": "2026-08-31T19:14:24.973147+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/full-circle-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/gen-v-101.cache/cache.20240328.tar.xz",
+      "collection_key": "gen-v-101",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T19:42:04.139358+00:00",
+      "owner": "eureka",
+      "results_revision": "8a6ed3b61d87576287b62b04b86b87e8458b2f51",
+      "started_at": "2026-08-31T19:18:31.433885+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/gen-v-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/gen-v-108.cache/cache.20240502.tar.xz",
+      "collection_key": "gen-v-108",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T20:01:22.618045+00:00",
+      "owner": "eureka",
+      "results_revision": "8e2ecdc0112814ad8770f15ec027b0d1e9496630",
+      "started_at": "2026-08-31T19:42:04.140093+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/gen-v-108",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/hijack-107.cache/cache.20231115.tar.xz",
+      "collection_key": "hijack-107",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T20:07:22.597836+00:00",
+      "owner": "eureka",
+      "results_revision": "64aef8047c211b2491972cb50e7f2af385381ad5",
+      "started_at": "2026-08-31T20:01:22.618978+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/hijack-107",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/last-of-us-101.cache/cache.20230716.tar.xz",
+      "collection_key": "last-of-us-101",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'last-of-us-101', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2023-archives/last-of-us-101.cache/cache.20230716.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2023/last-of-us-101/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '181', '--expected-day-span', '182', '--required-sample-start', '2023-01-16', '--required-sample-end', '2023-07-16', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T20:09:14.598474+00:00",
+      "owner": "eureka",
+      "started_at": "2026-08-31T20:07:22.598977+00:00",
+      "status": "error"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/last-of-us-109.cache/cache.20230702.tar.xz",
+      "collection_key": "last-of-us-109",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'last-of-us-109', '--cache-archive', '/home/bkoz/src/alpha60-samples-cache/year-2023-archives/last-of-us-109.cache/cache.20230702.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2023/last-of-us-109/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60/build/campaign', '--released-day-input', '--expected-day-count', '112', '--expected-day-span', '112', '--required-sample-start', '2023-03-13', '--required-sample-end', '2023-07-02', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T20:10:40.829705+00:00",
+      "owner": "eureka",
+      "started_at": "2026-08-31T20:09:14.599287+00:00",
+      "status": "error"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/liaison-101.cache/cache.20230518.tar.xz",
+      "collection_key": "liaison-101",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T20:11:56.571146+00:00",
+      "owner": "eureka",
+      "results_revision": "057210339315cefde53b17f956e938267376b2a2",
+      "started_at": "2026-08-31T20:10:40.830362+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/liaison-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/loki-201.cache/cache.20240404.tar.xz",
+      "collection_key": "loki-201",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T20:33:46.979453+00:00",
+      "owner": "eureka",
+      "results_revision": "4fd3c2ce6bb21478dd4eb2e2eb0cfc2d7321ca34",
+      "started_at": "2026-08-31T20:11:56.572142+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/loki-201",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/loki-206.cache/cache.20240509.tar.xz",
+      "collection_key": "loki-206",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T20:58:20.906605+00:00",
+      "owner": "eureka",
+      "results_revision": "cc8e9cb0a435072f870508e65564e27f3042b3cb",
+      "started_at": "2026-08-31T20:33:46.980326+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/loki-206",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/lupin-03.cache/cache.20240117.tar.xz",
+      "collection_key": "lupin-03",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:08:37.323307+00:00",
+      "owner": "eureka",
+      "results_revision": "9b4ac2f4bda0bca9fecd852736b2ba35fcfdd099",
+      "started_at": "2026-08-31T20:58:20.907551+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/lupin-03",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/magic-mikes-last-dance.cache/cache.20230508.tar.xz",
+      "collection_key": "magic-mikes-last-dance",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:10:47.380711+00:00",
+      "owner": "eureka",
+      "results_revision": "d038b2298c01dd4989464a8280f816eff193d569",
+      "started_at": "2026-08-31T21:08:37.324349+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/magic-mikes-last-dance",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/marvelous-mrs-maisel-501.cache/cache.20230622.tar.xz",
+      "collection_key": "marvelous-mrs-maisel-501",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:12:49.266300+00:00",
+      "owner": "eureka",
+      "results_revision": "7c9a7f8b9855c1fa56b73e1f61b2109edf6ce011",
+      "started_at": "2026-08-31T21:10:47.381725+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/marvelous-mrs-maisel-501",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/murder-at-the-end-of-the-world-107.cache/cache.20240408.tar.xz",
+      "collection_key": "murder-at-the-end-of-the-world-107",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:18:17.667362+00:00",
+      "owner": "eureka",
+      "results_revision": "d613b1bc7244d5ba7b1d3b34879a7b78ae40cfdc",
+      "started_at": "2026-08-31T21:12:49.267351+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/murder-at-the-end-of-the-world-107",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/only-murders-in-the-building-301.cache/cache.20231121.tar.xz",
+      "collection_key": "only-murders-in-the-building-301",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:23:06.461240+00:00",
+      "owner": "eureka",
+      "results_revision": "fec45da1b0c75ae5cd0c19528f3e93a4e234d408",
+      "started_at": "2026-08-31T21:18:17.668372+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/only-murders-in-the-building-301",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/power-105.cache/cache.20230623.tar.xz",
+      "collection_key": "power-105",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:23:52.292222+00:00",
+      "owner": "eureka",
+      "results_revision": "e36ecb7154b4afd65ce9fe189f34148544488bd7",
+      "started_at": "2026-08-31T21:23:06.462323+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/power-105",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/power-109.cache/cache.20230720.tar.xz",
+      "collection_key": "power-109",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:24:58.202581+00:00",
+      "owner": "eureka",
+      "results_revision": "255a7668aa6331356ce432b89f06c30499546d27",
+      "started_at": "2026-08-31T21:23:52.293260+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/power-109",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/queen-charlotte-01.cache/cache.20230816.tar.xz",
+      "collection_key": "queen-charlotte-01",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:27:41.929480+00:00",
+      "owner": "eureka",
+      "results_revision": "99da4b540e27ba4089ab39a94b4121af5d254ec1",
+      "started_at": "2026-08-31T21:24:58.203636+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/queen-charlotte-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/queer-eye-2018-07.cache/cache.20230831.tar.xz",
+      "collection_key": "queer-eye-2018-07",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:28:53.806591+00:00",
+      "owner": "eureka",
+      "results_revision": "c816507245e879c96a5101793402d9b2e96c1d18",
+      "started_at": "2026-08-31T21:27:41.930530+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/queer-eye-2018-07",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/reacher-201.cache/cache.20240613.tar.xz",
+      "collection_key": "reacher-201",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:55:24.584639+00:00",
+      "owner": "eureka",
+      "results_revision": "7747d85f6ecad3aa638f4d22d88a8ca8e9640108",
+      "started_at": "2026-08-31T21:28:53.807713+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/reacher-201",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/reservation-dogs-310.cache/cache.20231213.tar.xz",
+      "collection_key": "reservation-dogs-310",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T21:58:16.507861+00:00",
+      "owner": "eureka",
+      "results_revision": "3a9d83b8be3408f5f9b6305f6f914be715bde5b3",
+      "started_at": "2026-08-31T21:55:24.586052+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/reservation-dogs-310",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/they-cloned-tyrone.cache/cache.20230928.tar.xz",
+      "collection_key": "they-cloned-tyrone",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T22:01:14.260959+00:00",
+      "owner": "eureka",
+      "results_revision": "504c6b2a74d580a648c67273cad309c58b9b4f68",
+      "started_at": "2026-08-31T21:58:16.509646+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/they-cloned-tyrone",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/warrior-310.cache/cache.20231026.tar.xz",
+      "collection_key": "warrior-310",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T22:03:25.602922+00:00",
+      "owner": "eureka",
+      "results_revision": "159fac60f67194f792ed80021c732d200c2c4eed",
+      "started_at": "2026-08-31T22:01:14.262921+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/warrior-310",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/witcher-03.1.cache/cache.20231227.tar.xz",
+      "collection_key": "witcher-03.1",
+      "executor": "eureka",
+      "finished_at": "2026-08-31T22:28:19.181853+00:00",
+      "owner": "eureka",
+      "results_revision": "ca539f457d5858d7a389dc033550d5d0f4e54ed8",
+      "started_at": "2026-08-31T22:03:25.604098+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/witcher-03.1",
+        "removed": true,
+        "status": "pass"
+      }
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-08-31T17:47:17.640181+00:00",
+  "status": "error",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+    "sha256": "06e3e3da036d0bcff42f72a454a293efeedf0ec7d53efa1790a7f2614d5eda17",
+    "size": 79337
+  },
+  "year": "2023"
+}
