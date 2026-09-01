@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14261112",
+    "imdb_id": "tt14261112",
+    "revision": "946ba50d640e259c07a45c8bd2a72d9ee5ced032",
+    "wikidata_id": "Q112223638",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Twisted_Metal_(TV_series)"
+  },
+  "coverage_sha256": "45dcb6413a1a8e01683a259ebba7872c6f64ccf343f187d9ad12f73d818235e5",
+  "generated_at": "2026-09-01T00:04:03.172971+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/twisted-metal-01.cache/cache.20231108.tar.xz",
+      "sha256": "44266df3e7613ba6fd5ab7e6688af2cdebf80af8aa5ee30a83b3507bcb970fbd",
+      "size": 731144876
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/twisted-metal-01.md",
+      "sha256": "6c99be9c32c15ca47af0206fc1611702474f639895d62a21fd8b6e822af5afb1",
+      "size": 640
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/twisted-metal-01.json",
+      "sha256": "002fb8b5646308a860ab4542a0b609b4135650a9f690dc8d9970ee6da4e2f2ac",
+      "size": 2743
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/twisted-metal-01.json",
+      "sha256": "8c2a700665a0f6fd2d7db650ce5a87b6081c0790d9e6b71a1c617e32c60f0716",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "6c672a3b89f833baff5eca8aa0dd25ae47731870714dc9a29408fca08bedf92d",
+      "size": 77147
+    }
+  },
+  "media_object": "twisted-metal-01",
+  "published_files": {
+    "data/csv/bytes/twisted-metal-01-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "8500bf95c12107b61dfee8ee3b0a3aec6b06a50012eb94a863e816cd3cb8b69b",
+    "docs/itemized/figures/twisted-metal-01-carto-4k.webp": "41ef3bc5c5f40cbe30c0b0acc6b905047fa9bdb4d94880301c4d13294073612e",
+    "docs/itemized/figures/twisted-metal-01-carto.png": "86e675fe60c9f23db84f985b2ad9628588987f4c703fd9f6e52d6abb6638e961",
+    "docs/itemized/figures/twisted-metal-01-cumulative-detail-btiha-itemized-by-bytes.svg": "65f4f2896c47669680fee9e159d5108d703d0bc80e24d44a85043f43cad140bc",
+    "docs/itemized/figures/twisted-metal-01-data-ge-1080p-4k.webp": "b8dca17074ff067539bd98c082da0d32ae345ceb8f1d0e62c1f59c4ecef11f59",
+    "docs/itemized/figures/twisted-metal-01-data-ge-1080p.webp": "311d745368b12f7985274fd62ae750ab69e6d623cbe06e5e915cb330d9f1ebb6",
+    "docs/itemized/figures/twisted-metal-01-data-lt-1080p-4k.webp": "e223744a38c3c570c54c654729df4adbe49696ba31f328e5dd0f2a318f8de910",
+    "docs/itemized/figures/twisted-metal-01-data-lt-1080p.webp": "58fa41326d3bd72904cfbbcfe0d2f554dc2aa3751288f2b9291123016f5446ff",
+    "docs/itemized/figures/twisted-metal-01-downloads-by-day-day.svg": "1167a464fea5ab8700b1b33fbe5e7ca81e23e20fe4226cc1476e4152a3defa4a",
+    "docs/itemized/figures/twisted-metal-01-downloads-by-week-twisted-metal-01-week.svg": "6f1181ddc8701dff4e895880ab978602a09ab152ae3d0131aba6682a8f019ca1",
+    "docs/itemized/twisted-metal-01-sample-cache-audit.md": "f174b2148d67f5590b1557ce80a3404d88c29fafc16ede549543912a89d50524",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "cced31de7d99baecf008e743b6e3209c3fc3f81702eaf176bc44ee0fba18c8cf",
+      "size": 37009824
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/twisted-metal-01/tmp/twisted-metal-01-cumulative-btiha.geojson",
+        "sha256": "3025f63a71acdf1dbcf92b5550ab14758b3b2bc2e74b9a8a417f8fe2222f029a",
+        "size": 133695949
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/twisted-metal-01/tmp/twisted-metal-01-cumulative-btiha-media-objects.json",
+        "sha256": "42cd9798471ff47beae0204ec2d343da539b69a5de42fa1c56deb6612148d470",
+        "size": 638859
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+      "untracked": false
+    },
+    "media_object": "twisted-metal-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          50.0,
+          48.0,
+          42.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Lelystad",
+          "New York City",
+          "Toronto",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          58.0,
+          49.0,
+          42.0,
+          42.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "New York City",
+          "Novosibirsk",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 33,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "2dddc85d96df7d563febd2c4c33366539e6c91b1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "data": "f09ca69c44b40ebfffaa2a5cfdb3ba18e534e951",
+    "izzi": "8af8b18ee736d60a8f38068217ed0e3d29e7e10f",
+    "metadata": "946ba50d640e259c07a45c8bd2a72d9ee5ced032"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
