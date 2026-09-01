@@ -25,7 +25,7 @@ project.
 ## Results, Commentary
 
 - Media Objects
-{% include year-2023-0-media-objects.txt %}
+{% capture media_objects %}{% include year-2023-0-media-objects.txt %}{% endcapture %}{{ media_objects | replace: '.md)', '.html)' }}
 
 <div style="height: 50px;"></div>
 
