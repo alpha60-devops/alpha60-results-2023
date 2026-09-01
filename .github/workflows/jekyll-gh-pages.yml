@@ -28,6 +28,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # The results repository has a large generated-data history. Pages
+          # needs only the site source; sparse checkout also enables a
+          # blob:none partial clone in actions/checkout.
+          sparse-checkout: |
+            _includes
+            _layouts
+            docs
+            resources
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
