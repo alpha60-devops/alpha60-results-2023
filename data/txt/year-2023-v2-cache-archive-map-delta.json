@@ -1,0 +1,177 @@
+{
+  "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "counts": {
+    "approved_filename_date_mismatches": 0,
+    "approved_observed_endpoint_mismatches": 0,
+    "checkpoint_records_reused": 0,
+    "day_member_streams_validated": 2,
+    "eligible_archives": 2,
+    "post_release_archive_records": 0,
+    "records": 2,
+    "sample_end_matches": 2,
+    "selected_archive_bytes": 408436684,
+    "selected_archive_hashes": 2,
+    "sparse_sample_records": 0,
+    "unique_records": 2
+  },
+  "identity_source": {
+    "campaign_contract_records": 2,
+    "campaign_contract_sha256": "eeebf5b42f093dd0cb67d95bfb2c1236f5d2e25bd92bd0445c6352469b2a44dc",
+    "kind": "canonical-swarm-metadata",
+    "root": "/home/bkoz/src/alpha60-swarm-metadata/metadata"
+  },
+  "inventory": {
+    "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2023-additions.txt",
+    "sha256": "afaff09e34aa2fd43fe3e919ede79b1285c70ff9197b3818963e346a5c090b68"
+  },
+  "overrides": {
+    "count": 0
+  },
+  "owners": {
+    "eureka": {
+      "archive_bytes": 283020808,
+      "records": 1
+    },
+    "ord": {
+      "archive_bytes": 125415876,
+      "records": 1
+    }
+  },
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20231101.tar.xz",
+        "filename_date": "20231101",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/and-just-like-that-211.cache/cache.20231101.tar.xz",
+        "sha256": "00dcf3c7ec13fafe259c18c82052b5e4faf5b0da89805f33269a02b4f744ed99",
+        "size": 125415876
+      },
+      "collection_key": "and-just-like-that-211",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 6055,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2023-11-01",
+          "sample_span_days": 70,
+          "sample_start": "2023-08-24",
+          "torrent_indices": 96
+        },
+        "required_collection_key": "and-just-like-that-211",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2023-11-01",
+        "required_sample_start": "2023-08-24",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "211",
+        "collection_name": "And Just Like That...",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "eeebf5b42f093dd0cb67d95bfb2c1236f5d2e25bd92bd0445c6352469b2a44dc",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 70,
+        "sample_end": "2023-11-01",
+        "sample_start": "2023-08-24",
+        "sha256": "6db1530d7d9ae93234e6ac882a12b8dee74b3b6fc38e620a6ce464626bc55366",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/and-just-like-that-211.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20231101.tar.xz",
+            "size": 125415876
+          }
+        ],
+        "expected_filename_date": "20231101"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20240306.tar.xz",
+        "filename_date": "20240306",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/archer-1408.cache/cache.20240306.tar.xz",
+        "sha256": "9d6503f0645e3eda909c1b18a16e3c1ed1269334b177de19db24f38894624ab4",
+        "size": 283020808
+      },
+      "collection_key": "archer-1408",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 146,
+          "cache_members": 9673,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2024-03-06",
+          "sample_span_days": 146,
+          "sample_start": "2023-10-13",
+          "torrent_indices": 85
+        },
+        "required_collection_key": "archer-1408",
+        "required_day_products": 146,
+        "required_sample_days": 146,
+        "required_sample_end": "2024-03-06",
+        "required_sample_start": "2023-10-13",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1408",
+        "collection_name": "Archer",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "eeebf5b42f093dd0cb67d95bfb2c1236f5d2e25bd92bd0445c6352469b2a44dc",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 146,
+        "sample_end": "2024-03-06",
+        "sample_start": "2023-10-13",
+        "sha256": "4a45b707213287b05e9fe3f1063978f577ffccd8e51f9727f0f257ef580691be",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/archer-1408.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20240306.tar.xz",
+            "size": 283020808
+          }
+        ],
+        "expected_filename_date": "20240306"
+      }
+    }
+  ],
+  "schema": "alpha60-year-cache-archive-map/1",
+  "selection_policy": "canonical-metadata-or-frozen-campaign-sample-end-or-explicit-override",
+  "status": "pass",
+  "year": "2023"
+}
