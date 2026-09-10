@@ -3,12 +3,12 @@
   "year": "2023",
   "status": "pass",
   "counts": {
-    "passed": 69,
+    "passed": 71,
     "absent": 0,
     "old": 0,
     "failed": 0,
-    "inventory": 69,
-    "unique": 69
+    "inventory": 71,
+    "unique": 71
   },
   "duplicate_keys": [],
   "records": [
@@ -33,7 +33,17 @@
       "issues": []
     },
     {
+      "collection_key": "and-just-like-that-211",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "archer-1401",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "archer-1408",
       "status": "passed",
       "issues": []
     },

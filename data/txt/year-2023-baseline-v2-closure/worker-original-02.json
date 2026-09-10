@@ -1,0 +1,354 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/archive-verification.json",
+    "sha256": "dfe6113a3cf705f26a8d2214b0d9864d8610db7ac037fcaeb19983d9ec40075a",
+    "size": 1330
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 36,
+    "records": 36
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-10T03:20:43.416248+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/ahsoka-108.cache/cache.20240402.tar.xz",
+      "collection_key": "ahsoka-108",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:23.221663+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:22.074925+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/american-born-chinese-01.cache/cache.20230905.tar.xz",
+      "collection_key": "american-born-chinese-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:24.401454+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:23.221962+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/and-just-like-that-211.cache/cache.20231101.tar.xz",
+      "collection_key": "and-just-like-that-211",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:50.832034+00:00",
+      "owner": "ord",
+      "results_revision": "80ab093e3b0f65aae0c95c23189993d1de15f533",
+      "started_at": "2026-09-10T03:19:24.401790+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/beacon-23-108.cache/cache.20240330.tar.xz",
+      "collection_key": "beacon-23-108",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:52.001240+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:50.832667+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/bear-02.cache/cache.20231220.tar.xz",
+      "collection_key": "bear-02",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:53.189800+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:52.001647+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/black-panther-wakanda-forever.cache/cache.20230731.tar.xz",
+      "collection_key": "black-panther-wakanda-forever",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:54.304659+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:53.190163+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/blue-eye-samurai-01.cache/cache.20240112.tar.xz",
+      "collection_key": "blue-eye-samurai-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:55.489799+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:54.305024+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/changeling-108.cache/cache.20231221.tar.xz",
+      "collection_key": "changeling-108",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:56.802222+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:55.490224+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/citadel-106.cache/cache.20230811.tar.xz",
+      "collection_key": "citadel-106",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:58.000250+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:56.802602+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/consultant-01.cache/cache.20230518.tar.xz",
+      "collection_key": "consultant-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:19:59.133134+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:58.000725+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/curse-01.cache/cache.20240222.tar.xz",
+      "collection_key": "curse-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:00.352391+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:19:59.133595+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/dungeons-and-dragons-honor-among-thieves.cache/cache.20230815.tar.xz",
+      "collection_key": "dungeons-and-dragons-honor-among-thieves",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:01.521329+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:00.352845+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/for-all-mankind-401.cache/cache.20240509.tar.xz",
+      "collection_key": "for-all-mankind-401",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:02.728416+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:01.521772+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/fubar-01.cache/cache.20230916.tar.xz",
+      "collection_key": "fubar-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:03.869366+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:02.728897+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/guardians-of-the-galaxy-3.cache/cache.20240104.tar.xz",
+      "collection_key": "guardians-of-the-galaxy-3",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:05.076516+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:03.869900+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/hijack-101.cache/cache.20231018.tar.xz",
+      "collection_key": "hijack-101",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:06.296206+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:05.077010+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/im-a-virgo-01.cache/cache.20230831.tar.xz",
+      "collection_key": "im-a-virgo-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:07.473531+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:06.296691+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/invincible-201.cache/cache.20240112.tar.xz",
+      "collection_key": "invincible-201",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:08.678473+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:07.474026+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/mandalorian-301.cache/cache.20230829.tar.xz",
+      "collection_key": "mandalorian-301",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:09.862970+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:08.678997+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/mandalorian-308.cache/cache.20230801.tar.xz",
+      "collection_key": "mandalorian-308",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:10.986070+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:09.863462+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/marvelous-mrs-maisel-501.cache/cache.20230622.tar.xz",
+      "collection_key": "marvelous-mrs-maisel-501",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:12.179540+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:10.986535+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/minx-02.cache/cache.20231109.tar.xz",
+      "collection_key": "minx-02",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:13.383406+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:12.180012+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/monarch-legacy-of-monsters-101.cache/cache.20240517.tar.xz",
+      "collection_key": "monarch-legacy-of-monsters-101",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:14.566492+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:13.383978+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/murder-at-the-end-of-the-world-101.cache/cache.20240304.tar.xz",
+      "collection_key": "murder-at-the-end-of-the-world-101",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:15.734464+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:14.566990+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/no-more-bets.cache/cache.20240515.tar.xz",
+      "collection_key": "no-more-bets",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:16.956810+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:15.735029+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/only-murders-in-the-building-310.cache/cache.20240122.tar.xz",
+      "collection_key": "only-murders-in-the-building-310",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:18.221277+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:16.957439+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/oppenheimer.cache/cache.20240510.tar.xz",
+      "collection_key": "oppenheimer",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:19.388677+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:18.221807+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/power-105.cache/cache.20230623.tar.xz",
+      "collection_key": "power-105",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:20.563745+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:19.389234+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/prehistoric-planet-02.cache/cache.20230730.tar.xz",
+      "collection_key": "prehistoric-planet-02",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:34.890422+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:20.564290+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/reservation-dogs-301.cache/cache.20231114.tar.xz",
+      "collection_key": "reservation-dogs-301",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:36.120161+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:34.891301+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/spider-man-across-the-spider-verse.cache/cache.20240205.tar.xz",
+      "collection_key": "spider-man-across-the-spider-verse",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:37.405119+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:36.120711+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/super-mario-brothers-movie.cache/cache.20230925.tar.xz",
+      "collection_key": "super-mario-brothers-movie",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:38.614057+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:37.405682+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/twisted-metal-01.cache/cache.20231108.tar.xz",
+      "collection_key": "twisted-metal-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:39.836688+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:38.614625+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/warrior-310.cache/cache.20231026.tar.xz",
+      "collection_key": "warrior-310",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:41.057759+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:39.837337+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/witcher-03.2.cache/cache.20240124.tar.xz",
+      "collection_key": "witcher-03.2",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:42.244132+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:41.058408+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/you-04.2.cache/cache.20230517.tar.xz",
+      "collection_key": "you-04.2",
+      "executor": "ord",
+      "finished_at": "2026-09-10T03:20:43.415608+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T03:20:42.244726+00:00",
+      "status": "pass-existing"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-10T03:19:22.074199+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+    "sha256": "2bef4dbb72c4be48f1e6bdefef67d8b0160fe58649818ec83a5d2c32ae00f491",
+    "size": 95502
+  },
+  "year": "2023"
+}

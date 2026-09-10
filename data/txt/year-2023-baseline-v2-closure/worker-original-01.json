@@ -1,0 +1,345 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/archive-verification.json",
+    "sha256": "784eb74485127c7cbaed8266257162a9dbf955df2f95dde2aadebbc13a9ee3a7",
+    "size": 1311
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 35,
+    "records": 35
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-10T03:20:57.788131+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/ahsoka-101.cache/cache.20240220.tar.xz",
+      "collection_key": "ahsoka-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:19:23.003361+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:19:21.765270+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/and-just-like-that-201.cache/cache.20231011.tar.xz",
+      "collection_key": "and-just-like-that-201",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:19:24.189344+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:19:23.003708+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/archer-1401.cache/cache.20240228.tar.xz",
+      "collection_key": "archer-1401",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:19:25.297503+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:19:24.189681+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/archer-1408.cache/cache.20240306.tar.xz",
+      "collection_key": "archer-1408",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:21.151835+00:00",
+      "owner": "eureka",
+      "results_revision": "76ac31348187c4f04cc953ade5c14a17defa3458",
+      "started_at": "2026-09-10T03:19:25.297879+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/avatar-the-way-of-water.cache/cache.20230929.tar.xz",
+      "collection_key": "avatar-the-way-of-water",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:22.447220+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:21.152493+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/barbie.cache/cache.20240302.tar.xz",
+      "collection_key": "barbie",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:23.589469+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:22.447623+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/barry-401.cache/cache.20230625.tar.xz",
+      "collection_key": "barry-401",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:24.728020+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:23.589845+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/beacon-23-101.cache/cache.20240224.tar.xz",
+      "collection_key": "beacon-23-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:25.839363+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:24.728404+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/black-mirror-06.cache/cache.20230927.tar.xz",
+      "collection_key": "black-mirror-06",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:26.998125+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:25.839747+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/citadel-101.cache/cache.20230810.tar.xz",
+      "collection_key": "citadel-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:28.168266+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:26.998670+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/fargo-501.cache/cache.20240305.tar.xz",
+      "collection_key": "fargo-501",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:29.350920+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:28.168851+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/foundation-201.cache/cache.20231026.tar.xz",
+      "collection_key": "foundation-201",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:30.600277+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:29.351479+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/full-circle-01.cache/cache.20231103.tar.xz",
+      "collection_key": "full-circle-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:31.824517+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:30.600715+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/gen-v-101.cache/cache.20240328.tar.xz",
+      "collection_key": "gen-v-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:32.988609+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:31.825141+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/gen-v-108.cache/cache.20240502.tar.xz",
+      "collection_key": "gen-v-108",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:34.158386+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:32.989195+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/hijack-107.cache/cache.20231115.tar.xz",
+      "collection_key": "hijack-107",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:35.374560+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:34.158993+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/idol-101.cache/cache.20230820.tar.xz",
+      "collection_key": "idol-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:36.642841+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:35.375193+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/last-of-us-101.cache/cache.20230716.tar.xz",
+      "collection_key": "last-of-us-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:37.890149+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:36.643440+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/last-of-us-109.cache/cache.20230702.tar.xz",
+      "collection_key": "last-of-us-109",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:39.095421+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:37.890836+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/liaison-101.cache/cache.20230518.tar.xz",
+      "collection_key": "liaison-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:40.247877+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:39.096083+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/loki-201.cache/cache.20240404.tar.xz",
+      "collection_key": "loki-201",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:41.413072+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:40.248525+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/loki-206.cache/cache.20240509.tar.xz",
+      "collection_key": "loki-206",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:42.568826+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:41.413692+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/lupin-03.cache/cache.20240117.tar.xz",
+      "collection_key": "lupin-03",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:43.772804+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:42.569457+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/magic-mikes-last-dance.cache/cache.20230508.tar.xz",
+      "collection_key": "magic-mikes-last-dance",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:44.936586+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:43.773503+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/murder-at-the-end-of-the-world-107.cache/cache.20240408.tar.xz",
+      "collection_key": "murder-at-the-end-of-the-world-107",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:46.122796+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:44.937217+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/only-murders-in-the-building-301.cache/cache.20231121.tar.xz",
+      "collection_key": "only-murders-in-the-building-301",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:47.276957+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:46.123490+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/outer-banks-03.cache/cache.20230503.tar.xz",
+      "collection_key": "outer-banks-03",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:48.415297+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:47.277682+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/polite-society.cache/cache.20230724.tar.xz",
+      "collection_key": "polite-society",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:49.586827+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:48.416050+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/power-109.cache/cache.20230720.tar.xz",
+      "collection_key": "power-109",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:50.775906+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:49.587513+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/queen-charlotte-01.cache/cache.20230816.tar.xz",
+      "collection_key": "queen-charlotte-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:52.017055+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:50.776573+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/queer-eye-2018-07.cache/cache.20230831.tar.xz",
+      "collection_key": "queer-eye-2018-07",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:53.176800+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:52.017743+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/reacher-201.cache/cache.20240613.tar.xz",
+      "collection_key": "reacher-201",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:54.272992+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:53.177505+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/reservation-dogs-310.cache/cache.20231213.tar.xz",
+      "collection_key": "reservation-dogs-310",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:55.533171+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:54.273701+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/they-cloned-tyrone.cache/cache.20230928.tar.xz",
+      "collection_key": "they-cloned-tyrone",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:56.675654+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:55.533874+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/witcher-03.1.cache/cache.20231227.tar.xz",
+      "collection_key": "witcher-03.1",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T03:20:57.787421+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T03:20:56.676350+00:00",
+      "status": "pass-existing"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-10T03:19:21.764579+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+    "sha256": "e864ba3fd09529ade4eb408dd0b499ca4140a947c05f22298ce4c2cc75e000e2",
+    "size": 92658
+  },
+  "year": "2023"
+}

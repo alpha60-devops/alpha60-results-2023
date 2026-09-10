@@ -1,13 +1,27 @@
 {
   "schema": "alpha60-year-media-object-metadata-readiness/1",
   "year": "2023",
-  "inventory": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-0-media-objects.txt",
+  "inventory": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2023-cohort.txt",
   "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
+  "approved_empty_collection_ids": [
+    "black-panther-wakanda-forever",
+    "dungeons-and-dragons-honor-among-thieves",
+    "guardians-of-the-galaxy-3",
+    "magic-mikes-last-dance",
+    "no-more-bets",
+    "oppenheimer",
+    "polite-society",
+    "spider-man-across-the-spider-verse",
+    "super-mario-brothers-movie",
+    "they-cloned-tyrone"
+  ],
+  "approved_not_applicable_identity_ids": [],
+  "campaign_sample_contracts": 71,
   "status": "pass",
   "counts": {
-    "inventory_entries": 69,
-    "unique_keys": 69,
-    "ready_records": 69,
+    "inventory_entries": 71,
+    "unique_keys": 71,
+    "ready_records": 71,
     "error_records": 0,
     "errors": 0
   },
@@ -35,7 +49,17 @@
       "issues": []
     },
     {
+      "collection_key": "and-just-like-that-211",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "archer-1401",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "archer-1408",
       "status": "ready",
       "issues": []
     },
