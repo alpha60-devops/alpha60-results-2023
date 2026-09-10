@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1486217",
+    "imdb_id": "tt1486217",
+    "revision": "77d26ebe9b8c27bf699bc026f8e5a68139788569",
+    "wikidata_id": "Q632670",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Archer_(2009_TV_series)"
+  },
+  "coverage_sha256": "315c7d573e3585e323b267e11dac3bcd6595748577495925a03e2c40cd97e6d5",
+  "generated_at": "2026-09-10T03:19:32.831047+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2023-archives/archer-1408.cache/cache.20240306.tar.xz",
+      "sha256": "9d6503f0645e3eda909c1b18a16e3c1ed1269334b177de19db24f38894624ab4",
+      "size": 283020808
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-coverage-evidence/archer-1408.md",
+      "sha256": "ec3e7246efbd145782c53c83e1dabf07ad2dda5f3b3a6dd631c564bc066e0626",
+      "size": 1321
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-cache-stream-receipts/archer-1408.json",
+      "sha256": "f11206463697e8fb352983f5383ed1c7667af920348018d5ff22f6d90a5a78a8",
+      "size": 3182
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2023/data/txt/year-2023-day-product-receipts/archer-1408.json",
+      "sha256": "35c729c4e80c259284025aab601e735eae50da4d752bf8f4362b491f7c063f1f",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-control/worker-map.json",
+      "sha256": "e864ba3fd09529ade4eb408dd0b499ca4140a947c05f22298ce4c2cc75e000e2",
+      "size": 92658
+    }
+  },
+  "media_object": "archer-1408",
+  "published_files": {
+    "data/csv/bytes/archer-1408-cumulative-detail.2023-btiha-itemized-by-bytes.csv": "2ed494ba66f9920c3031cd39b0e54a5c71c09e018b282e3f96b7d16d10e35af5",
+    "docs/itemized/archer-1408-sample-cache-audit.md": "db0e93a2b20f20515c08b67b7b2c608e6eb75e42d63a93cecc3fb5b269186333",
+    "docs/itemized/figures/archer-1408-carto-4k.webp": "d335120c598a3f04b2499ad43ee6def808f4f46f9e11036fd41250ff264ec27e",
+    "docs/itemized/figures/archer-1408-carto.png": "148fc66492ac0ad412a2245c57c624b01c773ad57a43e55da44e46ec0169354c",
+    "docs/itemized/figures/archer-1408-cumulative-detail-btiha-itemized-by-bytes.svg": "873a284bf38c546b6bb5a822cabfcba938627703ed2053ac517669b672362c34",
+    "docs/itemized/figures/archer-1408-data-ge-1080p-4k.webp": "8d34fdef904b10bfc1548da1ba0be1f483ee9d40a62d2cd5055a75af527edde0",
+    "docs/itemized/figures/archer-1408-data-ge-1080p.webp": "b434af31d5d913ca7581a47f7d344d68f15618b3ee9f8f0fe4961077e23f0ac5",
+    "docs/itemized/figures/archer-1408-data-lt-1080p-4k.webp": "69fe79ffb731d7a985e87cc4e0d78713c16dcd0f298b09127f4f953aa9e07d61",
+    "docs/itemized/figures/archer-1408-data-lt-1080p.webp": "926f0944e02d89e150cba0396617d84a56d5fa3d05a74392d79696f17d773440",
+    "docs/itemized/figures/archer-1408-downloads-by-day-day.svg": "a7c74ce497b42ccf1f6e7b17efe059ee3389e9b914d7f6d62a5e45179bfaeef0",
+    "docs/itemized/figures/archer-1408-downloads-by-week-archer-1408-week.svg": "95f83558285e96e2df0b4e0b7aa09ddcecda12c667035924630c17f32d481616",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "21daf8c08351c5839fc1f111cd236d7bad686acc",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/archer-1408/tmp/archer-1408-cumulative-btiha.geojson",
+        "sha256": "d8d88b34258a7053a2c034698daea2bb356d27030a5337e257453659f5e9ece1",
+        "size": 77976905
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2023/archer-1408/tmp/archer-1408-cumulative-btiha-media-objects.json",
+        "sha256": "4db15794bacfc2fbf64da8616de6fcb6ae8a4a085057dc90f8bd6f6d0829cbae",
+        "size": 249372
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "archer-1408",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2023-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          63.0,
+          46.0,
+          45.0,
+          41.0,
+          33.0,
+          30.0,
+          28.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "Ashburn",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest",
+          "Mexico City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          46.0,
+          46.0,
+          41.0,
+          35.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Lelystad",
+          "Budapest",
+          "Mexico City",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 15,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "ae1c659c3c4d0a24d494e397698f6fbdd54f2467",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "05b850d2416b3ced3b0936500c3050bf74aaff95",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "77d26ebe9b8c27bf699bc026f8e5a68139788569"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2023"
+}
