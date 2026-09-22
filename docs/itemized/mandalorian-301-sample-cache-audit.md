@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-08-31T06:28:23Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/mandalorian-301.xz`
@@ -47,11 +47,11 @@ listed here.
 
 - hourly gap: last `2023-03-26 01:00`, resumed `2023-03-26 03:00` — missing 1 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Mandalorian collection size histogram](figures/mandalorian-301-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -74,24 +74,29 @@ listed here.
 
 ![mandalorian-301 downloads by day](figures/mandalorian-301-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2023/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2023/refs/heads/main/data/geojson.cumulative/mandalorian-301-cumulative-aggregate.geojson.gz" data-map-title="The Mandalorian — mandalorian-301" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Mandalorian (mandalorian-301) cumulative data map in new window" title="Opens interactive map for The Mandalorian (mandalorian-301) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 3.10 | 21.59 | 17.77 | 49.88 | 1.93 | 0.51 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Mandalorian cumulative map](figures/mandalorian-301-carto.png)](figures/mandalorian-301-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/mandalorian-301-data-ge-1080p.webp)](figures/mandalorian-301-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/mandalorian-301-data-lt-1080p.webp)](figures/mandalorian-301-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

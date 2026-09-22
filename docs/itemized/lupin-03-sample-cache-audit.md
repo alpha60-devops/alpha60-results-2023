@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-08-31T06:28:23Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/lupin-03.xz`
@@ -38,11 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 - hourly gap: last `2023-12-01 22:03`, resumed `2023-12-02 22:30` — missing 23 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Lupin collection size histogram](figures/lupin-03-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,24 +65,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![lupin-03 downloads by day](figures/lupin-03-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2023/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2023/refs/heads/main/data/geojson.cumulative/lupin-03-cumulative-aggregate.geojson.gz" data-map-title="Lupin — lupin-03" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Lupin (lupin-03) cumulative data map in new window" title="Opens interactive map for Lupin (lupin-03) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 3.30 | 21.29 | 18.25 | 54.47 | 0.67 | 0.47 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Lupin cumulative map](figures/lupin-03-carto.png)](figures/lupin-03-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/lupin-03-data-ge-1080p.webp)](figures/lupin-03-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/lupin-03-data-lt-1080p.webp)](figures/lupin-03-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
